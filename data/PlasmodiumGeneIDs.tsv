@@ -1,0 +1,1238 @@
+Gene ID	source_id	Organism	Genomic Location (Gene)	Product Description	Gene Type	Input ID
+PF3D7_0201900	PF3D7_0201900.1	P. falciparum 3D7	Pf3D7_02_v3:91,318..98,838(-)	erythrocyte membrane protein 3	protein coding	812615
+PF3D7_0202000	PF3D7_0202000.1	P. falciparum 3D7	Pf3D7_02_v3:103,385..105,796(-)	knob-associated histidine-rich protein	protein coding	812616
+PF3D7_0202200	PF3D7_0202200.1	P. falciparum 3D7	Pf3D7_02_v3:112,547..113,682(-)	EMP1-trafficking protein	protein coding	812618
+PF3D7_0202400	PF3D7_0202400.1	P. falciparum 3D7	Pf3D7_02_v3:120,524..124,102(+)	translation-enhancing factor	protein coding	812620
+PF3D7_0202500	PF3D7_0202500.1	P. falciparum 3D7	Pf3D7_02_v3:127,994..128,314(+)	early transcribed membrane protein 2	protein coding	812621
+PF3D7_0202600	PF3D7_0202600.1	P. falciparum 3D7	Pf3D7_02_v3:129,342..133,563(-)	nucleic acid binding protein, putative	protein coding	812622
+PF3D7_0202600	PF3D7_0202600.2	P. falciparum 3D7	Pf3D7_02_v3:129,342..133,563(-)	nucleic acid binding protein, putative	protein coding	812622
+PF3D7_0203000	PF3D7_0203000.1	P. falciparum 3D7	Pf3D7_02_v3:141,625..147,564(-)	repetitive organellar protein, putative	protein coding	812625
+PF3D7_0203700	PF3D7_0203700.1	P. falciparum 3D7	Pf3D7_02_v3:168,682..170,136(-)	protein MAK16, putative	protein coding	812630
+PF3D7_0204100	PF3D7_0204100.1	P. falciparum 3D7	Pf3D7_02_v3:182,228..189,115(-)	Sel1 repeat-containing protein, putative	protein coding	812635
+PF3D7_0204200	PF3D7_0204200.1	P. falciparum 3D7	Pf3D7_02_v3:192,818..194,199(+)	conserved Plasmodium protein, unknown function	protein coding	812636
+PF3D7_0204300	PF3D7_0204300.1	P. falciparum 3D7	Pf3D7_02_v3:194,826..196,916(-)	conserved Plasmodium protein, unknown function	protein coding	812637
+PF3D7_0205100	PF3D7_0205100.1	P. falciparum 3D7	Pf3D7_02_v3:214,838..217,348(-)	conserved Plasmodium protein, unknown function	protein coding	812644
+PF3D7_0205900	PF3D7_0205900.1	P. falciparum 3D7	Pf3D7_02_v3:235,237..238,816(+)	26S proteasome regulatory subunit RPN1, putative	protein coding	812651
+PF3D7_0206300	PF3D7_0206300.1	P. falciparum 3D7	Pf3D7_02_v3:252,394..262,443(+)	pentafunctional AROM polypeptide, putative, pseudogene	protein coding	812656
+PF3D7_0206800	PF3D7_0206800.1	P. falciparum 3D7	Pf3D7_02_v3:273,689..274,507(-)	merozoite surface protein 2	protein coding	812660
+PF3D7_0207000	PF3D7_0207000.1	P. falciparum 3D7	Pf3D7_02_v3:277,494..278,456(-)	merozoite surface protein 4	protein coding	812662
+PF3D7_0207400	PF3D7_0207400.1	P. falciparum 3D7	Pf3D7_02_v3:294,273..297,616(-)	serine repeat antigen 7	protein coding	812666
+PF3D7_0207500	PF3D7_0207500.1	P. falciparum 3D7	Pf3D7_02_v3:298,897..302,564(-)	serine repeat antigen 6	protein coding	812667
+PF3D7_0207600	PF3D7_0207600.1	P. falciparum 3D7	Pf3D7_02_v3:303,593..307,027(-)	serine repeat antigen 5	protein coding	812668
+PF3D7_0207700	PF3D7_0207700.1	P. falciparum 3D7	Pf3D7_02_v3:308,847..312,155(-)	serine repeat antigen 4	protein coding	812669
+PF3D7_0208200	PF3D7_0208200.1	P. falciparum 3D7	Pf3D7_02_v3:335,679..336,581(-)	KRR1 small subunit processome component, putative	protein coding	812674
+PF3D7_0208400	PF3D7_0208400.1	P. falciparum 3D7	Pf3D7_02_v3:343,308..349,340(-)	conserved Plasmodium protein, unknown function	protein coding	812676
+PF3D7_0208600	PF3D7_0208600.1	P. falciparum 3D7	Pf3D7_02_v3:354,621..356,117(+)	ribosome-recycling factor	protein coding	812678
+PF3D7_0209300	PF3D7_0209300.1	P. falciparum 3D7	Pf3D7_02_v3:387,273..388,151(+)	2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	protein coding	812685
+PF3D7_0210700	PF3D7_0210700.1	P. falciparum 3D7	Pf3D7_02_v3:436,050..436,994(+)	syntaxin, Qa-SNARE family	protein coding	812696
+PF3D7_0210900	PF3D7_0210900.1	P. falciparum 3D7	Pf3D7_02_v3:442,080..442,934(-)	conserved Plasmodium protein, unknown function	protein coding	812698
+PF3D7_0212100	PF3D7_0212100.1	P. falciparum 3D7	Pf3D7_02_v3:483,436..488,970(+)	conserved Plasmodium protein, unknown function	protein coding	812709
+PF3D7_0213100	PF3D7_0213100.1	P. falciparum 3D7	Pf3D7_02_v3:537,789..539,420(+)	protein SIS1	protein coding	812719
+PF3D7_0213700	PF3D7_0213700.1	P. falciparum 3D7	Pf3D7_02_v3:557,048..557,696(+)	conserved protein, unknown function	protein coding	812724
+PF3D7_0214100	PF3D7_0214100.1	P. falciparum 3D7	Pf3D7_02_v3:568,529..573,315(-)	protein transport protein SEC31	protein coding	812728
+PF3D7_0214400	PF3D7_0214400.1	P. falciparum 3D7	Pf3D7_02_v3:586,765..589,051(-)	conserved protein, unknown function	protein coding	812731
+PF3D7_0214700	PF3D7_0214700.1	P. falciparum 3D7	Pf3D7_02_v3:599,829..601,712(-)	conserved Plasmodium protein, unknown function	protein coding	812734
+PF3D7_0214900	PF3D7_0214900.1	P. falciparum 3D7	Pf3D7_02_v3:610,625..615,372(+)	rhoptry neck protein 6	protein coding	812736
+PF3D7_0215600	PF3D7_0215600.1	P. falciparum 3D7	Pf3D7_02_v3:643,106..644,317(-)	conserved Plasmodium protein, unknown function	protein coding	812743
+PF3D7_0216100	PF3D7_0216100.1	P. falciparum 3D7	Pf3D7_02_v3:664,984..668,532(-)	conserved Plasmodium protein, unknown function	protein coding	812748
+PF3D7_0216600	PF3D7_0216600.1	P. falciparum 3D7	Pf3D7_02_v3:686,485..688,545(+)	MtN3-like protein	protein coding	812752
+PF3D7_0216700	PF3D7_0216700.1	P. falciparum 3D7	Pf3D7_02_v3:690,311..695,783(+)	autophagy-related protein 11, putative	protein coding	812753
+PF3D7_0216700	PF3D7_0216700.2	P. falciparum 3D7	Pf3D7_02_v3:690,311..695,783(+)	autophagy-related protein 11, putative	protein coding	812753
+PF3D7_0217500	PF3D7_0217500.1	P. falciparum 3D7	Pf3D7_02_v3:720,437..722,661(+)	calcium-dependent protein kinase 1	protein coding	812762
+PF3D7_0218600	PF3D7_0218600.1	P. falciparum 3D7	Pf3D7_02_v3:755,418..762,560(+)	patatin-like phospholipase, putative	protein coding	812772
+PF3D7_0219100	PF3D7_0219100.1	P. falciparum 3D7	Pf3D7_02_v3:769,761..771,041(+)	saccharopine dehydrogenase, putative	protein coding	812774
+PF3D7_0220000	PF3D7_0220000.1	P. falciparum 3D7	Pf3D7_02_v3:796,752..801,586(+)	liver stage antigen 3	protein coding	812783
+PF3D7_0220100	PF3D7_0220100.1	P. falciparum 3D7	Pf3D7_02_v3:804,520..807,741(+)	DnaJ protein, putative	protein coding	812784
+PF3D7_0220800	PF3D7_0220800.1	P. falciparum 3D7	Pf3D7_02_v3:838,843..844,116(+)	cytoadherence linked asexual protein 2	protein coding	812791
+PF3D7_0300100	PF3D7_0300100.1	P. falciparum 3D7	Pf3D7_03_v3:36,965..44,482(+)	erythrocyte membrane protein 1, PfEMP1	protein coding	814321
+PF3D7_0301600	PF3D7_0301600.1	P. falciparum 3D7	Pf3D7_03_v3:91,115..93,463(-)	Plasmodium exported protein (hyp1), unknown function	protein coding	9221772
+PF3D7_0302000	PF3D7_0302000.1	P. falciparum 3D7	Pf3D7_03_v3:107,961..109,880(-)	pre-mRNA-splicing factor PRP46, putative	protein coding	814338
+PF3D7_0302100	PF3D7_0302100.1	P. falciparum 3D7	Pf3D7_03_v3:114,070..118,086(+)	serine/threonine protein kinase	protein coding	814339
+PF3D7_0302500	PF3D7_0302500.1	P. falciparum 3D7	Pf3D7_03_v3:135,418..140,660(+)	cytoadherence linked asexual protein 3.1	protein coding	814342
+PF3D7_0302600	PF3D7_0302600.1	P. falciparum 3D7	Pf3D7_03_v3:141,556..145,653(+)	ABC transporter B family member 4, putative	protein coding	814343
+PF3D7_0303200	PF3D7_0303200.1	P. falciparum 3D7	Pf3D7_03_v3:169,571..174,300(+)	HAD superfamily protein, putative	protein coding	814349
+PF3D7_0303300	PF3D7_0303300.1	P. falciparum 3D7	Pf3D7_03_v3:175,022..175,799(-)	DNA-directed RNA polymerases I, II, and III subunit RPABC2, putative	protein coding	814350
+PF3D7_0303500	PF3D7_0303500.1	P. falciparum 3D7	Pf3D7_03_v3:182,731..189,411(+)	spindle pole body protein, putative	protein coding	814352
+PF3D7_0303700	PF3D7_0303700.1	P. falciparum 3D7	Pf3D7_03_v3:191,245..192,591(-)	lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex	protein coding	814354
+PF3D7_0303800	PF3D7_0303800.1	P. falciparum 3D7	Pf3D7_03_v3:194,430..196,211(+)	IBR domain protein, putative	protein coding	814355
+PF3D7_0305200	PF3D7_0305200.1	P. falciparum 3D7	Pf3D7_03_v3:251,242..254,661(+)	conserved Plasmodium protein, unknown function	protein coding	814370
+PF3D7_0305500	PF3D7_0305500.1	P. falciparum 3D7	Pf3D7_03_v3:261,485..273,286(-)	conserved Plasmodium protein, unknown function	protein coding	814373
+PF3D7_0305700	PF3D7_0305700.1	P. falciparum 3D7	Pf3D7_03_v3:278,956..279,828(-)	ubiquitin-conjugating enzyme E2, putative	protein coding	814375
+PF3D7_0306100	PF3D7_0306100.1	P. falciparum 3D7	Pf3D7_03_v3:288,637..290,747(-)	conserved Plasmodium protein, unknown function	protein coding	814379
+PF3D7_0306200	PF3D7_0306200.1	P. falciparum 3D7	Pf3D7_03_v3:292,943..294,548(+)	activator of Hsp90 ATPase	protein coding	814380
+PF3D7_0306800	PF3D7_0306800.1	P. falciparum 3D7	Pf3D7_03_v3:306,108..307,984(-)	T-complex protein 1 subunit beta	protein coding	814386
+PF3D7_0307500	PF3D7_0307500.1	P. falciparum 3D7	Pf3D7_03_v3:322,933..324,836(-)	spindle and kinetochore-associated protein 2, putative	protein coding	814392
+PF3D7_0307600	PF3D7_0307600.1	P. falciparum 3D7	Pf3D7_03_v3:325,922..328,383(+)	conserved Plasmodium protein, unknown function	protein coding	814393
+PF3D7_0307700	PF3D7_0307700.1	P. falciparum 3D7	Pf3D7_03_v3:328,787..335,269(-)	conserved Plasmodium protein, unknown function	protein coding	814394
+PF3D7_0307800	PF3D7_0307800.1	P. falciparum 3D7	Pf3D7_03_v3:337,179..339,278(+)	conserved Plasmodium protein, unknown function	protein coding	814395
+PF3D7_0308100	PF3D7_0308100.1	P. falciparum 3D7	Pf3D7_03_v3:356,319..361,454(+)	zinc finger protein, putative	protein coding	814398
+PF3D7_0308200	PF3D7_0308200.1	P. falciparum 3D7	Pf3D7_03_v3:362,342..364,233(-)	T-complex protein 1 subunit eta	protein coding	814399
+PF3D7_0308500	PF3D7_0308500.1	P. falciparum 3D7	Pf3D7_03_v3:369,925..370,789(+)	activator of Hsp90 ATPase, putative	protein coding	814401
+PF3D7_0308600	PF3D7_0308600.1	P. falciparum 3D7	Pf3D7_03_v3:372,632..374,230(+)	pre-mRNA-processing factor 19, putative	protein coding	814402
+PF3D7_0308700	PF3D7_0308700.1	P. falciparum 3D7	Pf3D7_03_v3:375,806..377,437(+)	conserved protein, unknown function	protein coding	814403
+PF3D7_0308900	PF3D7_0308900.1	P. falciparum 3D7	Pf3D7_03_v3:379,130..383,290(-)	splicing factor 3B subunit 1, putative	protein coding	814405
+PF3D7_0309300	PF3D7_0309300.1	P. falciparum 3D7	Pf3D7_03_v3:397,649..400,516(+)	N2227-like protein, putative	protein coding	814409
+PF3D7_0309600	PF3D7_0309600.1	P. falciparum 3D7	Pf3D7_03_v3:407,980..408,318(+)	60S acidic ribosomal protein P2	protein coding	814411
+PF3D7_0309700	PF3D7_0309700.1	P. falciparum 3D7	Pf3D7_03_v3:409,102..410,928(-)	SECIS-binding protein 2, putative	protein coding	814412
+PF3D7_0310200	PF3D7_0310200.1	P. falciparum 3D7	Pf3D7_03_v3:427,290..440,942(+)	phd finger protein, putative	protein coding	814417
+PF3D7_0310300	PF3D7_0310300.1	P. falciparum 3D7	Pf3D7_03_v3:442,720..446,457(+)	phosphoglycerate mutase, putative	protein coding	9221775
+PF3D7_0310400	PF3D7_0310400.1	P. falciparum 3D7	Pf3D7_03_v3:447,500..451,384(+)	parasite-infected erythrocyte surface protein	protein coding	814419
+PF3D7_0310500	PF3D7_0310500.1	P. falciparum 3D7	Pf3D7_03_v3:452,297..459,106(-)	ATP-dependent RNA helicase DHX57, putative	protein coding	814420
+PF3D7_0310900	PF3D7_0310900.1	P. falciparum 3D7	Pf3D7_03_v3:466,085..468,445(+)	conserved Plasmodium protein, unknown function	protein coding	814424
+PF3D7_0311100	PF3D7_0311100.1	P. falciparum 3D7	Pf3D7_03_v3:470,860..473,161(-)	pre-mRNA splicing factor, putative	protein coding	814426
+PF3D7_0312400	PF3D7_0312400.1	P. falciparum 3D7	Pf3D7_03_v3:524,154..526,439(-)	glycogen synthase kinase 3	protein coding	814439
+PF3D7_0312800	PF3D7_0312800.1	P. falciparum 3D7	Pf3D7_03_v3:534,239..535,238(+)	60S ribosomal protein L26, putative	protein coding	814443
+PF3D7_0313100	PF3D7_0313100.1	P. falciparum 3D7	Pf3D7_03_v3:539,743..542,810(+)	ubiquitin-protein ligase, putative	protein coding	814446
+PF3D7_0313200	PF3D7_0313200.1	P. falciparum 3D7	Pf3D7_03_v3:543,241..543,942(-)	conserved protein, unknown function	protein coding	814447
+PF3D7_0313400	PF3D7_0313400.1	P. falciparum 3D7	Pf3D7_03_v3:545,828..548,182(-)	conserved Plasmodium protein, unknown function	protein coding	814448
+PF3D7_0316500	PF3D7_0316500.1	P. falciparum 3D7	Pf3D7_03_v3:667,006..668,391(+)	kinetochore protein NUF2, putative	protein coding	814479
+PF3D7_0317200	PF3D7_0317200.1	P. falciparum 3D7	Pf3D7_03_v3:690,154..694,815(-)	cdc2-related protein kinase 4	protein coding	814486
+PF3D7_0317300	PF3D7_0317300.1	P. falciparum 3D7	Pf3D7_03_v3:699,544..709,728(-)	conserved Plasmodium protein, unknown function	protein coding	814487
+PF3D7_0317600	PF3D7_0317600.1	P. falciparum 3D7	Pf3D7_03_v3:725,015..726,130(+)	40S ribosomal protein S11, putative	protein coding	814490
+PF3D7_0318200	PF3D7_0318200.1	P. falciparum 3D7	Pf3D7_03_v3:748,465..755,838(+)	DNA-directed RNA polymerase II subunit RPB1	protein coding	814496
+PF3D7_0319500	PF3D7_0319500.1	P. falciparum 3D7	Pf3D7_03_v3:815,569..816,855(+)	RNA-binding protein, putative	protein coding	814509
+PF3D7_0319600	PF3D7_0319600.1	P. falciparum 3D7	Pf3D7_03_v3:817,913..818,695(+)	elongation factor 1-delta, putative	protein coding	814510
+PF3D7_0319700	PF3D7_0319700.1	P. falciparum 3D7	Pf3D7_03_v3:820,708..830,802(+)	ABC transporter I family member 1, putative	protein coding	814511
+PF3D7_0320900	PF3D7_0320900.1	P. falciparum 3D7	Pf3D7_03_v3:875,213..876,295(+)	histone H2A.Z	protein coding	814523
+PF3D7_0321000	PF3D7_0321000.1	P. falciparum 3D7	Pf3D7_03_v3:877,735..879,511(+)	conserved protein, unknown function	protein coding	814524
+PF3D7_0321100	PF3D7_0321100.1	P. falciparum 3D7	Pf3D7_03_v3:879,959..885,493(-)	conserved Plasmodium protein, unknown function	protein coding	814525
+PF3D7_0321600	PF3D7_0321600.1	P. falciparum 3D7	Pf3D7_03_v3:900,857..903,369(+)	ATP-dependent RNA helicase DDX42, putative	protein coding	814530
+PF3D7_0321700	PF3D7_0321700.1	P. falciparum 3D7	Pf3D7_03_v3:903,764..910,118(-)	conserved Plasmodium protein, unknown function	protein coding	814531
+PF3D7_0321800	PF3D7_0321800.1	P. falciparum 3D7	Pf3D7_03_v3:912,916..921,036(+)	WD repeat-containing protein, putative	protein coding	814532
+PF3D7_0322000	PF3D7_0322000.1	P. falciparum 3D7	Pf3D7_03_v3:928,644..929,159(-)	peptidyl-prolyl cis-trans isomerase	protein coding	814534
+PF3D7_0322100	PF3D7_0322100.1	P. falciparum 3D7	Pf3D7_03_v3:930,640..932,415(-)	mRNA-capping enzyme subunit beta	protein coding	9221789
+PF3D7_0323400	PF3D7_0323400.1	P. falciparum 3D7	Pf3D7_03_v3:980,706..983,966(-)	Rh5 interacting protein	protein coding	814549
+PF3D7_0323700	PF3D7_0323700.1	P. falciparum 3D7	Pf3D7_03_v3:991,544..993,625(-)	U4/U6.U5 tri-snRNP-associated protein 1, putative	protein coding	814552
+PF3D7_0400100	PF3D7_0400100.1	P. falciparum 3D7	Pf3D7_04_v3:28,706..37,677(+)	erythrocyte membrane protein 1, PfEMP1	protein coding	812552
+PF3D7_0401600	PF3D7_0401600.1	P. falciparum 3D7	Pf3D7_04_v3:92,576..93,809(-)	rifin	protein coding	812534
+PF3D7_0401600	PF3D7_0401600.2	P. falciparum 3D7	Pf3D7_04_v3:92,576..93,809(-)	rifin	protein coding	812534
+PF3D7_0401800	PF3D7_0401800.1	P. falciparum 3D7	Pf3D7_04_v3:103,742..105,603(-)	Plasmodium exported protein (PHISTb), unknown function	protein coding	812531
+PF3D7_0402000	PF3D7_0402000.1	P. falciparum 3D7	Pf3D7_04_v3:114,601..116,058(-)	Plasmodium exported protein (PHISTa), unknown function	protein coding	812529
+PF3D7_0402200	PF3D7_0402200.1	P. falciparum 3D7	Pf3D7_04_v3:127,712..134,468(-)	surface-associated interspersed protein 4.1 (SURFIN 4.1), pseudogene	protein coding	812527
+PF3D7_0403200	PF3D7_0403200.1	P. falciparum 3D7	Pf3D7_04_v3:178,518..180,200(+)	pre-mRNA splicing factor, putative	protein coding	812590
+PF3D7_0404400	PF3D7_0404400.1	P. falciparum 3D7	Pf3D7_04_v3:238,360..239,499(-)	6-cysteine protein P36	protein coding	812450
+PF3D7_0404600	PF3D7_0404600.1	P. falciparum 3D7	Pf3D7_04_v3:247,731..260,147(+)	conserved Plasmodium membrane protein, unknown function	protein coding	812451
+PF3D7_0404700	PF3D7_0404700.1	P. falciparum 3D7	Pf3D7_04_v3:260,454..263,418(-)	dipeptidyl aminopeptidase 3	protein coding	812449
+PF3D7_0404800	PF3D7_0404800.1	P. falciparum 3D7	Pf3D7_04_v3:264,305..266,170(-)	conserved Plasmodium protein, unknown function	protein coding	812444
+PF3D7_0404900	PF3D7_0404900.1	P. falciparum 3D7	Pf3D7_04_v3:267,244..268,380(-)	6-cysteine protein P41	protein coding	812447
+PF3D7_0405200	PF3D7_0405200.1	P. falciparum 3D7	Pf3D7_04_v3:279,072..281,983(+)	ag-1 blood stage membrane protein homologue	protein coding	812431
+PF3D7_0405400	PF3D7_0405400.1	P. falciparum 3D7	Pf3D7_04_v3:291,251..300,976(+)	pre-mRNA-processing-splicing factor 8, putative	protein coding	812426
+PF3D7_0405900	PF3D7_0405900.1	P. falciparum 3D7	Pf3D7_04_v3:316,540..319,178(-)	apical sushi protein	protein coding	812414
+PF3D7_0406000	PF3D7_0406000.1	P. falciparum 3D7	Pf3D7_04_v3:321,019..322,545(+)	conserved protein, unknown function	protein coding	812408
+PF3D7_0406200	PF3D7_0406200.1	P. falciparum 3D7	Pf3D7_04_v3:329,216..329,689(+)	sexual stage-specific protein precursor	protein coding	812396
+PF3D7_0406500	PF3D7_0406500.1	P. falciparum 3D7	Pf3D7_04_v3:334,282..344,054(-)	NYN domain-containing protein, putative	protein coding	812391
+PF3D7_0407700	PF3D7_0407700.1	P. falciparum 3D7	Pf3D7_04_v3:377,481..383,087(-)	conserved Plasmodium protein, unknown function	protein coding	812365
+PF3D7_0407800	PF3D7_0407800.1	P. falciparum 3D7	Pf3D7_04_v3:384,924..390,806(+)	conserved Plasmodium protein, unknown function	protein coding	812363
+PF3D7_0407900	PF3D7_0407900.1	P. falciparum 3D7	Pf3D7_04_v3:391,347..393,350(-)	AAA family ATPase, putative	protein coding	812364
+PF3D7_0408100	PF3D7_0408100.1	P. falciparum 3D7	Pf3D7_04_v3:397,328..400,693(+)	conserved Plasmodium protein, unknown function	protein coding	812362
+PF3D7_0408500	PF3D7_0408500.1	P. falciparum 3D7	Pf3D7_04_v3:408,679..410,697(-)	flap endonuclease 1	protein coding	812356
+PF3D7_0408900	PF3D7_0408900.1	P. falciparum 3D7	Pf3D7_04_v3:424,300..427,194(+)	tRNA N6-adenosine threonylcarbamoyltransferase	protein coding	812544
+PF3D7_0408900	PF3D7_0408900.2	P. falciparum 3D7	Pf3D7_04_v3:424,300..427,194(+)	tRNA N6-adenosine threonylcarbamoyltransferase	protein coding	812544
+PF3D7_0409100	PF3D7_0409100.1	P. falciparum 3D7	Pf3D7_04_v3:436,217..437,981(-)	U4/U6 small nuclear ribonucleoprotein PRP31, putative	protein coding	812409
+PF3D7_0409800	PF3D7_0409800.1	P. falciparum 3D7	Pf3D7_04_v3:459,710..461,437(+)	zinc finger protein, putative	protein coding	812387
+PF3D7_0410000	PF3D7_0410000.1	P. falciparum 3D7	Pf3D7_04_v3:464,732..467,339(-)	erythrocyte vesicle protein 1	protein coding	812383
+PF3D7_0410600	PF3D7_0410600.1	P. falciparum 3D7	Pf3D7_04_v3:479,028..480,468(+)	conserved protein, unknown function	protein coding	812381
+PF3D7_0410800	PF3D7_0410800.1	P. falciparum 3D7	Pf3D7_04_v3:485,832..489,728(+)	conserved Plasmodium protein, unknown function	protein coding	812377
+PF3D7_0411000	PF3D7_0411000.1	P. falciparum 3D7	Pf3D7_04_v3:499,168..503,880(+)	conserved Plasmodium protein, unknown function	protein coding	812375
+PF3D7_0411300	PF3D7_0411300.1	P. falciparum 3D7	Pf3D7_04_v3:510,380..512,548(+)	conserved Plasmodium protein, unknown function	protein coding	9221799
+PF3D7_0413600	PF3D7_0413600.1	P. falciparum 3D7	Pf3D7_04_v3:616,914..618,350(-)	26S protease regulatory subunit 6B, putative	protein coding	812570
+PF3D7_0413900	PF3D7_0413900.1	P. falciparum 3D7	Pf3D7_04_v3:623,168..626,226(-)	ubiquitin carboxyl-terminal hydrolase 13, putative	protein coding	812575
+PF3D7_0414000	PF3D7_0414000.1	P. falciparum 3D7	Pf3D7_04_v3:626,891..633,126(-)	structural maintenance of chromosomes protein 3, putative	protein coding	812569
+PF3D7_0415200	PF3D7_0415200.1	P. falciparum 3D7	Pf3D7_04_v3:672,500..679,138(-)	conserved Plasmodium protein, unknown function	protein coding	812556
+PF3D7_0415300	PF3D7_0415300.1	P. falciparum 3D7	Pf3D7_04_v3:681,810..685,968(+)	cdc2-related protein kinase 3	protein coding	812558
+PF3D7_0415800	PF3D7_0415800.1	P. falciparum 3D7	Pf3D7_04_v3:693,906..696,533(+)	RING zinc finger protein, putative	protein coding	812545
+PF3D7_0415900	PF3D7_0415900.1	P. falciparum 3D7	Pf3D7_04_v3:697,918..698,768(-)	60S ribosomal protein L15, putative	protein coding	9221802
+PF3D7_0416000	PF3D7_0416000.1	P. falciparum 3D7	Pf3D7_04_v3:701,526..704,162(-)	RNA-binding protein, putative	protein coding	812542
+PF3D7_0416200	PF3D7_0416200.1	P. falciparum 3D7	Pf3D7_04_v3:709,460..710,083(-)	conserved protein, unknown function	protein coding	812541
+PF3D7_0416400	PF3D7_0416400.1	P. falciparum 3D7	Pf3D7_04_v3:718,202..722,654(+)	histone acetyltransferase, putative	protein coding	812538
+PF3D7_0417300	PF3D7_0417300.1	P. falciparum 3D7	Pf3D7_04_v3:750,860..753,712(-)	LETM1-like protein, putative	protein coding	812521
+PF3D7_0418100	PF3D7_0418100.1	P. falciparum 3D7	Pf3D7_04_v3:810,995..814,642(-)	protein SOC1, putative	protein coding	812513
+PF3D7_0418300	PF3D7_0418300.1	P. falciparum 3D7	Pf3D7_04_v3:819,362..822,340(-)	conserved Plasmodium protein, unknown function	protein coding	812511
+PF3D7_0418600	PF3D7_0418600.1	P. falciparum 3D7	Pf3D7_04_v3:834,394..840,429(+)	regulator of chromosome condensation, putative	protein coding	812503
+PF3D7_0419400	PF3D7_0419400.1	P. falciparum 3D7	Pf3D7_04_v3:857,998..865,957(+)	conserved Plasmodium protein, unknown function	protein coding	812490
+PF3D7_0419600	PF3D7_0419600.1	P. falciparum 3D7	Pf3D7_04_v3:870,737..871,873(+)	ran-specific GTPase-activating protein 1, putative	protein coding	812489
+PF3D7_0420000	PF3D7_0420000.1	P. falciparum 3D7	Pf3D7_04_v3:894,612..904,724(-)	zinc finger protein, putative	protein coding	812483
+PF3D7_0420300	PF3D7_0420300.1	P. falciparum 3D7	Pf3D7_04_v3:917,990..928,411(+)	AP2 domain transcription factor, putative	protein coding	812480
+PF3D7_0422200	PF3D7_0422200.1	P. falciparum 3D7	Pf3D7_04_v3:1,004,462..1,017,247(-)	erythrocyte membrane-associated antigen	protein coding	812467
+PF3D7_0422400	PF3D7_0422400.1	P. falciparum 3D7	Pf3D7_04_v3:1,026,648..1,027,399(+)	40S ribosomal protein S19	protein coding	812460
+PF3D7_0422500	PF3D7_0422500.1	P. falciparum 3D7	Pf3D7_04_v3:1,029,329..1,037,953(+)	pre-mRNA-splicing helicase BRR2, putative	protein coding	812456
+PF3D7_0422900	PF3D7_0422900.1	P. falciparum 3D7	Pf3D7_04_v3:1,045,381..1,046,696(+)	methyltransferase, putative	protein coding	812452
+PF3D7_0423600	PF3D7_0423600.1	P. falciparum 3D7	Pf3D7_04_v3:1,061,790..1,066,628(-)	conserved Plasmodium protein, unknown function	protein coding	812438
+PF3D7_0424000	PF3D7_0424000.1	P. falciparum 3D7	Pf3D7_04_v3:1,080,959..1,082,189(+)	Plasmodium exported protein (PHISTc), unknown function	protein coding	812434
+PF3D7_0424300	PF3D7_0424300.1	P. falciparum 3D7	Pf3D7_04_v3:1,093,138..1,097,835(+)	erythrocyte binding antigen-165, pseudogene	protein coding	812436
+PF3D7_0424700	PF3D7_0424700.1	P. falciparum 3D7	Pf3D7_04_v3:1,118,430..1,122,414(+)	serine/threonine protein kinase, FIKK family	protein coding	812427
+PF3D7_0424900	PF3D7_0424900.1	P. falciparum 3D7	Pf3D7_04_v3:1,127,779..1,128,802(+)	Plasmodium exported protein (PHISTa), unknown function	protein coding	812425
+PF3D7_0500800	PF3D7_0500800.1	P. falciparum 3D7	Pf3D7_05_v3:43,327..47,761(-)	mature parasite-infected erythrocyte surface antigen	protein coding	812891
+PF3D7_0501000	PF3D7_0501000.1	P. falciparum 3D7	Pf3D7_05_v3:55,841..56,872(+)	Plasmodium exported protein, unknown function	protein coding	812887
+PF3D7_0501200	PF3D7_0501200.1	P. falciparum 3D7	Pf3D7_05_v3:64,065..65,489(+)	parasite-infected erythrocyte surface protein	protein coding	812877
+PF3D7_0501300	PF3D7_0501300.1	P. falciparum 3D7	Pf3D7_05_v3:68,930..70,113(+)	skeleton-binding protein 1	protein coding	812874
+PF3D7_0501400	PF3D7_0501400.1	P. falciparum 3D7	Pf3D7_05_v3:74,509..79,842(+)	interspersed repeat antigen	protein coding	812870
+PF3D7_0501900	PF3D7_0501900.1	P. falciparum 3D7	Pf3D7_05_v3:95,161..96,633(-)	conserved protein, unknown function	protein coding	812862
+PF3D7_0502000	PF3D7_0502000.1	P. falciparum 3D7	Pf3D7_05_v3:97,657..101,895(+)	vacuolar protein sorting-associated protein 11, putative	protein coding	812859
+PF3D7_0502700	PF3D7_0502700.1	P. falciparum 3D7	Pf3D7_05_v3:120,107..121,455(-)	conserved protein, unknown function	protein coding	812844
+PF3D7_0503200	PF3D7_0503200.1	P. falciparum 3D7	Pf3D7_05_v3:130,453..133,392(+)	conserved Plasmodium protein, unknown function	protein coding	812928
+PF3D7_0503300	PF3D7_0503300.1	P. falciparum 3D7	Pf3D7_05_v3:135,004..135,930(-)	serine/arginine-rich splicing factor 12	protein coding	812926
+PF3D7_0503800	PF3D7_0503800.1	P. falciparum 3D7	Pf3D7_05_v3:151,422..152,384(-)	60S ribosomal protein L31	protein coding	812922
+PF3D7_0504000	PF3D7_0504000.1	P. falciparum 3D7	Pf3D7_05_v3:157,625..164,968(+)	cation transporting P-ATPase	protein coding	812921
+PF3D7_0504700	PF3D7_0504700.1	P. falciparum 3D7	Pf3D7_05_v3:180,421..187,470(+)	centrosomal protein CEP120, putative	protein coding	812929
+PF3D7_0504800	PF3D7_0504800.1	P. falciparum 3D7	Pf3D7_05_v3:187,813..204,732(-)	conserved Plasmodium protein, unknown function	protein coding	9221852
+PF3D7_0505000	PF3D7_0505000.1	P. falciparum 3D7	Pf3D7_05_v3:209,062..218,189(-)	MMS19-like protein, putative	protein coding	812909
+PF3D7_0505700	PF3D7_0505700.1	P. falciparum 3D7	Pf3D7_05_v3:247,801..250,575(-)	conserved Plasmodium membrane protein, unknown function	protein coding	812903
+PF3D7_0505800	PF3D7_0505800.1	P. falciparum 3D7	Pf3D7_05_v3:252,047..252,606(-)	small ubiquitin-related modifier	protein coding	812904
+PF3D7_0505900	PF3D7_0505900.1	P. falciparum 3D7	Pf3D7_05_v3:254,473..255,517(-)	mediator of RNA polymerase II transcription subunit 11, putative	protein coding	812902
+PF3D7_0507100	PF3D7_0507100.1	P. falciparum 3D7	Pf3D7_05_v3:294,668..295,903(-)	60S ribosomal protein L4	protein coding	812881
+PF3D7_0507600	PF3D7_0507600.1	P. falciparum 3D7	Pf3D7_05_v3:313,199..315,157(+)	protein CAF40, putative	protein coding	812876
+PF3D7_0507800	PF3D7_0507800.1	P. falciparum 3D7	Pf3D7_05_v3:322,239..326,822(+)	conserved protein, unknown function	protein coding	812873
+PF3D7_0508000	PF3D7_0508000.1	P. falciparum 3D7	Pf3D7_05_v3:328,666..329,715(-)	6-cysteine protein	protein coding	812868
+PF3D7_0508700	PF3D7_0508700.1	P. falciparum 3D7	Pf3D7_05_v3:358,261..362,733(+)	pre-mRNA-processing ATP-dependent RNA helicase PRP5, putative	protein coding	812854
+PF3D7_0508900	PF3D7_0508900.1	P. falciparum 3D7	Pf3D7_05_v3:367,022..376,426(+)	conserved Plasmodium protein, unknown function	protein coding	812856
+PF3D7_0509100	PF3D7_0509100.1	P. falciparum 3D7	Pf3D7_05_v3:381,077..386,203(+)	structural maintenance of chromosomes protein 4, putative	protein coding	812851
+PF3D7_0509400	PF3D7_0509400.1	P. falciparum 3D7	Pf3D7_05_v3:389,914..398,997(-)	RNA polymerase I	protein coding	812845
+PF3D7_0509800	PF3D7_0509800.1	P. falciparum 3D7	Pf3D7_05_v3:410,268..415,308(+)	phosphatidylinositol 4-kinase	protein coding	812838
+PF3D7_0510100	PF3D7_0510100.1	P. falciparum 3D7	Pf3D7_05_v3:422,746..430,353(-)	conserved protein, unknown function	protein coding	812835
+PF3D7_0511000	PF3D7_0511000.1	P. falciparum 3D7	Pf3D7_05_v3:467,585..468,100(-)	translationally-controlled tumor protein homolog	protein coding	812831
+PF3D7_0511500	PF3D7_0511500.1	P. falciparum 3D7	Pf3D7_05_v3:486,602..516,787(+)	RNA pseudouridylate synthase, putative	protein coding	812939
+PF3D7_0511800	PF3D7_0511800.1	P. falciparum 3D7	Pf3D7_05_v3:520,720..522,693(-)	inositol-3-phosphate synthase	protein coding	812935
+PF3D7_0512000	PF3D7_0512000.1	P. falciparum 3D7	Pf3D7_05_v3:527,639..528,666(+)	prefoldin subunit 6, putative	protein coding	812934
+PF3D7_0513300	PF3D7_0513300.1	P. falciparum 3D7	Pf3D7_05_v3:569,182..569,919(-)	purine nucleoside phosphorylase	protein coding	812947
+PF3D7_0513600	PF3D7_0513600.1	P. falciparum 3D7	Pf3D7_05_v3:574,941..578,505(-)	deoxyribodipyrimidine photo-lyase, putative	protein coding	812950
+PF3D7_0515000	PF3D7_0515000.1	P. falciparum 3D7	Pf3D7_05_v3:620,810..623,356(-)	pre-mRNA-splicing factor CWC2, putative	protein coding	812964
+PF3D7_0515400	PF3D7_0515400.1	P. falciparum 3D7	Pf3D7_05_v3:637,354..640,381(+)	conserved protein, unknown function	protein coding	812968
+PF3D7_0515700	PF3D7_0515700.1	P. falciparum 3D7	Pf3D7_05_v3:653,966..655,336(-)	glideosome-associated protein 40, putative	protein coding	812971
+PF3D7_0516600	PF3D7_0516600.1	P. falciparum 3D7	Pf3D7_05_v3:686,810..691,642(-)	sporozoite surface antigen MB2	protein coding	812981
+PF3D7_0516700	PF3D7_0516700.1	P. falciparum 3D7	Pf3D7_05_v3:694,492..698,778(+)	ubiquitin carboxyl-terminal hydrolase 2, putative	protein coding	812982
+PF3D7_0516800	PF3D7_0516800.1	P. falciparum 3D7	Pf3D7_05_v3:700,120..707,256(-)	AP2 domain transcription factor AP2-O2, putative	protein coding	812983
+PF3D7_0516900	PF3D7_0516900.1	P. falciparum 3D7	Pf3D7_05_v3:712,762..713,772(-)	60S ribosomal protein L2	protein coding	812984
+PF3D7_0517300	PF3D7_0517300.1	P. falciparum 3D7	Pf3D7_05_v3:724,681..725,751(-)	serine/arginine-rich splicing factor 1	protein coding	812988
+PF3D7_0517400	PF3D7_0517400.1	P. falciparum 3D7	Pf3D7_05_v3:731,407..735,162(+)	FACT complex subunit SPT16, putative	protein coding	812989
+PF3D7_0517700	PF3D7_0517700.1	P. falciparum 3D7	Pf3D7_05_v3:743,179..745,329(+)	eukaryotic translation initiation factor 3 subunit B, putative	protein coding	812992
+PF3D7_0517900	PF3D7_0517900.1	P. falciparum 3D7	Pf3D7_05_v3:747,795..749,677(-)	zinc finger protein, putative	protein coding	812994
+PF3D7_0518100	PF3D7_0518100.1	P. falciparum 3D7	Pf3D7_05_v3:753,298..757,544(+)	protein AMR2	protein coding	812996
+PF3D7_0518300	PF3D7_0518300.1	P. falciparum 3D7	Pf3D7_05_v3:759,831..760,998(-)	proteasome subunit beta type-1, putative	protein coding	812998
+PF3D7_0519500	PF3D7_0519500.1	P. falciparum 3D7	Pf3D7_05_v3:801,450..809,127(-)	CCR4 domain-containing protein 1, putative	protein coding	813011
+PF3D7_0519700	PF3D7_0519700.1	P. falciparum 3D7	Pf3D7_05_v3:817,066..819,139(+)	FoP domain-containing protein, putative	protein coding	813013
+PF3D7_0519800	PF3D7_0519800.1	P. falciparum 3D7	Pf3D7_05_v3:820,719..822,908(-)	EELM2 domain-containing protein, putative	protein coding	813014
+PF3D7_0520000	PF3D7_0520000.1	P. falciparum 3D7	Pf3D7_05_v3:828,953..829,883(+)	40S ribosomal protein S9, putative	protein coding	813016
+PF3D7_0520300	PF3D7_0520300.1	P. falciparum 3D7	Pf3D7_05_v3:838,428..839,083(+)	U6 snRNA-associated Sm-like protein LSm2, putative	protein coding	813019
+PF3D7_0520500	PF3D7_0520500.1	P. falciparum 3D7	Pf3D7_05_v3:841,723..842,655(-)	phosphomethylpyrimidine kinase, putative	protein coding	813021
+PF3D7_0520900	PF3D7_0520900.1	P. falciparum 3D7	Pf3D7_05_v3:857,038..858,477(+)	adenosylhomocysteinase	protein coding	813025
+PF3D7_0522100	PF3D7_0522100.1	P. falciparum 3D7	Pf3D7_05_v3:897,465..899,756(-)	conserved Plasmodium protein, unknown function	protein coding	813036
+PF3D7_0522400	PF3D7_0522400.1	P. falciparum 3D7	Pf3D7_05_v3:907,837..936,315(+)	conserved Plasmodium protein, unknown function	protein coding	813039
+PF3D7_0524000	PF3D7_0524000.1	P. falciparum 3D7	Pf3D7_05_v3:998,753..1,002,124(+)	karyopherin beta	protein coding	813054
+PF3D7_0524600	PF3D7_0524600.1	P. falciparum 3D7	Pf3D7_05_v3:1,017,809..1,018,582(+)	50S ribosomal protein L12, apicoplast, putative	protein coding	813060
+PF3D7_0525000	PF3D7_0525000.1	P. falciparum 3D7	Pf3D7_05_v3:1,036,229..1,038,343(+)	zinc finger protein, putative	protein coding	813064
+PF3D7_0525100	PF3D7_0525100.1	P. falciparum 3D7	Pf3D7_05_v3:1,041,745..1,043,766(+)	acyl-CoA synthetase	protein coding	813065
+PF3D7_0525800	PF3D7_0525800.1	P. falciparum 3D7	Pf3D7_05_v3:1,071,247..1,072,149(+)	inner membrane complex protein 1g, putative	protein coding	813073
+PF3D7_0526500	PF3D7_0526500.1	P. falciparum 3D7	Pf3D7_05_v3:1,090,930..1,095,084(+)	conserved Plasmodium protein, unknown function	protein coding	813080
+PF3D7_0526600	PF3D7_0526600.1	P. falciparum 3D7	Pf3D7_05_v3:1,101,203..1,114,777(+)	conserved Plasmodium protein, unknown function	protein coding	813081
+PF3D7_0526700	PF3D7_0526700.1	P. falciparum 3D7	Pf3D7_05_v3:1,117,261..1,119,651(-)	conserved protein, unknown function	protein coding	813082
+PF3D7_0526800	PF3D7_0526800.1	P. falciparum 3D7	Pf3D7_05_v3:1,120,704..1,121,810(-)	conserved Plasmodium protein, unknown function	protein coding	813083
+PF3D7_0526900	PF3D7_0526900.1	P. falciparum 3D7	Pf3D7_05_v3:1,123,610..1,124,595(+)	transmembrane emp24 domain-containing protein, putative	protein coding	813084
+PF3D7_0527000	PF3D7_0527000.1	P. falciparum 3D7	Pf3D7_05_v3:1,125,099..1,128,146(-)	DNA replication licensing factor MCM3, putative	protein coding	813085
+PF3D7_0527100	PF3D7_0527100.1	P. falciparum 3D7	Pf3D7_05_v3:1,129,959..1,130,754(-)	ubiquitin-conjugating enzyme E2 N, putative	protein coding	813086
+PF3D7_0527200	PF3D7_0527200.1	P. falciparum 3D7	Pf3D7_05_v3:1,132,937..1,134,854(-)	ubiquitin carboxyl-terminal hydrolase 14	protein coding	813087
+PF3D7_0527500	PF3D7_0527500.1	P. falciparum 3D7	Pf3D7_05_v3:1,143,618..1,145,359(+)	Hsc70-interacting protein	protein coding	813090
+PF3D7_0528100	PF3D7_0528100.1	P. falciparum 3D7	Pf3D7_05_v3:1,157,840..1,161,553(-)	AP-1 complex subunit beta, putative	protein coding	813094
+PF3D7_0528200	PF3D7_0528200.1	P. falciparum 3D7	Pf3D7_05_v3:1,163,408..1,165,072(-)	eukaryotic translation initiation factor 3 subunit E, putative	protein coding	813095
+PF3D7_0528800	PF3D7_0528800.1	P. falciparum 3D7	Pf3D7_05_v3:1,180,425..1,182,038(-)	nucleolar preribosomal GTPase, putative	protein coding	813101
+PF3D7_0529400	PF3D7_0529400.1	P. falciparum 3D7	Pf3D7_05_v3:1,199,165..1,205,187(+)	conserved Plasmodium protein, unknown function	protein coding	813107
+PF3D7_0529400	PF3D7_0529400.2	P. falciparum 3D7	Pf3D7_05_v3:1,199,165..1,205,187(+)	conserved Plasmodium protein, unknown function	protein coding	813107
+PF3D7_0529800	PF3D7_0529800.1	P. falciparum 3D7	Pf3D7_05_v3:1,213,533..1,219,376(+)	conserved Plasmodium protein, unknown function	protein coding	813110
+PF3D7_0530300	PF3D7_0530300.1	P. falciparum 3D7	Pf3D7_05_v3:1,233,401..1,238,086(+)	conserved Plasmodium membrane protein, unknown function	protein coding	813116
+PF3D7_0530600	PF3D7_0530600.1	P. falciparum 3D7	Pf3D7_05_v3:1,248,368..1,249,961(-)	XAP-5 DNA binding protein, putative	protein coding	813119
+PF3D7_0530900	PF3D7_0530900.1	P. falciparum 3D7	Pf3D7_05_v3:1,257,723..1,265,750(-)	formin 1	protein coding	812822
+PF3D7_0531100	PF3D7_0531100.1	P. falciparum 3D7	Pf3D7_05_v3:1,270,388..1,278,484(-)	conserved Plasmodium protein, unknown function	protein coding	813123
+PF3D7_0531400	PF3D7_0531400.1	P. falciparum 3D7	Pf3D7_05_v3:1,282,591..1,286,106(-)	conserved Plasmodium protein, unknown function	protein coding	813126
+PF3D7_0532100	PF3D7_0532100.1	P. falciparum 3D7	Pf3D7_05_v3:1,301,224..1,301,769(+)	early transcribed membrane protein 5	protein coding	813127
+PF3D7_0532300	PF3D7_0532300.1	P. falciparum 3D7	Pf3D7_05_v3:1,308,278..1,309,940(+)	Plasmodium exported protein (PHISTb), unknown function	protein coding	813129
+PF3D7_0532400	PF3D7_0532400.1	P. falciparum 3D7	Pf3D7_05_v3:1,312,471..1,314,154(+)	lysine-rich membrane-associated PHISTb protein	protein coding	813130
+PF3D7_0533100	PF3D7_0533100.1	P. falciparum 3D7	Pf3D7_05_v3:1,333,470..1,342,964(+)	erythrocyte membrane protein 1 (PfEMP1), pseudogene	protein coding	813137
+PF3D7_0601900	PF3D7_0601900.1	P. falciparum 3D7	Pf3D7_06_v3:78,190..78,784(+)	conserved Plasmodium protein, unknown function	protein coding	3885736
+PF3D7_0602000	PF3D7_0602000.1	P. falciparum 3D7	Pf3D7_06_v3:82,609..86,922(-)	zinc finger protein, putative	protein coding	3885737
+PF3D7_0603100	PF3D7_0603100.1	P. falciparum 3D7	Pf3D7_06_v3:125,458..126,816(-)	RNA-binding protein, putative	protein coding	3885964
+PF3D7_0603400	PF3D7_0603400.1	P. falciparum 3D7	Pf3D7_06_v3:133,150..136,461(-)	trophozoite exported protein 1	protein coding	3885786
+PF3D7_0603800	PF3D7_0603800.1	P. falciparum 3D7	Pf3D7_06_v3:152,541..160,455(-)	centrosomal protein CEP76, putative	protein coding	3885790
+PF3D7_0604100	PF3D7_0604100.1	P. falciparum 3D7	Pf3D7_06_v3:171,301..177,240(-)	AP2 domain transcription factor	protein coding	3885840
+PF3D7_0604300	PF3D7_0604300.1	P. falciparum 3D7	Pf3D7_06_v3:182,216..184,537(+)	conserved Plasmodium protein, unknown function	protein coding	3885842
+PF3D7_0604500	PF3D7_0604500.1	P. falciparum 3D7	Pf3D7_06_v3:189,012..198,078(+)	conserved Plasmodium protein, unknown function	protein coding	3885844
+PF3D7_0605800	PF3D7_0605800.1	P. falciparum 3D7	Pf3D7_06_v3:237,811..244,521(-)	DNA repair protein RAD50, putative	protein coding	3885706
+PF3D7_0606000	PF3D7_0606000.1	P. falciparum 3D7	Pf3D7_06_v3:250,612..253,803(-)	conserved Plasmodium protein, unknown function	protein coding	3885780
+PF3D7_0606600	PF3D7_0606600.1	P. falciparum 3D7	Pf3D7_06_v3:270,332..277,762(-)	conserved Plasmodium protein, unknown function	protein coding	3885882
+PF3D7_0607600	PF3D7_0607600.1	P. falciparum 3D7	Pf3D7_06_v3:313,856..316,882(-)	spindle assembly abnormal protein 6, putative	protein coding	3885833
+PF3D7_0608500	PF3D7_0608500.1	P. falciparum 3D7	Pf3D7_06_v3:351,780..352,775(-)	proteasome subunit alpha type-2, putative	protein coding	3885908
+PF3D7_0608700	PF3D7_0608700.1	P. falciparum 3D7	Pf3D7_06_v3:358,391..360,203(+)	T-complex protein 1 subunit zeta	protein coding	3885910
+PF3D7_0609000	PF3D7_0609000.1	P. falciparum 3D7	Pf3D7_06_v3:370,261..388,494(+)	nucleoporin NUP637, putative	protein coding	3885933
+PF3D7_0609300	PF3D7_0609300.1	P. falciparum 3D7	Pf3D7_06_v3:396,242..399,289(+)	conserved Plasmodium protein, unknown function	protein coding	3885936
+PF3D7_0609700	PF3D7_0609700.1	P. falciparum 3D7	Pf3D7_06_v3:413,652..419,781(+)	conserved Plasmodium protein, unknown function	protein coding	3885877
+PF3D7_0610200	PF3D7_0610200.1	P. falciparum 3D7	Pf3D7_06_v3:437,663..440,545(-)	RNA-binding protein 25, putative	protein coding	3885919
+PF3D7_0610400	PF3D7_0610400.1	P. falciparum 3D7	Pf3D7_06_v3:444,747..445,157(+)	histone H3	protein coding	3885920
+PF3D7_0610800	PF3D7_0610800.1	P. falciparum 3D7	Pf3D7_06_v3:453,671..455,689(+)	transketolase	protein coding	3885924
+PF3D7_0610900	PF3D7_0610900.1	P. falciparum 3D7	Pf3D7_06_v3:456,747..460,589(-)	transcription elongation factor SPT5, putative	protein coding	3885925
+PF3D7_0611600	PF3D7_0611600.1	P. falciparum 3D7	Pf3D7_06_v3:485,114..487,066(-)	basal complex transmembrane protein 1	protein coding	3885958
+PF3D7_0611800	PF3D7_0611800.1	P. falciparum 3D7	Pf3D7_06_v3:490,858..501,140(-)	conserved Plasmodium protein, unknown function	protein coding	3885926
+PF3D7_0612100	PF3D7_0612100.1	P. falciparum 3D7	Pf3D7_06_v3:509,160..511,130(-)	eukaryotic translation initiation factor 3 subunit L, putative	protein coding	3885929
+PF3D7_0612200	PF3D7_0612200.1	P. falciparum 3D7	Pf3D7_06_v3:512,972..519,548(-)	leucine-rich repeat protein	protein coding	3885930
+PF3D7_0612900	PF3D7_0612900.1	P. falciparum 3D7	Pf3D7_06_v3:531,126..533,186(+)	nucleolar GTP-binding protein 1, putative	protein coding	3885777
+PF3D7_0613600	PF3D7_0613600.1	P. falciparum 3D7	Pf3D7_06_v3:554,457..558,228(+)	conserved Plasmodium protein, unknown function	protein coding	3885758
+PF3D7_0613700	PF3D7_0613700.1	P. falciparum 3D7	Pf3D7_06_v3:559,349..561,460(-)	syntaxin-binding protein, putative	protein coding	3885715
+PF3D7_0613800	PF3D7_0613800.1	P. falciparum 3D7	Pf3D7_06_v3:566,139..578,993(+)	AP2 domain transcription factor, putative	protein coding	3885716
+PF3D7_0613900	PF3D7_0613900.1	P. falciparum 3D7	Pf3D7_06_v3:579,435..585,896(-)	myosin E, putative	protein coding	3885717
+PF3D7_0614100	PF3D7_0614100.1	P. falciparum 3D7	Pf3D7_06_v3:589,457..592,264(-)	conserved Plasmodium protein, unknown function	protein coding	3885719
+PF3D7_0614500	PF3D7_0614500.1	P. falciparum 3D7	Pf3D7_06_v3:606,142..607,259(-)	60S ribosomal protein L19	protein coding	3885805
+PF3D7_0615400	PF3D7_0615400.1	P. falciparum 3D7	Pf3D7_06_v3:630,956..640,174(-)	ribonuclease, putative	protein coding	3885866
+PF3D7_0615900	PF3D7_0615900.1	P. falciparum 3D7	Pf3D7_06_v3:662,435..667,855(-)	protein phosphatase, putative	protein coding	3885896
+PF3D7_0616200	PF3D7_0616200.1	P. falciparum 3D7	Pf3D7_06_v3:674,118..676,375(+)	kinetochore protein NDC80, putative	protein coding	3885899
+PF3D7_0616500	PF3D7_0616500.1	P. falciparum 3D7	Pf3D7_06_v3:684,742..688,857(+)	TRAP-like protein	protein coding	3885982
+PF3D7_0616600	PF3D7_0616600.1	P. falciparum 3D7	Pf3D7_06_v3:689,254..691,131(-)	conserved protein, unknown function	protein coding	3885983
+PF3D7_0617100	PF3D7_0617100.1	P. falciparum 3D7	Pf3D7_06_v3:710,059..714,576(+)	AP-2 complex subunit alpha, putative	protein coding	3885988
+PF3D7_0617200	PF3D7_0617200.1	P. falciparum 3D7	Pf3D7_06_v3:717,050..718,917(+)	conserved protein, unknown function	protein coding	3885792
+PF3D7_0617400	PF3D7_0617400.1	P. falciparum 3D7	Pf3D7_06_v3:723,117..731,490(-)	erythrocyte membrane protein 1, PfEMP1	protein coding	3885794
+PF3D7_0617900	PF3D7_0617900.1	P. falciparum 3D7	Pf3D7_06_v3:754,395..754,805(+)	histone H3 variant	protein coding	3885798
+PF3D7_0618200	PF3D7_0618200.1	P. falciparum 3D7	Pf3D7_06_v3:764,667..765,492(-)	conserved protein, unknown function	protein coding	3885801
+PF3D7_0618300	PF3D7_0618300.1	P. falciparum 3D7	Pf3D7_06_v3:768,792..769,456(+)	60S ribosomal protein L27a, putative	protein coding	3885802
+PF3D7_0618900	PF3D7_0618900.1	P. falciparum 3D7	Pf3D7_06_v3:784,354..788,027(+)	phosphatidylinositol N-acetylglucosaminyltransferase subunit GPI1	protein coding	3885848
+PF3D7_0618900	PF3D7_0618900.2	P. falciparum 3D7	Pf3D7_06_v3:784,354..788,027(+)	phosphatidylinositol N-acetylglucosaminyltransferase subunit GPI1	protein coding	3885848
+PF3D7_0619000	PF3D7_0619000.1	P. falciparum 3D7	Pf3D7_06_v3:788,707..796,025(-)	conserved protein, unknown function	protein coding	3885849
+PF3D7_0619000	PF3D7_0619000.2	P. falciparum 3D7	Pf3D7_06_v3:788,707..796,025(-)	conserved protein, unknown function	protein coding	3885849
+PF3D7_0619200	PF3D7_0619200.1	P. falciparum 3D7	Pf3D7_06_v3:799,397..802,789(+)	conserved Plasmodium protein, unknown function	protein coding	3885940
+PF3D7_0619400	PF3D7_0619400.1	P. falciparum 3D7	Pf3D7_06_v3:815,622..818,247(-)	cell division cycle protein 48 homologue, putative	protein coding	3885942
+PF3D7_0620400	PF3D7_0620400.1	P. falciparum 3D7	Pf3D7_06_v3:851,378..852,955(-)	merozoite surface protein 10	protein coding	3885968
+PF3D7_0620500	PF3D7_0620500.1	P. falciparum 3D7	Pf3D7_06_v3:855,160..857,112(+)	cleavage stimulation factor subunit 1, putative	protein coding	3885969
+PF3D7_0621800	PF3D7_0621800.1	P. falciparum 3D7	Pf3D7_06_v3:891,997..892,777(+)	nascent polypeptide-associated complex subunit alpha, putative	protein coding	3885894
+PF3D7_0622800	PF3D7_0622800.1	P. falciparum 3D7	Pf3D7_06_v3:919,685..924,028(+)	leucine--tRNA ligase, putative	protein coding	3885858
+PF3D7_0622900	PF3D7_0622900.1	P. falciparum 3D7	Pf3D7_06_v3:925,105..931,074(-)	AP2 domain transcription factor AP2Tel	protein coding	3885859
+PF3D7_0623100	PF3D7_0623100.1	P. falciparum 3D7	Pf3D7_06_v3:939,660..943,720(-)	nuclear polyadenylated RNA-binding protein NAB2, putative	protein coding	3885861
+PF3D7_0623800	PF3D7_0623800.1	P. falciparum 3D7	Pf3D7_06_v3:963,741..970,955(-)	tyrosine kinase-like protein, putative	protein coding	3885874
+PF3D7_0624000	PF3D7_0624000.1	P. falciparum 3D7	Pf3D7_06_v3:981,066..982,547(+)	hexokinase	protein coding	3885912
+PF3D7_0624200	PF3D7_0624200.1	P. falciparum 3D7	Pf3D7_06_v3:985,047..986,870(-)	conserved Plasmodium protein, unknown function	protein coding	3885914
+PF3D7_0624600	PF3D7_0624600.1	P. falciparum 3D7	Pf3D7_06_v3:999,524..1,007,683(+)	SNF2 helicase, putative	protein coding	3885918
+PF3D7_0625200	PF3D7_0625200.1	P. falciparum 3D7	Pf3D7_06_v3:1,025,179..1,026,336(+)	conserved Plasmodium protein, unknown function	protein coding	3885686
+PF3D7_0626800	PF3D7_0626800.1	P. falciparum 3D7	Pf3D7_06_v3:1,078,995..1,081,320(+)	pyruvate kinase	protein coding	3885761
+PF3D7_0627100	PF3D7_0627100.1	P. falciparum 3D7	Pf3D7_06_v3:1,089,190..1,094,328(+)	ankyrin-repeat protein, putative	protein coding	3885764
+PF3D7_0627300	PF3D7_0627300.1	P. falciparum 3D7	Pf3D7_06_v3:1,097,300..1,098,649(-)	E3 ubiquitin-protein ligase RNF5, putative	protein coding	3885693
+PF3D7_0628100	PF3D7_0628100.1	P. falciparum 3D7	Pf3D7_06_v3:1,122,801..1,153,664(-)	HECT-domain (ubiquitin-transferase), putative	protein coding	3885722
+PF3D7_0628200	PF3D7_0628200.1	P. falciparum 3D7	Pf3D7_06_v3:1,159,862..1,169,080(+)	eukaryotic translation initiation factor 2-alpha kinase	protein coding	3885723
+PF3D7_0628700	PF3D7_0628700.1	P. falciparum 3D7	Pf3D7_06_v3:1,183,896..1,185,617(+)	conserved Plasmodium protein, unknown function	protein coding	3885727
+PF3D7_0628800	PF3D7_0628800.1	P. falciparum 3D7	Pf3D7_06_v3:1,185,996..1,188,644(-)	glutamyl-tRNA(Gln) amidotransferase subunit B	protein coding	3885728
+PF3D7_0629200	PF3D7_0629200.1	P. falciparum 3D7	Pf3D7_06_v3:1,199,853..1,200,995(-)	DnaJ protein, putative	protein coding	3885732
+PF3D7_0629400	PF3D7_0629400.1	P. falciparum 3D7	Pf3D7_06_v3:1,210,420..1,212,762(+)	polyadenylate-binding protein 3, putative	protein coding	3885734
+PF3D7_0629700	PF3D7_0629700.1	P. falciparum 3D7	Pf3D7_06_v3:1,221,941..1,242,922(+)	SET domain protein, putative	protein coding	3885750
+PF3D7_0629900	PF3D7_0629900.1	P. falciparum 3D7	Pf3D7_06_v3:1,250,412..1,251,651(+)	sec14-like cytosolic factor or phosphatidylinositol/phosphatidylcholine transfer protein, putative	protein coding	3885752
+PF3D7_0630300	PF3D7_0630300.1	P. falciparum 3D7	Pf3D7_06_v3:1,260,398..1,269,596(-)	DNA polymerase epsilon catalytic subunit A, putative	protein coding	3885768
+PF3D7_0630600	PF3D7_0630600.1	P. falciparum 3D7	Pf3D7_06_v3:1,279,820..1,283,246(+)	conserved protein, unknown function	protein coding	3885771
+PF3D7_0632500	PF3D7_0632500.1	P. falciparum 3D7	Pf3D7_06_v3:1,353,946..1,366,430(-)	erythrocyte membrane protein 1, PfEMP1	protein coding	3885829
+PF3D7_0702100	PF3D7_0702100.1	P. falciparum 3D7	Pf3D7_07_v3:88,685..90,886(+)	Plasmodium exported protein (PHISTb), unknown function, pseudogene	protein coding	2655018
+PF3D7_0702300	PF3D7_0702300.1	P. falciparum 3D7	Pf3D7_07_v3:96,761..98,730(+)	sporozoite threonine and asparagine-rich protein	protein coding	2654973
+PF3D7_0702900	PF3D7_0702900.1	P. falciparum 3D7	Pf3D7_07_v3:113,144..113,948(-)	centrin, putative	protein coding	2654952
+PF3D7_0703200	PF3D7_0703200.1	P. falciparum 3D7	Pf3D7_07_v3:122,513..127,135(-)	conserved Plasmodium protein, unknown function	protein coding	2654979
+PF3D7_0703500	PF3D7_0703500.1	P. falciparum 3D7	Pf3D7_07_v3:135,606..142,505(+)	erythrocyte membrane-associated antigen	protein coding	2655186
+PF3D7_0703600	PF3D7_0703600.1	P. falciparum 3D7	Pf3D7_07_v3:144,019..145,953(+)	conserved protein, unknown function	protein coding	2655153
+PF3D7_0704000	PF3D7_0704000.1	P. falciparum 3D7	Pf3D7_07_v3:167,489..177,295(-)	conserved Plasmodium membrane protein, unknown function	protein coding	2655036
+PF3D7_0704100	PF3D7_0704100.1	P. falciparum 3D7	Pf3D7_07_v3:180,036..190,715(+)	conserved Plasmodium membrane protein, unknown function	protein coding	2654991
+PF3D7_0704300	PF3D7_0704300.1	P. falciparum 3D7	Pf3D7_07_v3:197,691..203,249(+)	conserved Plasmodium membrane protein, unknown function	protein coding	2654983
+PF3D7_0704600	PF3D7_0704600.1	P. falciparum 3D7	Pf3D7_07_v3:216,024..229,072(-)	E3 ubiquitin-protein ligase	protein coding	2654946
+PF3D7_0704900	PF3D7_0704900.1	P. falciparum 3D7	Pf3D7_07_v3:243,898..245,016(-)	peptide chain release factor 2	protein coding	2655192
+PF3D7_0705000	PF3D7_0705000.1	P. falciparum 3D7	Pf3D7_07_v3:246,259..250,152(-)	mRNA cap guanine-N7 methyltransferase, putative	protein coding	2655056
+PF3D7_0705100	PF3D7_0705100.1	P. falciparum 3D7	Pf3D7_07_v3:252,282..255,251(+)	conserved Plasmodium protein, unknown function	protein coding	2655057
+PF3D7_0705300	PF3D7_0705300.1	P. falciparum 3D7	Pf3D7_07_v3:261,977..264,454(+)	origin recognition complex subunit 2	protein coding	2655193
+PF3D7_0705400	PF3D7_0705400.1	P. falciparum 3D7	Pf3D7_07_v3:264,973..267,438(-)	DNA replication licensing factor MCM7	protein coding	2655059
+PF3D7_0705500	PF3D7_0705500.1	P. falciparum 3D7	Pf3D7_07_v3:270,022..278,706(-)	inositol-phosphate phosphatase, putative	protein coding	2655060
+PF3D7_0707700	PF3D7_0707700.1	P. falciparum 3D7	Pf3D7_07_v3:357,700..360,585(+)	E3 ubiquitin-protein ligase, putative	protein coding	2655062
+PF3D7_0707900	PF3D7_0707900.1	P. falciparum 3D7	Pf3D7_07_v3:366,929..367,708(+)	ribosomal protein S8e, putative	protein coding	2655196
+PF3D7_0708400	PF3D7_0708400.1	P. falciparum 3D7	Pf3D7_07_v3:381,592..384,614(+)	heat shock protein 90	protein coding	2655065
+PF3D7_0708800	PF3D7_0708800.1	P. falciparum 3D7	Pf3D7_07_v3:395,711..398,332(+)	heat shock protein 110	protein coding	2655069
+PF3D7_0710000	PF3D7_0710000.1	P. falciparum 3D7	Pf3D7_07_v3:447,515..458,496(-)	conserved Plasmodium protein, unknown function	protein coding	2655203
+PF3D7_0710200	PF3D7_0710200.1	P. falciparum 3D7	Pf3D7_07_v3:463,105..471,837(+)	conserved Plasmodium protein, unknown function	protein coding	2655090
+PF3D7_0710600	PF3D7_0710600.1	P. falciparum 3D7	Pf3D7_07_v3:478,468..479,138(-)	60S ribosomal protein L34	protein coding	2655091
+PF3D7_0710700	PF3D7_0710700.1	P. falciparum 3D7	Pf3D7_07_v3:481,369..481,974(-)	conserved Plasmodium protein, unknown function	protein coding	2655092
+PF3D7_0711000	PF3D7_0711000.1	P. falciparum 3D7	Pf3D7_07_v3:487,281..490,970(-)	AAA family ATPase, CDC48 subfamily	protein coding	2655095
+PF3D7_0711400	PF3D7_0711400.1	P. falciparum 3D7	Pf3D7_07_v3:500,408..502,594(-)	histone deacetylase complex subunit SAP18, putative	protein coding	2655210
+PF3D7_0711500	PF3D7_0711500.1	P. falciparum 3D7	Pf3D7_07_v3:505,245..507,311(+)	regulator of chromosome condensation, putative	protein coding	2655211
+PF3D7_0713900	PF3D7_0713900.1	P. falciparum 3D7	Pf3D7_07_v3:627,067..637,776(-)	conserved Plasmodium protein, unknown function	protein coding	2655097
+PF3D7_0714200	PF3D7_0714200.1	P. falciparum 3D7	Pf3D7_07_v3:650,834..654,919(+)	conserved Plasmodium protein, unknown function	protein coding	2655100
+PF3D7_0714300	PF3D7_0714300.1	P. falciparum 3D7	Pf3D7_07_v3:656,871..661,669(+)	palmitoyltransferase DHHC4, putative	protein coding	2655016
+PF3D7_0714500	PF3D7_0714500.1	P. falciparum 3D7	Pf3D7_07_v3:664,956..666,167(+)	transcription elongation factor s-II, putative	protein coding	2655101
+PF3D7_0715600	PF3D7_0715600.1	P. falciparum 3D7	Pf3D7_07_v3:691,068..693,332(+)	GTP-binding translation elongation factor tu family protein, putative	protein coding	2655106
+PF3D7_0716000	PF3D7_0716000.1	P. falciparum 3D7	Pf3D7_07_v3:703,207..706,584(+)	RNA-binding protein, putative	protein coding	2655110
+PF3D7_0716100	PF3D7_0716100.1	P. falciparum 3D7	Pf3D7_07_v3:707,699..710,908(-)	protein SDA1, putative	protein coding	2655111
+PF3D7_0716200	PF3D7_0716200.1	P. falciparum 3D7	Pf3D7_07_v3:712,469..714,967(+)	PDCD2 domain-containing protein, putative	protein coding	2655041
+PF3D7_0716300	PF3D7_0716300.1	P. falciparum 3D7	Pf3D7_07_v3:717,281..718,968(+)	conserved protein, unknown function	protein coding	2655042
+PF3D7_0716800	PF3D7_0716800.1	P. falciparum 3D7	Pf3D7_07_v3:732,070..733,496(-)	eukaryotic translation initiation factor 3 subunit I, putative	protein coding	2655045
+PF3D7_0717300	PF3D7_0717300.1	P. falciparum 3D7	Pf3D7_07_v3:748,990..750,699(+)	transcription initiation factor IIE subunit alpha, putative	protein coding	2655049
+PF3D7_0717400	PF3D7_0717400.1	P. falciparum 3D7	Pf3D7_07_v3:751,877..754,132(+)	queuine tRNA-ribosyltransferase, putative	protein coding	2655115
+PF3D7_0717500	PF3D7_0717500.1	P. falciparum 3D7	Pf3D7_07_v3:755,763..757,696(+)	calcium-dependent protein kinase 4	protein coding	2655116
+PF3D7_0717700	PF3D7_0717700.1	P. falciparum 3D7	Pf3D7_07_v3:764,794..766,413(-)	serine--tRNA ligase, putative	protein coding	2655117
+PF3D7_0719300	PF3D7_0719300.1	P. falciparum 3D7	Pf3D7_07_v3:844,495..847,593(+)	actin-related protein, putative	protein coding	2655121
+PF3D7_0719400	PF3D7_0719400.1	P. falciparum 3D7	Pf3D7_07_v3:848,398..853,593(-)	conserved Plasmodium protein, unknown function	protein coding	2654955
+PF3D7_0719700	PF3D7_0719700.1	P. falciparum 3D7	Pf3D7_07_v3:861,583..862,487(+)	40S ribosomal protein S10, putative	protein coding	2655124
+PF3D7_0719800	PF3D7_0719800.1	P. falciparum 3D7	Pf3D7_07_v3:863,452..864,813(-)	conserved protein, unknown function	protein coding	2655125
+PF3D7_0719900	PF3D7_0719900.1	P. falciparum 3D7	Pf3D7_07_v3:865,927..876,132(+)	conserved Plasmodium membrane protein, unknown function	protein coding	2655126
+PF3D7_0720200	PF3D7_0720200.1	P. falciparum 3D7	Pf3D7_07_v3:879,454..879,946(+)	conserved protein, unknown function	protein coding	2655128
+PF3D7_0720700	PF3D7_0720700.1	P. falciparum 3D7	Pf3D7_07_v3:891,683..899,051(+)	phosphoinositide-binding protein, putative	protein coding	2654930
+PF3D7_0721000	PF3D7_0721000.1	P. falciparum 3D7	Pf3D7_07_v3:904,143..914,671(+)	conserved Plasmodium membrane protein, unknown function	protein coding	2655130
+PF3D7_0721100	PF3D7_0721100.1	P. falciparum 3D7	Pf3D7_07_v3:916,434..917,168(+)	conserved protein, unknown function	protein coding	2655131
+PF3D7_0721600	PF3D7_0721600.1	P. falciparum 3D7	Pf3D7_07_v3:931,459..932,164(-)	40S ribosomal protein S5, putative	protein coding	2655132
+PF3D7_0722100	PF3D7_0722100.1	P. falciparum 3D7	Pf3D7_07_v3:944,023..945,234(+)	protein pelota homolog, putative	protein coding	2655184
+PF3D7_0722200	PF3D7_0722200.1	P. falciparum 3D7	Pf3D7_07_v3:946,363..948,612(+)	rhoptry-associated leucine zipper-like protein 1	protein coding	2655185
+PF3D7_0723400	PF3D7_0723400.1	P. falciparum 3D7	Pf3D7_07_v3:978,920..983,188(-)	conserved Plasmodium protein, unknown function	protein coding	2655141
+PF3D7_0723700	PF3D7_0723700.1	P. falciparum 3D7	Pf3D7_07_v3:988,145..991,243(+)	metallo-hydrolase/oxidoreductase, putative	protein coding	2655144
+PF3D7_0723800	PF3D7_0723800.1	P. falciparum 3D7	Pf3D7_07_v3:993,232..1,000,233(+)	conserved Plasmodium protein, unknown function	protein coding	2655145
+PF3D7_0723900	PF3D7_0723900.1	P. falciparum 3D7	Pf3D7_07_v3:1,000,701..1,004,746(-)	RNA-binding protein, putative	protein coding	2655149
+PF3D7_0724100	PF3D7_0724100.1	P. falciparum 3D7	Pf3D7_07_v3:1,013,295..1,016,449(-)	conserved Plasmodium protein, unknown function	protein coding	2655152
+PF3D7_0724600	PF3D7_0724600.1	P. falciparum 3D7	Pf3D7_07_v3:1,026,444..1,033,077(-)	protein kinase, putative	protein coding	2655078
+PF3D7_0724700	PF3D7_0724700.1	P. falciparum 3D7	Pf3D7_07_v3:1,034,969..1,046,109(-)	conserved Plasmodium protein, unknown function	protein coding	2655080
+PF3D7_0724900	PF3D7_0724900.1	P. falciparum 3D7	Pf3D7_07_v3:1,052,465..1,058,158(+)	kinesin-19, putative	protein coding	2655157
+PF3D7_0725000	PF3D7_0725000.1	P. falciparum 3D7	Pf3D7_07_v3:1,058,933..1,062,976(-)	exonuclease I, putative	protein coding	2655158
+PF3D7_0725300	PF3D7_0725300.1	P. falciparum 3D7	Pf3D7_07_v3:1,072,202..1,074,754(-)	conserved protein, unknown function	protein coding	2655159
+PF3D7_0725400	PF3D7_0725400.1	P. falciparum 3D7	Pf3D7_07_v3:1,079,015..1,080,055(+)	conserved Plasmodium protein, unknown function	protein coding	2655085
+PF3D7_0726100	PF3D7_0726100.1	P. falciparum 3D7	Pf3D7_07_v3:1,093,566..1,096,122(-)	Plasmodium exported protein, unknown function	protein coding	2655160
+PF3D7_0726300	PF3D7_0726300.1	P. falciparum 3D7	Pf3D7_07_v3:1,104,156..1,108,364(+)	DNA mismatch repair protein PMS1, putative	protein coding	2655088
+PF3D7_0726500	PF3D7_0726500.1	P. falciparum 3D7	Pf3D7_07_v3:1,126,556..1,136,577(-)	ubiquitin carboxyl-terminal hydrolase, putative	protein coding	2655023
+PF3D7_0727400	PF3D7_0727400.1	P. falciparum 3D7	Pf3D7_07_v3:1,162,710..1,163,831(+)	proteasome subunit alpha type-5, putative	protein coding	2655165
+PF3D7_0728000	PF3D7_0728000.1	P. falciparum 3D7	Pf3D7_07_v3:1,191,179..1,192,289(-)	eukaryotic translation initiation factor 2 subunit alpha	protein coding	2655170
+PF3D7_0728600	PF3D7_0728600.1	P. falciparum 3D7	Pf3D7_07_v3:1,218,426..1,225,473(+)	RING zinc finger protein, putative	protein coding	2655031
+PF3D7_0729100	PF3D7_0729100.1	P. falciparum 3D7	Pf3D7_07_v3:1,238,446..1,246,188(+)	conserved Plasmodium protein, unknown function	protein coding	2655173
+PF3D7_0729400	PF3D7_0729400.1	P. falciparum 3D7	Pf3D7_07_v3:1,252,847..1,254,097(+)	ribosome biogenesis protein BRX1, putative	protein coding	2655175
+PF3D7_0729500	PF3D7_0729500.1	P. falciparum 3D7	Pf3D7_07_v3:1,255,371..1,257,653(+)	mRNA (N6-adenosine)-methyltransferase, putative	protein coding	2655176
+PF3D7_0729600	PF3D7_0729600.1	P. falciparum 3D7	Pf3D7_07_v3:1,258,787..1,259,730(+)	conserved Plasmodium protein, unknown function	protein coding	2655037
+PF3D7_0730300	PF3D7_0730300.1	P. falciparum 3D7	Pf3D7_07_v3:1,297,459..1,301,454(+)	AP2 domain transcription factor AP2-L, putative	protein coding	2655179
+PF3D7_0730500	PF3D7_0730500.1	P. falciparum 3D7	Pf3D7_07_v3:1,305,894..1,314,215(-)	conserved Plasmodium protein, unknown function	protein coding	2654990
+PF3D7_0730800	PF3D7_0730800.1	P. falciparum 3D7	Pf3D7_07_v3:1,321,306..1,322,367(+)	Plasmodium exported protein, unknown function, unspecified product	protein coding	2654992
+PF3D7_0730800	PF3D7_0730800.2	P. falciparum 3D7	Pf3D7_07_v3:1,321,306..1,322,367(+)	Plasmodium exported protein, unknown function, unspecified product	protein coding	2654992
+PF3D7_0730900	PF3D7_0730900.1	P. falciparum 3D7	Pf3D7_07_v3:1,325,375..1,331,813(+)	EMP1-trafficking protein	protein coding	2654993
+PF3D7_0731100	PF3D7_0731100.1	P. falciparum 3D7	Pf3D7_07_v3:1,338,959..1,341,790(+)	EMP1-trafficking protein	protein coding	2654994
+PF3D7_0731200	PF3D7_0731200.1	P. falciparum 3D7	Pf3D7_07_v3:1,342,842..1,343,996(-)	Plasmodium exported protein, unknown function	protein coding	2654995
+PF3D7_0731300	PF3D7_0731300.1	P. falciparum 3D7	Pf3D7_07_v3:1,350,032..1,351,149(+)	Plasmodium exported protein (PHISTb), unknown function	protein coding	2654996
+PF3D7_0801000	PF3D7_0801000.1	P. falciparum 3D7	Pf3D7_08_v3:84,568..88,422(-)	Plasmodium exported protein (PHISTc), unknown function	protein coding	2655336
+PF3D7_0801900	PF3D7_0801900.1	P. falciparum 3D7	Pf3D7_08_v3:128,849..142,837(+)	lysine-specific histone demethylase, putative	protein coding	2655401
+PF3D7_0802000	PF3D7_0802000.1	P. falciparum 3D7	Pf3D7_08_v3:146,089..150,282(+)	glutamate dehydrogenase, putative	protein coding	2655330
+PF3D7_0802100	PF3D7_0802100.1	P. falciparum 3D7	Pf3D7_08_v3:151,808..159,668(-)	AP2 domain transcription factor, putative	protein coding	2655400
+PF3D7_0802400	PF3D7_0802400.1	P. falciparum 3D7	Pf3D7_08_v3:171,865..174,385(+)	conserved Plasmodium protein, unknown function	protein coding	2655399
+PF3D7_0802800	PF3D7_0802800.1	P. falciparum 3D7	Pf3D7_08_v3:191,976..194,103(+)	serine/threonine protein phosphatase 2B catalytic subunit A	protein coding	2655328
+PF3D7_0803000	PF3D7_0803000.1	P. falciparum 3D7	Pf3D7_08_v3:196,581..198,614(+)	peptidyl-prolyl cis-trans isomerase	protein coding	2655327
+PF3D7_0803100	PF3D7_0803100.1	P. falciparum 3D7	Pf3D7_08_v3:199,181..202,918(-)	U3 small nucleolar RNA-associated protein 14, putative	protein coding	2655326
+PF3D7_0803200	PF3D7_0803200.1	P. falciparum 3D7	Pf3D7_08_v3:204,241..206,661(-)	filament assembling protein, putative	protein coding	2655371
+PF3D7_0803400	PF3D7_0803400.1	P. falciparum 3D7	Pf3D7_08_v3:212,252..215,971(+)	DNA repair and recombination protein RAD54, putative	protein coding	2655325
+PF3D7_0803500	PF3D7_0803500.1	P. falciparum 3D7	Pf3D7_08_v3:217,888..222,291(+)	AAA family ATPase, putative	protein coding	2655369
+PF3D7_0803700	PF3D7_0803700.1	P. falciparum 3D7	Pf3D7_08_v3:231,398..232,756(+)	tubulin gamma chain	protein coding	2655324
+PF3D7_0804000	PF3D7_0804000.1	P. falciparum 3D7	Pf3D7_08_v3:237,853..241,048(+)	cactin homolog, putative	protein coding	2655323
+PF3D7_0804300	PF3D7_0804300.1	P. falciparum 3D7	Pf3D7_08_v3:242,103..244,775(+)	zinc finger protein, putative	protein coding	2655408
+PF3D7_0804500	PF3D7_0804500.1	P. falciparum 3D7	Pf3D7_08_v3:250,083..268,437(+)	conserved Plasmodium membrane protein, unknown function	protein coding	2655405
+PF3D7_0804900	PF3D7_0804900.1	P. falciparum 3D7	Pf3D7_08_v3:279,711..281,186(-)	GTPase-activating protein, putative	protein coding	2655319
+PF3D7_0806300	PF3D7_0806300.1	P. falciparum 3D7	Pf3D7_08_v3:337,902..343,254(-)	ferlin-like protein, putative	protein coding	2655409
+PF3D7_0806500	PF3D7_0806500.1	P. falciparum 3D7	Pf3D7_08_v3:345,427..347,454(-)	DnaJ protein, putative	protein coding	2655314
+PF3D7_0806700	PF3D7_0806700.1	P. falciparum 3D7	Pf3D7_08_v3:354,472..362,396(+)	conserved Plasmodium membrane protein, unknown function	protein coding	2655313
+PF3D7_0806800	PF3D7_0806800.1	P. falciparum 3D7	Pf3D7_08_v3:363,260..366,421(-)	V-type proton ATPase subunit a, putative	protein coding	4794196
+PF3D7_0807500	PF3D7_0807500.1	P. falciparum 3D7	Pf3D7_08_v3:387,219..388,364(+)	proteasome subunit alpha type-6, putative	protein coding	2655251
+PF3D7_0807600	PF3D7_0807600.1	P. falciparum 3D7	Pf3D7_08_v3:389,596..394,259(-)	conserved Plasmodium protein, unknown function	protein coding	2655250
+PF3D7_0807800	PF3D7_0807800.1	P. falciparum 3D7	Pf3D7_08_v3:399,591..401,360(-)	26S proteasome regulatory subunit RPN10, putative	protein coding	2655309
+PF3D7_0807900	PF3D7_0807900.1	P. falciparum 3D7	Pf3D7_08_v3:402,595..404,141(+)	tyrosine--tRNA ligase	protein coding	2655248
+PF3D7_0808200	PF3D7_0808200.1	P. falciparum 3D7	Pf3D7_08_v3:416,344..418,065(-)	plasmepsin X	protein coding	2655308
+PF3D7_0809100	PF3D7_0809100.1	P. falciparum 3D7	Pf3D7_08_v3:459,312..466,567(+)	erythrocyte membrane protein 1, PfEMP1	protein coding	2655303
+PF3D7_0809200	PF3D7_0809200.1	P. falciparum 3D7	Pf3D7_08_v3:467,943..471,893(-)	asparagine-rich antigen Pfa55-14	protein coding	2655301
+PF3D7_0809600	PF3D7_0809600.1	P. falciparum 3D7	Pf3D7_08_v3:479,980..497,382(-)	peptidase family C50, putative	protein coding	2655237
+PF3D7_0809900	PF3D7_0809900.1	P. falciparum 3D7	Pf3D7_08_v3:508,224..512,428(-)	JmjC domain-containing protein, putative	protein coding	2655235
+PF3D7_0810500	PF3D7_0810500.1	P. falciparum 3D7	Pf3D7_08_v3:534,469..536,619(-)	protein phosphatase PPM7, putative	protein coding	2655394
+PF3D7_0810600	PF3D7_0810600.1	P. falciparum 3D7	Pf3D7_08_v3:541,971..544,796(+)	ATP-dependent RNA helicase DBP1, putative	protein coding	2655295
+PF3D7_0811300	PF3D7_0811300.1	P. falciparum 3D7	Pf3D7_08_v3:567,824..573,148(+)	CCR4-associated factor 1	protein coding	2655222
+PF3D7_0811400	PF3D7_0811400.1	P. falciparum 3D7	Pf3D7_08_v3:575,986..578,370(+)	conserved protein, unknown function	protein coding	2655221
+PF3D7_0812100	PF3D7_0812100.1	P. falciparum 3D7	Pf3D7_08_v3:604,923..612,878(+)	proteasome activator complex subunit 4, putative	protein coding	2655288
+PF3D7_0812400	PF3D7_0812400.1	P. falciparum 3D7	Pf3D7_08_v3:621,805..623,442(-)	karyopherin alpha	protein coding	2655286
+PF3D7_0812600	PF3D7_0812600.1	P. falciparum 3D7	Pf3D7_08_v3:631,584..632,229(-)	ubiquitin-conjugating enzyme E2, putative	protein coding	2655284
+PF3D7_0813000	PF3D7_0813000.1	P. falciparum 3D7	Pf3D7_08_v3:643,086..644,885(-)	conserved protein, unknown function	protein coding	2655282
+PF3D7_0813100	PF3D7_0813100.1	P. falciparum 3D7	Pf3D7_08_v3:647,316..649,304(-)	conserved Plasmodium protein, unknown function	protein coding	2655281
+PF3D7_0813200	PF3D7_0813200.1	P. falciparum 3D7	Pf3D7_08_v3:651,417..652,804(-)	CS domain protein, putative	protein coding	2655447
+PF3D7_0813300	PF3D7_0813300.1	P. falciparum 3D7	Pf3D7_08_v3:656,078..657,630(+)	conserved protein, unknown function	protein coding	2655446
+PF3D7_0813400	PF3D7_0813400.1	P. falciparum 3D7	Pf3D7_08_v3:658,493..662,095(-)	conserved protein, unknown function	protein coding	2655280
+PF3D7_0813700	PF3D7_0813700.1	P. falciparum 3D7	Pf3D7_08_v3:671,157..675,416(-)	ABC transporter F family member 1	protein coding	2655277
+PF3D7_0813900	PF3D7_0813900.1	P. falciparum 3D7	Pf3D7_08_v3:677,989..678,725(-)	40S ribosomal protein S16, putative	protein coding	2655275
+PF3D7_0814000	PF3D7_0814000.1	P. falciparum 3D7	Pf3D7_08_v3:680,957..681,809(+)	60S ribosomal protein L13-2, putative	protein coding	2655274
+PF3D7_0815300	PF3D7_0815300.1	P. falciparum 3D7	Pf3D7_08_v3:721,928..725,476(+)	FAD-dependent monooxygenase, putative	protein coding	2655267
+PF3D7_0815600	PF3D7_0815600.1	P. falciparum 3D7	Pf3D7_08_v3:729,917..732,187(-)	eukaryotic translation initiation factor 3 subunit G, putative	protein coding	2655434
+PF3D7_0815800	PF3D7_0815800.1	P. falciparum 3D7	Pf3D7_08_v3:735,680..741,181(-)	vacuolar protein sorting-associated protein 9, putative	protein coding	2655433
+PF3D7_0817300	PF3D7_0817300.1	P. falciparum 3D7	Pf3D7_08_v3:782,909..789,616(-)	conserved Plasmodium protein, unknown function	protein coding	2655260
+PF3D7_0817500	PF3D7_0817500.1	P. falciparum 3D7	Pf3D7_08_v3:798,777..800,205(+)	histidine triad nucleotide-binding protein 1	protein coding	2655259
+PF3D7_0817600	PF3D7_0817600.1	P. falciparum 3D7	Pf3D7_08_v3:800,920..804,034(-)	conserved protein, unknown function	protein coding	2655258
+PF3D7_0817900	PF3D7_0817900.1	P. falciparum 3D7	Pf3D7_08_v3:816,803..817,102(-)	high mobility group protein B2	protein coding	2655422
+PF3D7_0818000	PF3D7_0818000.1	P. falciparum 3D7	Pf3D7_08_v3:821,334..822,452(+)	U4/U6.U5 small nuclear ribonucleoprotein, putative	protein coding	2655421
+PF3D7_0818200	PF3D7_0818200.1	P. falciparum 3D7	Pf3D7_08_v3:830,006..831,454(+)	14-3-3 protein	protein coding	2655418
+PF3D7_0818800	PF3D7_0818800.1	P. falciparum 3D7	Pf3D7_08_v3:855,654..856,742(-)	U3 small nucleolar ribonucleoprotein protein IMP4, putative	protein coding	2655255
+PF3D7_0818900	PF3D7_0818900.1	P. falciparum 3D7	Pf3D7_08_v3:860,384..862,417(+)	heat shock protein 70	protein coding	2655254
+PF3D7_0819000	PF3D7_0819000.1	P. falciparum 3D7	Pf3D7_08_v3:863,505..868,137(-)	conserved Plasmodium protein, unknown function	protein coding	2655390
+PF3D7_0819900	PF3D7_0819900.1	P. falciparum 3D7	Pf3D7_08_v3:899,004..899,657(-)	U6 snRNA-associated Sm-like protein LSm3, putative	protein coding	2655500
+PF3D7_0820000	PF3D7_0820000.1	P. falciparum 3D7	Pf3D7_08_v3:900,742..907,714(-)	Snf2-related CBP activator, putative	protein coding	2655499
+PF3D7_0820300	PF3D7_0820300.1	P. falciparum 3D7	Pf3D7_08_v3:919,055..920,896(+)	conserved Plasmodium protein, unknown function	protein coding	2655498
+PF3D7_0820700	PF3D7_0820700.1	P. falciparum 3D7	Pf3D7_08_v3:932,321..935,626(+)	2-oxoglutarate dehydrogenase E1 component	protein coding	2655496
+PF3D7_0821500	PF3D7_0821500.1	P. falciparum 3D7	Pf3D7_08_v3:967,901..968,740(-)	ribosomal RNA small subunit methyltransferase NEP1, putative	protein coding	2655492
+PF3D7_0822900	PF3D7_0822900.1	P. falciparum 3D7	Pf3D7_08_v3:1,007,777..1,011,307(-)	conserved Plasmodium protein, unknown function	protein coding	2655486
+PF3D7_0823200	PF3D7_0823200.1	P. falciparum 3D7	Pf3D7_08_v3:1,022,629..1,023,846(-)	RNA-binding protein, putative	protein coding	2655381
+PF3D7_0823300	PF3D7_0823300.1	P. falciparum 3D7	Pf3D7_08_v3:1,028,752..1,033,514(+)	histone acetyltransferase GCN5	protein coding	2655485
+PF3D7_0824200	PF3D7_0824200.1	P. falciparum 3D7	Pf3D7_08_v3:1,055,135..1,059,003(+)	conserved Plasmodium protein, unknown function	protein coding	2655375
+PF3D7_0824400	PF3D7_0824400.1	P. falciparum 3D7	Pf3D7_08_v3:1,062,304..1,064,061(-)	nucleoside transporter 2	protein coding	2655415
+PF3D7_0825000	PF3D7_0825000.1	P. falciparum 3D7	Pf3D7_08_v3:1,086,048..1,091,248(+)	conserved Plasmodium protein, unknown function	protein coding	2655411
+PF3D7_0825500	PF3D7_0825500.1	P. falciparum 3D7	Pf3D7_08_v3:1,098,484..1,100,376(+)	protein KRI1, putative	protein coding	2655476
+PF3D7_0826100	PF3D7_0826100.1	P. falciparum 3D7	Pf3D7_08_v3:1,113,369..1,139,144(-)	HECT-like E3 ubiquitin ligase, putative	protein coding	2655229
+PF3D7_0826500	PF3D7_0826500.1	P. falciparum 3D7	Pf3D7_08_v3:1,152,302..1,156,282(+)	ubiquitin conjugation factor E4 B, putative	protein coding	2655469
+PF3D7_0827600	PF3D7_0827600.1	P. falciparum 3D7	Pf3D7_08_v3:1,187,623..1,192,925(-)	conserved Plasmodium protein, unknown function	protein coding	2655363
+PF3D7_0827900	PF3D7_0827900.1	P. falciparum 3D7	Pf3D7_08_v3:1,206,788..1,208,394(-)	protein disulfide isomerase	protein coding	2655362
+PF3D7_0828500	PF3D7_0828500.1	P. falciparum 3D7	Pf3D7_08_v3:1,226,750..1,228,409(-)	translation initiation factor eIF-2B subunit alpha, putative	protein coding	2655458
+PF3D7_0828700	PF3D7_0828700.1	P. falciparum 3D7	Pf3D7_08_v3:1,233,372..1,236,473(+)	conserved protein, unknown function	protein coding	2655240
+PF3D7_0828800	PF3D7_0828800.1	P. falciparum 3D7	Pf3D7_08_v3:1,237,285..1,239,501(-)	GPI-anchored micronemal antigen	protein coding	2655457
+PF3D7_0829400	PF3D7_0829400.1	P. falciparum 3D7	Pf3D7_08_v3:1,257,716..1,259,041(-)	prolyl 4-hydroxylase subunit alpha, putative	protein coding	2655430
+PF3D7_0830500	PF3D7_0830500.1	P. falciparum 3D7	Pf3D7_08_v3:1,296,134..1,298,328(-)	sporozoite and liver stage tryptophan-rich protein, putative	protein coding	2655452
+PF3D7_0830600	PF3D7_0830600.1	P. falciparum 3D7	Pf3D7_08_v3:1,303,323..1,304,813(+)	Plasmodium exported protein (PHISTc), unknown function	protein coding	2655380
+PF3D7_0830700	PF3D7_0830700.1	P. falciparum 3D7	Pf3D7_08_v3:1,307,053..1,307,924(+)	Plasmodium exported protein (hyp9), unknown function	protein coding	2655412
+PF3D7_0830800	PF3D7_0830800.1	P. falciparum 3D7	Pf3D7_08_v3:1,310,637..1,316,955(+)	surface-associated interspersed protein 8.2 (SURFIN 8.2)	protein coding	2655451
+PF3D7_0830900	PF3D7_0830900.1	P. falciparum 3D7	Pf3D7_08_v3:1,317,600..1,318,341(-)	Plasmodium exported protein, unknown function	protein coding	2655247
+PF3D7_0900100	PF3D7_0900100.1	P. falciparum 3D7	Pf3D7_09_v3:20,080..27,885(+)	erythrocyte membrane protein 1, PfEMP1	protein coding	813289
+PF3D7_0902600	PF3D7_0902600.1	P. falciparum 3D7	Pf3D7_09_v3:113,409..115,549(-)	serine/threonine protein kinase, FIKK family	protein coding	813305
+PF3D7_0903200	PF3D7_0903200.1	P. falciparum 3D7	Pf3D7_09_v3:133,762..135,587(-)	ras-related protein RAB7	protein coding	813311
+PF3D7_0903300	PF3D7_0903300.1	P. falciparum 3D7	Pf3D7_09_v3:140,977..150,588(+)	conserved protein, unknown function	protein coding	813312
+PF3D7_0903400	PF3D7_0903400.1	P. falciparum 3D7	Pf3D7_09_v3:151,700..159,541(-)	ATP-dependent RNA helicase DDX60, putative	protein coding	813313
+PF3D7_0903500	PF3D7_0903500.1	P. falciparum 3D7	Pf3D7_09_v3:162,769..166,923(+)	nucleoporin NUP138, putative	protein coding	813314
+PF3D7_0903600	PF3D7_0903600.1	P. falciparum 3D7	Pf3D7_09_v3:168,493..172,887(+)	conserved protein, unknown function, unspecified product	protein coding	813315
+PF3D7_0903600	PF3D7_0903600.2	P. falciparum 3D7	Pf3D7_09_v3:168,493..172,887(+)	conserved protein, unknown function, unspecified product	protein coding	813315
+PF3D7_0903700	PF3D7_0903700.1	P. falciparum 3D7	Pf3D7_09_v3:175,542..177,442(+)	alpha tubulin 1	protein coding	813316
+PF3D7_0903900	PF3D7_0903900.1	P. falciparum 3D7	Pf3D7_09_v3:185,821..186,383(+)	60S ribosomal protein L32	protein coding	813318
+PF3D7_0904000	PF3D7_0904000.1	P. falciparum 3D7	Pf3D7_09_v3:187,342..188,622(-)	GTPase-activating protein, putative	protein coding	813319
+PF3D7_0904100	PF3D7_0904100.1	P. falciparum 3D7	Pf3D7_09_v3:190,858..195,827(-)	AP-4 complex subunit epsilon, putative	protein coding	813320
+PF3D7_0904600	PF3D7_0904600.1	P. falciparum 3D7	Pf3D7_09_v3:212,515..217,983(+)	ubiquitin specific protease, putative	protein coding	813325
+PF3D7_0904900	PF3D7_0904900.1	P. falciparum 3D7	Pf3D7_09_v3:224,875..232,831(-)	copper-transporting ATPase	protein coding	813328
+PF3D7_0905100	PF3D7_0905100.1	P. falciparum 3D7	Pf3D7_09_v3:236,359..242,969(-)	nucleoporin NUP221, putative	protein coding	813330
+PF3D7_0905400	PF3D7_0905400.1	P. falciparum 3D7	Pf3D7_09_v3:270,740..274,789(-)	high molecular weight rhoptry protein 3	protein coding	813333
+PF3D7_0905800	PF3D7_0905800.1	P. falciparum 3D7	Pf3D7_09_v3:289,050..292,897(+)	conserved Plasmodium protein, unknown function	protein coding	813337
+PF3D7_0905900	PF3D7_0905900.1	P. falciparum 3D7	Pf3D7_09_v3:293,585..296,617(-)	coatomer subunit beta, putative	protein coding	813338
+PF3D7_0907200	PF3D7_0907200.1	P. falciparum 3D7	Pf3D7_09_v3:345,892..349,293(+)	GTPase-activating protein, putative	protein coding	813349
+PF3D7_0907300	PF3D7_0907300.1	P. falciparum 3D7	Pf3D7_09_v3:350,186..350,962(-)	prefoldin-like protein, putative	protein coding	813350
+PF3D7_0907400	PF3D7_0907400.1	P. falciparum 3D7	Pf3D7_09_v3:351,955..354,723(-)	ATP-dependent protease ATPase subunit ClpY	protein coding	813351
+PF3D7_0907700	PF3D7_0907700.1	P. falciparum 3D7	Pf3D7_09_v3:364,069..364,908(-)	proteasome activator 28 subunit beta, putative	protein coding	813354
+PF3D7_0909700	PF3D7_0909700.1	P. falciparum 3D7	Pf3D7_09_v3:440,914..444,024(+)	FHA domain protein, putative	protein coding	813374
+PF3D7_0910200	PF3D7_0910200.1	P. falciparum 3D7	Pf3D7_09_v3:464,559..473,768(+)	conserved Plasmodium protein, unknown function	protein coding	813379
+PF3D7_0911700	PF3D7_0911700.1	P. falciparum 3D7	Pf3D7_09_v3:532,341..535,598(+)	GTP-binding protein, putative	protein coding	813394
+PF3D7_0912000	PF3D7_0912000.1	P. falciparum 3D7	Pf3D7_09_v3:541,033..545,739(-)	conserved Plasmodium protein, unknown function	protein coding	813397
+PF3D7_0912100	PF3D7_0912100.1	P. falciparum 3D7	Pf3D7_09_v3:546,800..548,101(-)	zinc finger protein, putative	protein coding	813398
+PF3D7_0913000	PF3D7_0913000.1	P. falciparum 3D7	Pf3D7_09_v3:569,124..570,374(-)	conserved protein, unknown function	protein coding	813407
+PF3D7_0914100	PF3D7_0914100.1	P. falciparum 3D7	Pf3D7_09_v3:601,076..604,576(-)	conserved Plasmodium protein, unknown function	protein coding	813418
+PF3D7_0914400	PF3D7_0914400.1	P. falciparum 3D7	Pf3D7_09_v3:617,963..619,835(+)	conserved protein, unknown function	protein coding	813421
+PF3D7_0915400	PF3D7_0915400.1	P. falciparum 3D7	Pf3D7_09_v3:650,585..654,841(-)	ATP-dependent 6-phosphofructokinase	protein coding	813431
+PF3D7_0916700	PF3D7_0916700.1	P. falciparum 3D7	Pf3D7_09_v3:696,863..698,029(-)	RNA-binding protein musashi, putative	protein coding	813444
+PF3D7_0916900	PF3D7_0916900.1	P. falciparum 3D7	Pf3D7_09_v3:705,357..706,355(+)	zinc finger protein, putative	protein coding	813445
+PF3D7_0917000	PF3D7_0917000.1	P. falciparum 3D7	Pf3D7_09_v3:706,592..712,072(-)	merozoite organizing protein	protein coding	813446
+PF3D7_0917900	PF3D7_0917900.1	P. falciparum 3D7	Pf3D7_09_v3:737,985..740,276(+)	heat shock protein 70	protein coding	813455
+PF3D7_0918900	PF3D7_0918900.1	P. falciparum 3D7	Pf3D7_09_v3:777,558..780,749(+)	gamma-glutamylcysteine synthetase	protein coding	813465
+PF3D7_0919000	PF3D7_0919000.1	P. falciparum 3D7	Pf3D7_09_v3:781,368..782,675(-)	nucleosome assembly protein	protein coding	813466
+PF3D7_0919800	PF3D7_0919800.1	P. falciparum 3D7	Pf3D7_09_v3:804,417..807,920(-)	TLD domain-containing protein	protein coding	813474
+PF3D7_0919900	PF3D7_0919900.1	P. falciparum 3D7	Pf3D7_09_v3:809,659..819,804(-)	regulator of chromosome condensation-PP1-interacting protein	protein coding	813475
+PF3D7_0920200	PF3D7_0920200.1	P. falciparum 3D7	Pf3D7_09_v3:827,730..830,681(-)	CS domain protein, putative	protein coding	813478
+PF3D7_0920600	PF3D7_0920600.1	P. falciparum 3D7	Pf3D7_09_v3:843,541..847,605(+)	conserved Plasmodium protein, unknown function	protein coding	813482
+PF3D7_0921900	PF3D7_0921900.1	P. falciparum 3D7	Pf3D7_09_v3:888,559..889,305(+)	conserved Plasmodium protein, unknown function	protein coding	813495
+PF3D7_0922100	PF3D7_0922100.1	P. falciparum 3D7	Pf3D7_09_v3:895,415..900,304(+)	ubiquitin-like protein, putative	protein coding	813497
+PF3D7_0922200	PF3D7_0922200.1	P. falciparum 3D7	Pf3D7_09_v3:903,362..904,570(+)	S-adenosylmethionine synthetase	protein coding	813498
+PF3D7_0922500	PF3D7_0922500.1	P. falciparum 3D7	Pf3D7_09_v3:913,230..914,480(+)	phosphoglycerate kinase	protein coding	813501
+PF3D7_0922600	PF3D7_0922600.1	P. falciparum 3D7	Pf3D7_09_v3:916,603..918,674(+)	glutamine synthetase, putative	protein coding	813502
+PF3D7_0922700	PF3D7_0922700.1	P. falciparum 3D7	Pf3D7_09_v3:919,109..921,302(-)	pre-mRNA-splicing factor 18, putative	protein coding	813503
+PF3D7_0923400	PF3D7_0923400.1	P. falciparum 3D7	Pf3D7_09_v3:950,408..953,722(+)	conserved Plasmodium protein, unknown function	protein coding	813510
+PF3D7_0923500	PF3D7_0923500.1	P. falciparum 3D7	Pf3D7_09_v3:956,605..957,835(+)	cyclin-dependent kinases regulatory subunit, putative	protein coding	813511
+PF3D7_0924400	PF3D7_0924400.1	P. falciparum 3D7	Pf3D7_09_v3:988,977..992,915(+)	conserved Plasmodium protein, unknown function	protein coding	813520
+PF3D7_0924700	PF3D7_0924700.1	P. falciparum 3D7	Pf3D7_09_v3:1,006,773..1,008,542(+)	splicing factor 3A subunit 3, putative	protein coding	813523
+PF3D7_0926800	PF3D7_0926800.1	P. falciparum 3D7	Pf3D7_09_v3:1,092,844..1,096,521(-)	conserved Plasmodium protein, unknown function	protein coding	813543
+PF3D7_0926900	PF3D7_0926900.1	P. falciparum 3D7	Pf3D7_09_v3:1,097,324..1,098,240(-)	replication termination factor, putative	protein coding	813544
+PF3D7_0927200	PF3D7_0927200.1	P. falciparum 3D7	Pf3D7_09_v3:1,107,143..1,112,656(+)	zinc finger protein, putative	protein coding	813547
+PF3D7_0927300	PF3D7_0927300.1	P. falciparum 3D7	Pf3D7_09_v3:1,113,958..1,116,003(+)	fumarate hydratase	protein coding	813548
+PF3D7_0927600	PF3D7_0927600.1	P. falciparum 3D7	Pf3D7_09_v3:1,123,861..1,125,858(+)	RNA-binding protein, putative	protein coding	813551
+PF3D7_0928000	PF3D7_0928000.1	P. falciparum 3D7	Pf3D7_09_v3:1,135,545..1,136,391(+)	cytochrome c oxidase subunit 6B, putative	protein coding	813555
+PF3D7_0928000	PF3D7_0928000.2	P. falciparum 3D7	Pf3D7_09_v3:1,135,545..1,136,391(+)	cytochrome c oxidase subunit 6B, putative	protein coding	813555
+PF3D7_0929400	PF3D7_0929400.1	P. falciparum 3D7	Pf3D7_09_v3:1,175,203..1,180,762(+)	high molecular weight rhoptry protein 2	protein coding	813569
+PF3D7_0930300	PF3D7_0930300.1	P. falciparum 3D7	Pf3D7_09_v3:1,201,812..1,206,974(+)	merozoite surface protein 1	protein coding	813575
+PF3D7_0930400	PF3D7_0930400.1	P. falciparum 3D7	Pf3D7_09_v3:1,207,974..1,211,703(+)	zinc finger protein, putative	protein coding	813576
+PF3D7_0930400	PF3D7_0930400.2	P. falciparum 3D7	Pf3D7_09_v3:1,207,974..1,211,703(+)	zinc finger protein, putative	protein coding	813576
+PF3D7_0930500	PF3D7_0930500.1	P. falciparum 3D7	Pf3D7_09_v3:1,212,169..1,216,500(-)	diacylglycerol kinase, putative	protein coding	813577
+PF3D7_0930800	PF3D7_0930800.1	P. falciparum 3D7	Pf3D7_09_v3:1,225,556..1,239,575(+)	conserved Plasmodium membrane protein, unknown function	protein coding	813580
+PF3D7_0931100	PF3D7_0931100.1	P. falciparum 3D7	Pf3D7_09_v3:1,254,815..1,257,292(+)	nucleolar protein Nop52, putative	protein coding	813582
+PF3D7_0932800	PF3D7_0932800.1	P. falciparum 3D7	Pf3D7_09_v3:1,303,390..1,307,789(-)	importin alpha re-exporter, putative	protein coding	813598
+PF3D7_0933000	PF3D7_0933000.1	P. falciparum 3D7	Pf3D7_09_v3:1,311,440..1,313,725(+)	CSTF domain-containing protein, putative	protein coding	813600
+PF3D7_0933200	PF3D7_0933200.1	P. falciparum 3D7	Pf3D7_09_v3:1,317,827..1,319,468(-)	calcyclin-binding protein, putative	protein coding	813602
+PF3D7_0933900	PF3D7_0933900.1	P. falciparum 3D7	Pf3D7_09_v3:1,338,175..1,339,295(-)	conserved Plasmodium protein, unknown function	protein coding	813608
+PF3D7_0934700	PF3D7_0934700.1	P. falciparum 3D7	Pf3D7_09_v3:1,357,411..1,359,262(+)	UBX domain-containing protein, putative	protein coding	813616
+PF3D7_0935500	PF3D7_0935500.1	P. falciparum 3D7	Pf3D7_09_v3:1,400,800..1,402,052(+)	Plasmodium exported protein, unknown function	protein coding	813623
+PF3D7_0935600	PF3D7_0935600.1	P. falciparum 3D7	Pf3D7_09_v3:1,405,192..1,407,022(+)	gametocytogenesis-implicated protein	protein coding	813624
+PF3D7_0936300	PF3D7_0936300.1	P. falciparum 3D7	Pf3D7_09_v3:1,436,687..1,437,981(-)	ring-exported protein 3	protein coding	813631
+PF3D7_0936800	PF3D7_0936800.1	P. falciparum 3D7	Pf3D7_09_v3:1,458,392..1,459,862(+)	Plasmodium exported protein (PHISTc), unknown function	protein coding	813636
+PF3D7_0937800	PF3D7_0937800.1	P. falciparum 3D7	Pf3D7_09_v3:1,495,579..1,503,336(-)	erythrocyte membrane protein 1, PfEMP1	protein coding	813645
+PF3D7_1002100	PF3D7_1002100.1	P. falciparum 3D7	Pf3D7_10_v3:106,653..108,662(-)	EMP1-trafficking protein	protein coding	810183
+PF3D7_1002200	PF3D7_1002200.1	P. falciparum 3D7	Pf3D7_10_v3:112,929..116,015(+)	tryptophan-rich antigen 3	protein coding	810184
+PF3D7_1002400	PF3D7_1002400.1	P. falciparum 3D7	Pf3D7_10_v3:121,115..123,291(+)	transformer-2 protein homolog beta, putative	protein coding	810186
+PF3D7_1002400	PF3D7_1002400.2	P. falciparum 3D7	Pf3D7_10_v3:121,115..123,291(+)	transformer-2 protein homolog beta, putative	protein coding	810186
+PF3D7_1003500	PF3D7_1003500.1	P. falciparum 3D7	Pf3D7_10_v3:160,316..160,962(-)	40S ribosomal protein S20e, putative	protein coding	810196
+PF3D7_1003600	PF3D7_1003600.1	P. falciparum 3D7	Pf3D7_10_v3:164,945..165,790(+)	inner membrane complex protein 1c, putative	protein coding	810197
+PF3D7_1003700	PF3D7_1003700.1	P. falciparum 3D7	Pf3D7_10_v3:166,743..170,669(-)	MKT1 domain-containing protein, putative	protein coding	810198
+PF3D7_1003800	PF3D7_1003800.1	P. falciparum 3D7	Pf3D7_10_v3:172,723..176,430(-)	U5 small nuclear ribonucleoprotein component, putative	protein coding	810199
+PF3D7_1004000	PF3D7_1004000.1	P. falciparum 3D7	Pf3D7_10_v3:179,344..180,226(-)	60S ribosomal protein L13, putative	protein coding	810201
+PF3D7_1004300	PF3D7_1004300.1	P. falciparum 3D7	Pf3D7_10_v3:199,452..202,844(-)	E3 ubiquitin-protein ligase, putative	protein coding	810204
+PF3D7_1004400	PF3D7_1004400.1	P. falciparum 3D7	Pf3D7_10_v3:207,000..209,642(-)	RNA-binding protein, putative	protein coding	810205
+PF3D7_1005600	PF3D7_1005600.1	P. falciparum 3D7	Pf3D7_10_v3:244,145..246,535(-)	DnaJ protein, putative	protein coding	810216
+PF3D7_1005900	PF3D7_1005900.1	P. falciparum 3D7	Pf3D7_10_v3:253,704..255,611(+)	conserved protein, unknown function	protein coding	810218
+PF3D7_1006200	PF3D7_1006200.1	P. falciparum 3D7	Pf3D7_10_v3:262,150..262,997(-)	DNA/RNA-binding protein Alba 3	protein coding	810221
+PF3D7_1006800	PF3D7_1006800.1	P. falciparum 3D7	Pf3D7_10_v3:277,621..279,168(+)	single-strand telomeric DNA-binding protein GBP2, putative	protein coding	810226
+PF3D7_1007200	PF3D7_1007200.1	P. falciparum 3D7	Pf3D7_10_v3:288,383..290,826(-)	rho GTPase-activating protein, putative	protein coding	810229
+PF3D7_1007400	PF3D7_1007400.1	P. falciparum 3D7	Pf3D7_10_v3:296,906..297,565(+)	conserved protein, unknown function	protein coding	810231
+PF3D7_1007700	PF3D7_1007700.1	P. falciparum 3D7	Pf3D7_10_v3:301,126..305,919(-)	AP2 domain transcription factor AP2-I	protein coding	810233
+PF3D7_1007900	PF3D7_1007900.1	P. falciparum 3D7	Pf3D7_10_v3:316,649..318,280(+)	eukaryotic translation initiation factor 3 subunit D, putative	protein coding	810235
+PF3D7_1008000	PF3D7_1008000.1	P. falciparum 3D7	Pf3D7_10_v3:321,011..328,150(+)	histone deacetylase 2	protein coding	810236
+PF3D7_1008100	PF3D7_1008100.1	P. falciparum 3D7	Pf3D7_10_v3:331,246..342,807(+)	zinc finger protein, putative	protein coding	810237
+PF3D7_1008400	PF3D7_1008400.1	P. falciparum 3D7	Pf3D7_10_v3:347,206..348,667(-)	26S protease regulatory subunit 4, putative	protein coding	810239
+PF3D7_1008700	PF3D7_1008700.1	P. falciparum 3D7	Pf3D7_10_v3:360,625..362,480(-)	tubulin beta chain	protein coding	810242
+PF3D7_1008900	PF3D7_1008900.1	P. falciparum 3D7	Pf3D7_10_v3:369,199..370,225(-)	adenylate kinase	protein coding	810244
+PF3D7_1009400	PF3D7_1009400.1	P. falciparum 3D7	Pf3D7_10_v3:381,361..382,449(+)	zinc finger protein, putative	protein coding	810249
+PF3D7_1011400	PF3D7_1011400.1	P. falciparum 3D7	Pf3D7_10_v3:441,140..441,955(-)	proteasome subunit beta type-5	protein coding	810269
+PF3D7_1011700	PF3D7_1011700.1	P. falciparum 3D7	Pf3D7_10_v3:449,154..450,323(+)	DNA repair protein RAD23, putative	protein coding	810272
+PF3D7_1011800	PF3D7_1011800.1	P. falciparum 3D7	Pf3D7_10_v3:455,398..458,817(+)	PRE-binding protein	protein coding	810273
+PF3D7_1012200	PF3D7_1012200.1	P. falciparum 3D7	Pf3D7_10_v3:470,979..471,933(+)	rhoptry associated adhesin	protein coding	810277
+PF3D7_1013400	PF3D7_1013400.1	P. falciparum 3D7	Pf3D7_10_v3:518,542..522,252(-)	conserved Plasmodium protein, unknown function	protein coding	810289
+PF3D7_1013500	PF3D7_1013500.1	P. falciparum 3D7	Pf3D7_10_v3:526,840..531,448(+)	phosphoinositide-specific phospholipase C	protein coding	810290
+PF3D7_1013800	PF3D7_1013800.1	P. falciparum 3D7	Pf3D7_10_v3:542,359..544,779(+)	conserved Plasmodium protein, unknown function	protein coding	810293
+PF3D7_1013900	PF3D7_1013900.1	P. falciparum 3D7	Pf3D7_10_v3:545,679..548,903(-)	translation initiation factor eIF-2B subunit delta, putative	protein coding	810294
+PF3D7_1014100	PF3D7_1014100.1	P. falciparum 3D7	Pf3D7_10_v3:555,160..559,527(+)	merozoite surface protein MSA180, putative	protein coding	810296
+PF3D7_1014600	PF3D7_1014600.1	P. falciparum 3D7	Pf3D7_10_v3:581,354..589,090(-)	transcriptional coactivator ADA2	protein coding	810301
+PF3D7_1014900	PF3D7_1014900.1	P. falciparum 3D7	Pf3D7_10_v3:600,970..607,809(-)	conserved Plasmodium protein, unknown function	protein coding	810304
+PF3D7_1015300	PF3D7_1015300.1	P. falciparum 3D7	Pf3D7_10_v3:618,440..619,993(+)	methionine aminopeptidase 1b, putative	protein coding	810308
+PF3D7_1015900	PF3D7_1015900.1	P. falciparum 3D7	Pf3D7_10_v3:637,138..639,011(+)	enolase	protein coding	810313
+PF3D7_1016400	PF3D7_1016400.1	P. falciparum 3D7	Pf3D7_10_v3:656,709..659,027(-)	serine/threonine protein kinase, FIKK family	protein coding	810318
+PF3D7_1016800	PF3D7_1016800.1	P. falciparum 3D7	Pf3D7_10_v3:675,293..676,417(-)	Plasmodium exported protein (PHISTc), unknown function	protein coding	810321
+PF3D7_1017400	PF3D7_1017400.1	P. falciparum 3D7	Pf3D7_10_v3:697,970..699,823(-)	phosphomannomutase, putative	protein coding	810327
+PF3D7_1017500	PF3D7_1017500.1	P. falciparum 3D7	Pf3D7_10_v3:701,746..702,422(+)	myosin essential light chain ELC	protein coding	810328
+PF3D7_1017600	PF3D7_1017600.1	P. falciparum 3D7	Pf3D7_10_v3:705,537..708,452(+)	conserved Plasmodium protein, unknown function	protein coding	810329
+PF3D7_1019000	PF3D7_1019000.1	P. falciparum 3D7	Pf3D7_10_v3:757,795..765,158(+)	eukaryotic translation initiation factor subunit eIF2A, putative	protein coding	810341
+PF3D7_1019300	PF3D7_1019300.1	P. falciparum 3D7	Pf3D7_10_v3:774,929..780,487(-)	zinc finger protein, putative	protein coding	810344
+PF3D7_1019600	PF3D7_1019600.1	P. falciparum 3D7	Pf3D7_10_v3:796,291..799,923(+)	conserved Plasmodium protein, unknown function	protein coding	810347
+PF3D7_1020000	PF3D7_1020000.1	P. falciparum 3D7	Pf3D7_10_v3:811,106..813,484(-)	RNA-binding protein 34, putative	protein coding	810352
+PF3D7_1020300	PF3D7_1020300.1	P. falciparum 3D7	Pf3D7_10_v3:819,830..822,139(+)	cytoplasmic dynein intermediate chain, putative	protein coding	810354
+PF3D7_1021100	PF3D7_1021100.1	P. falciparum 3D7	Pf3D7_10_v3:851,000..856,285(-)	conserved Plasmodium protein, unknown function	protein coding	810362
+PF3D7_1021200	PF3D7_1021200.1	P. falciparum 3D7	Pf3D7_10_v3:857,673..859,742(-)	conserved Plasmodium protein, unknown function	protein coding	810363
+PF3D7_1021900	PF3D7_1021900.1	P. falciparum 3D7	Pf3D7_10_v3:905,473..912,345(-)	PHAX domain-containing protein, putative	protein coding	810370
+PF3D7_1022000	PF3D7_1022000.1	P. falciparum 3D7	Pf3D7_10_v3:919,772..924,213(+)	RNA-binding protein, putative	protein coding	810371
+PF3D7_1022400	PF3D7_1022400.1	P. falciparum 3D7	Pf3D7_10_v3:939,938..942,234(-)	serine/arginine-rich splicing factor 4	protein coding	810374
+PF3D7_1022600	PF3D7_1022600.1	P. falciparum 3D7	Pf3D7_10_v3:948,477..951,152(+)	kelch protein K10	protein coding	810376
+PF3D7_1022800	PF3D7_1022800.1	P. falciparum 3D7	Pf3D7_10_v3:955,883..958,357(+)	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (ferredoxin), putative	protein coding	810378
+PF3D7_1023000	PF3D7_1023000.1	P. falciparum 3D7	Pf3D7_10_v3:961,066..962,307(-)	conserved Plasmodium membrane protein, unknown function	protein coding	810380
+PF3D7_1023900	PF3D7_1023900.1	P. falciparum 3D7	Pf3D7_10_v3:997,475..1,007,461(-)	chromodomain-helicase-DNA-binding protein 1 homolog, putative	protein coding	810389
+PF3D7_1024300	PF3D7_1024300.1	P. falciparum 3D7	Pf3D7_10_v3:1,022,505..1,022,897(+)	ATP synthase-associated protein, putative	protein coding	810393
+PF3D7_1024800	PF3D7_1024800.1	P. falciparum 3D7	Pf3D7_10_v3:1,034,685..1,039,079(+)	exported protein 3	protein coding	810399
+PF3D7_1025000	PF3D7_1025000.1	P. falciparum 3D7	Pf3D7_10_v3:1,045,608..1,049,760(-)	EF-hand calcium-binding domain-containing protein, putative	protein coding	810401
+PF3D7_1025300	PF3D7_1025300.1	P. falciparum 3D7	Pf3D7_10_v3:1,057,890..1,060,658(-)	conserved protein, unknown function	protein coding	810403
+PF3D7_1025400	PF3D7_1025400.1	P. falciparum 3D7	Pf3D7_10_v3:1,061,399..1,067,085(-)	conserved Plasmodium membrane protein, unknown function	protein coding	810405
+PF3D7_1025900	PF3D7_1025900.1	P. falciparum 3D7	Pf3D7_10_v3:1,091,436..1,097,277(-)	conserved protein, unknown function	protein coding	810411
+PF3D7_1026300	PF3D7_1026300.1	P. falciparum 3D7	Pf3D7_10_v3:1,106,086..1,109,451(+)	conserved Plasmodium protein, unknown function	protein coding	810417
+PF3D7_1026600	PF3D7_1026600.1	P. falciparum 3D7	Pf3D7_10_v3:1,113,495..1,118,573(-)	conserved Plasmodium protein, unknown function	protein coding	810419
+PF3D7_1026800	PF3D7_1026800.1	P. falciparum 3D7	Pf3D7_10_v3:1,122,962..1,124,037(+)	40S ribosomal protein S2	protein coding	810421
+PF3D7_1027100	PF3D7_1027100.1	P. falciparum 3D7	Pf3D7_10_v3:1,133,838..1,136,156(-)	U3 small nucleolar ribonucleoprotein protein MPP10, putative	protein coding	810423
+PF3D7_1027300	PF3D7_1027300.1	P. falciparum 3D7	Pf3D7_10_v3:1,140,589..1,142,602(-)	peroxiredoxin	protein coding	810425
+PF3D7_1027800	PF3D7_1027800.1	P. falciparum 3D7	Pf3D7_10_v3:1,153,271..1,154,431(-)	60S ribosomal protein L3	protein coding	810429
+PF3D7_1028600	PF3D7_1028600.1	P. falciparum 3D7	Pf3D7_10_v3:1,176,461..1,177,849(-)	conserved Plasmodium protein, unknown function	protein coding	810437
+PF3D7_1028700	PF3D7_1028700.1	P. falciparum 3D7	Pf3D7_10_v3:1,181,005..1,182,501(+)	merozoite TRAP-like protein	protein coding	810438
+PF3D7_1029600	PF3D7_1029600.1	P. falciparum 3D7	Pf3D7_10_v3:1,206,302..1,207,405(+)	adenosine deaminase	protein coding	810446
+PF3D7_1029900	PF3D7_1029900.1	P. falciparum 3D7	Pf3D7_10_v3:1,217,348..1,222,441(+)	conserved Plasmodium protein, unknown function	protein coding	810449
+PF3D7_1030100	PF3D7_1030100.1	P. falciparum 3D7	Pf3D7_10_v3:1,224,519..1,229,092(-)	pre-mRNA-splicing factor ATP-dependent RNA helicase PRP22, putative	protein coding	810451
+PF3D7_1030300	PF3D7_1030300.1	P. falciparum 3D7	Pf3D7_10_v3:1,233,667..1,237,002(-)	conserved Plasmodium protein, unknown function	protein coding	810453
+PF3D7_1031500	PF3D7_1031500.1	P. falciparum 3D7	Pf3D7_10_v3:1,270,528..1,274,144(+)	DEAD/DEAH box helicase, putative	protein coding	810466
+PF3D7_1031600	PF3D7_1031600.1	P. falciparum 3D7	Pf3D7_10_v3:1,275,863..1,278,577(+)	conserved Plasmodium protein, unknown function	protein coding	810467
+PF3D7_1031700	PF3D7_1031700.1	P. falciparum 3D7	Pf3D7_10_v3:1,281,252..1,281,989(+)	protein phosphatase inhibitor 3	protein coding	810468
+PF3D7_1032700	PF3D7_1032700.1	P. falciparum 3D7	Pf3D7_10_v3:1,310,421..1,312,082(-)	conserved Plasmodium protein, unknown function	protein coding	810476
+PF3D7_1033100	PF3D7_1033100.1	P. falciparum 3D7	Pf3D7_10_v3:1,324,132..1,328,436(-)	S-adenosylmethionine decarboxylase/ornithine decarboxylase	protein coding	810479
+PF3D7_1033200	PF3D7_1033200.1	P. falciparum 3D7	Pf3D7_10_v3:1,335,222..1,336,289(+)	early transcribed membrane protein 10.2	protein coding	810480
+PF3D7_1033300	PF3D7_1033300.1	P. falciparum 3D7	Pf3D7_10_v3:1,338,124..1,338,818(-)	conserved protein, unknown function	protein coding	810481
+PF3D7_1034500	PF3D7_1034500.1	P. falciparum 3D7	Pf3D7_10_v3:1,370,731..1,376,131(+)	conserved Plasmodium protein, unknown function	protein coding	810492
+PF3D7_1035100	PF3D7_1035100.1	P. falciparum 3D7	Pf3D7_10_v3:1,391,445..1,393,130(+)	probable protein, unknown function	protein coding	810499
+PF3D7_1035300	PF3D7_1035300.1	P. falciparum 3D7	Pf3D7_10_v3:1,399,195..1,402,896(+)	glutamate-rich protein GLURP	protein coding	810501
+PF3D7_1035400	PF3D7_1035400.1	P. falciparum 3D7	Pf3D7_10_v3:1,404,195..1,405,259(+)	merozoite surface protein 3	protein coding	810502
+PF3D7_1035500	PF3D7_1035500.1	P. falciparum 3D7	Pf3D7_10_v3:1,407,276..1,408,391(+)	merozoite surface protein 6	protein coding	810503
+PF3D7_1035700	PF3D7_1035700.1	P. falciparum 3D7	Pf3D7_10_v3:1,413,200..1,415,293(+)	duffy binding-like merozoite surface protein	protein coding	810505
+PF3D7_1035800	PF3D7_1035800.1	P. falciparum 3D7	Pf3D7_10_v3:1,420,533..1,422,671(+)	probable protein, unknown function	protein coding	810507
+PF3D7_1035900	PF3D7_1035900.1	P. falciparum 3D7	Pf3D7_10_v3:1,423,983..1,425,683(+)	probable protein, unknown function	protein coding	810508
+PF3D7_1036500	PF3D7_1036500.1	P. falciparum 3D7	Pf3D7_10_v3:1,441,901..1,443,568(+)	conserved Plasmodium protein, unknown function	protein coding	810514
+PF3D7_1036600	PF3D7_1036600.1	P. falciparum 3D7	Pf3D7_10_v3:1,444,441..1,445,529(+)	conserved protein, unknown function, unspecified product	protein coding	810515
+PF3D7_1036600	PF3D7_1036600.2	P. falciparum 3D7	Pf3D7_10_v3:1,444,441..1,445,529(+)	conserved protein, unknown function, unspecified product	protein coding	810515
+PF3D7_1036700	PF3D7_1036700.1	P. falciparum 3D7	Pf3D7_10_v3:1,445,916..1,447,495(-)	phosducin-like protein 2, putative	protein coding	810516
+PF3D7_1036900	PF3D7_1036900.1	P. falciparum 3D7	Pf3D7_10_v3:1,452,599..1,458,006(-)	conserved Plasmodium protein, unknown function	protein coding	810518
+PF3D7_1038000	PF3D7_1038000.1	P. falciparum 3D7	Pf3D7_10_v3:1,505,835..1,506,896(+)	antigen UB05	protein coding	810529
+PF3D7_1038000	PF3D7_1038000.2	P. falciparum 3D7	Pf3D7_10_v3:1,505,835..1,506,896(+)	antigen UB05	protein coding	810529
+PF3D7_1038400	PF3D7_1038400.1	P. falciparum 3D7	Pf3D7_10_v3:1,519,021..1,547,825(+)	gametocyte-specific protein	protein coding	810531
+PF3D7_1038800	PF3D7_1038800.1	P. falciparum 3D7	Pf3D7_10_v3:1,557,816..1,560,696(+)	RESA-like protein with PHIST and DnaJ domains	protein coding	810535
+PF3D7_1039000	PF3D7_1039000.1	P. falciparum 3D7	Pf3D7_10_v3:1,568,709..1,571,815(+)	serine/threonine protein kinase, FIKK family	protein coding	810537
+PF3D7_1102300	PF3D7_1102300.1	P. falciparum 3D7	Pf3D7_11_v3:110,027..111,429(-)	Plasmodium exported protein, unknown function	protein coding	810588
+PF3D7_1102800	PF3D7_1102800.1	P. falciparum 3D7	Pf3D7_11_v3:131,703..131,987(-)	early transcribed membrane protein 11.2	protein coding	810593
+PF3D7_1103800	PF3D7_1103800.1	P. falciparum 3D7	Pf3D7_11_v3:163,985..174,100(+)	CCR4-NOT transcription complex subunit 1, putative	protein coding	810602
+PF3D7_1104200	PF3D7_1104200.1	P. falciparum 3D7	Pf3D7_11_v3:182,383..187,223(-)	chromatin remodeling protein	protein coding	810605
+PF3D7_1104400	PF3D7_1104400.1	P. falciparum 3D7	Pf3D7_11_v3:196,767..198,355(+)	thioredoxin-like mero protein	protein coding	810607
+PF3D7_1104900	PF3D7_1104900.1	P. falciparum 3D7	Pf3D7_11_v3:214,825..219,687(+)	calcium/calmodulin-dependent protein kinase, putative	protein coding	810612
+PF3D7_1105100	PF3D7_1105100.1	P. falciparum 3D7	Pf3D7_11_v3:226,065..226,418(+)	histone H2B	protein coding	810614
+PF3D7_1105300	PF3D7_1105300.1	P. falciparum 3D7	Pf3D7_11_v3:231,847..234,238(-)	conserved Plasmodium protein, unknown function	protein coding	810616
+PF3D7_1105400	PF3D7_1105400.1	P. falciparum 3D7	Pf3D7_11_v3:235,597..237,097(-)	40S ribosomal protein S4, putative	protein coding	810617
+PF3D7_1105500	PF3D7_1105500.1	P. falciparum 3D7	Pf3D7_11_v3:239,687..240,613(+)	centrin-4	protein coding	810618
+PF3D7_1105800	PF3D7_1105800.1	P. falciparum 3D7	Pf3D7_11_v3:250,918..252,872(+)	conserved Apicomplexan protein, unknown function	protein coding	810621
+PF3D7_1106500	PF3D7_1106500.1	P. falciparum 3D7	Pf3D7_11_v3:268,244..274,552(-)	conserved Plasmodium protein, unknown function	protein coding	810628
+PF3D7_1107000	PF3D7_1107000.1	P. falciparum 3D7	Pf3D7_11_v3:291,680..292,502(+)	U6 snRNA-associated Sm-like protein LSm4, putative	protein coding	810633
+PF3D7_1107300	PF3D7_1107300.1	P. falciparum 3D7	Pf3D7_11_v3:301,283..311,287(-)	polyadenylate-binding protein-interacting protein 1, putative	protein coding	810637
+PF3D7_1107700	PF3D7_1107700.1	P. falciparum 3D7	Pf3D7_11_v3:326,881..328,812(+)	pescadillo homolog	protein coding	810641
+PF3D7_1107800	PF3D7_1107800.1	P. falciparum 3D7	Pf3D7_11_v3:329,867..335,601(-)	AP2 domain transcription factor, putative	protein coding	810642
+PF3D7_1108400	PF3D7_1108400.1	P. falciparum 3D7	Pf3D7_11_v3:365,093..366,100(+)	casein kinase 2, alpha subunit	protein coding	810647
+PF3D7_1108600	PF3D7_1108600.1	P. falciparum 3D7	Pf3D7_11_v3:369,675..370,706(-)	endoplasmic reticulum-resident calcium binding protein	protein coding	810649
+PF3D7_1108700	PF3D7_1108700.1	P. falciparum 3D7	Pf3D7_11_v3:373,238..374,860(-)	heat shock protein J2	protein coding	810650
+PF3D7_1110200	PF3D7_1110200.1	P. falciparum 3D7	Pf3D7_11_v3:405,495..409,717(+)	pre-mRNA-processing factor 6, putative	protein coding	810657
+PF3D7_1110400	PF3D7_1110400.1	P. falciparum 3D7	Pf3D7_11_v3:414,797..419,556(+)	RNA-binding protein, putative	protein coding	810660
+PF3D7_1110900	PF3D7_1110900.1	P. falciparum 3D7	Pf3D7_11_v3:431,906..433,645(-)	ES2 protein, putative	protein coding	810664
+PF3D7_1111200	PF3D7_1111200.1	P. falciparum 3D7	Pf3D7_11_v3:439,698..441,680(-)	conserved protein, unknown function	protein coding	810667
+PF3D7_1111400	PF3D7_1111400.1	P. falciparum 3D7	Pf3D7_11_v3:445,233..445,799(-)	conserved Plasmodium protein, unknown function	protein coding	810669
+PF3D7_1112100	PF3D7_1112100.1	P. falciparum 3D7	Pf3D7_11_v3:462,290..469,672(+)	conserved Plasmodium protein, unknown function	protein coding	810675
+PF3D7_1112600	PF3D7_1112600.1	P. falciparum 3D7	Pf3D7_11_v3:478,823..480,946(-)	ATPase, putative	protein coding	810680
+PF3D7_1113400	PF3D7_1113400.1	P. falciparum 3D7	Pf3D7_11_v3:521,122..522,824(-)	ubiquitin domain-containing protein DSK2, putative	protein coding	810689
+PF3D7_1113600	PF3D7_1113600.1	P. falciparum 3D7	Pf3D7_11_v3:527,572..528,702(+)	conserved Plasmodium protein, unknown function	protein coding	810691
+PF3D7_1114700	PF3D7_1114700.1	P. falciparum 3D7	Pf3D7_11_v3:555,514..558,668(+)	serine/threonine protein kinase, putative	protein coding	810703
+PF3D7_1115200	PF3D7_1115200.1	P. falciparum 3D7	Pf3D7_11_v3:576,773..580,276(+)	histone-lysine N-methyltransferase SET7	protein coding	810707
+PF3D7_1115300	PF3D7_1115300.1	P. falciparum 3D7	Pf3D7_11_v3:581,250..582,698(-)	cysteine proteinase falcipain 2b	protein coding	810708
+PF3D7_1115700	PF3D7_1115700.1	P. falciparum 3D7	Pf3D7_11_v3:592,130..593,584(-)	cysteine proteinase falcipain 2a	protein coding	810712
+PF3D7_1116100	PF3D7_1116100.1	P. falciparum 3D7	Pf3D7_11_v3:607,902..613,394(-)	serine esterase, putative	protein coding	810715
+PF3D7_1116700	PF3D7_1116700.1	P. falciparum 3D7	Pf3D7_11_v3:630,779..632,881(-)	dipeptidyl aminopeptidase 1	protein coding	810721
+PF3D7_1116800	PF3D7_1116800.1	P. falciparum 3D7	Pf3D7_11_v3:636,094..639,511(-)	heat shock protein 101	protein coding	810722
+PF3D7_1117900	PF3D7_1117900.1	P. falciparum 3D7	Pf3D7_11_v3:678,752..683,281(+)	conserved Plasmodium protein, unknown function	protein coding	810732
+PF3D7_1118200	PF3D7_1118200.1	P. falciparum 3D7	Pf3D7_11_v3:688,766..691,558(-)	heat shock protein 90, putative	protein coding	810735
+PF3D7_1118300	PF3D7_1118300.1	P. falciparum 3D7	Pf3D7_11_v3:694,655..699,121(+)	insulinase, putative	protein coding	810736
+PF3D7_1118500	PF3D7_1118500.1	P. falciparum 3D7	Pf3D7_11_v3:703,175..704,959(+)	nucleolar protein 56, putative	protein coding	810738
+PF3D7_1118700	PF3D7_1118700.1	P. falciparum 3D7	Pf3D7_11_v3:708,526..712,863(-)	myosin light chain B	protein coding	810740
+PF3D7_1119100	PF3D7_1119100.1	P. falciparum 3D7	Pf3D7_11_v3:720,992..722,273(+)	tRNA m(1)G methyltransferase, putative	protein coding	810745
+PF3D7_1119300	PF3D7_1119300.1	P. falciparum 3D7	Pf3D7_11_v3:724,855..725,739(-)	splicing factor U2AF small subunit, putative	protein coding	810747
+PF3D7_1119400	PF3D7_1119400.1	P. falciparum 3D7	Pf3D7_11_v3:727,896..734,339(+)	ubiquitin-protein ligase, putative	protein coding	810748
+PF3D7_1119900	PF3D7_1119900.1	P. falciparum 3D7	Pf3D7_11_v3:749,152..754,401(+)	protein transport protein SEC16, putative	protein coding	810753
+PF3D7_1120000	PF3D7_1120000.1	P. falciparum 3D7	Pf3D7_11_v3:756,192..760,435(+)	conserved protein, unknown function	protein coding	810754
+PF3D7_1120100	PF3D7_1120100.1	P. falciparum 3D7	Pf3D7_11_v3:761,695..762,818(+)	phosphoglycerate mutase, putative	protein coding	810755
+PF3D7_1121100	PF3D7_1121100.1	P. falciparum 3D7	Pf3D7_11_v3:794,254..799,561(-)	conserved protein, unknown function	protein coding	810765
+PF3D7_1121600	PF3D7_1121600.1	P. falciparum 3D7	Pf3D7_11_v3:815,386..816,322(-)	exported protein 1	protein coding	810771
+PF3D7_1121700	PF3D7_1121700.1	P. falciparum 3D7	Pf3D7_11_v3:820,073..822,520(+)	protein GCN20	protein coding	810772
+PF3D7_1122100	PF3D7_1122100.1	P. falciparum 3D7	Pf3D7_11_v3:840,728..842,450(-)	GPI transamidase component GPI16, putative	protein coding	810776
+PF3D7_1122800	PF3D7_1122800.1	P. falciparum 3D7	Pf3D7_11_v3:872,031..877,678(+)	calcium-dependent protein kinase 6	protein coding	810786
+PF3D7_1123000	PF3D7_1123000.1	P. falciparum 3D7	Pf3D7_11_v3:895,967..903,370(-)	conserved Plasmodium protein, unknown function	protein coding	810788
+PF3D7_1123100	PF3D7_1123100.1	P. falciparum 3D7	Pf3D7_11_v3:909,366..916,324(+)	calcium-dependent protein kinase 7	protein coding	810789
+PF3D7_1123300	PF3D7_1123300.1	P. falciparum 3D7	Pf3D7_11_v3:921,823..923,892(+)	RING zinc finger protein, putative	protein coding	810791
+PF3D7_1123400	PF3D7_1123400.1	P. falciparum 3D7	Pf3D7_11_v3:925,728..927,524(+)	translation elongation factor EF-1, subunit alpha, putative	protein coding	810792
+PF3D7_1123500	PF3D7_1123500.1	P. falciparum 3D7	Pf3D7_11_v3:929,354..933,364(-)	golgi protein 2	protein coding	810793
+PF3D7_1123900	PF3D7_1123900.1	P. falciparum 3D7	Pf3D7_11_v3:945,470..946,148(+)	13 kDa ribonucleoprotein-associated protein, putative	protein coding	810797
+PF3D7_1124100	PF3D7_1124100.1	P. falciparum 3D7	Pf3D7_11_v3:951,382..956,343(-)	BEACH domain-containing protein, putative	protein coding	810799
+PF3D7_1124600	PF3D7_1124600.1	P. falciparum 3D7	Pf3D7_11_v3:970,105..971,376(-)	ethanolamine kinase	protein coding	810804
+PF3D7_1124800	PF3D7_1124800.1	P. falciparum 3D7	Pf3D7_11_v3:976,880..977,936(-)	ribosome biogenesis regulatory protein, putative	protein coding	810806
+PF3D7_1124900	PF3D7_1124900.1	P. falciparum 3D7	Pf3D7_11_v3:981,945..983,086(+)	60S ribosomal protein L35, putative	protein coding	810807
+PF3D7_1125700	PF3D7_1125700.1	P. falciparum 3D7	Pf3D7_11_v3:1,004,780..1,007,354(-)	kelch domain-containing protein, putative	protein coding	810814
+PF3D7_1125800	PF3D7_1125800.1	P. falciparum 3D7	Pf3D7_11_v3:1,008,409..1,010,853(-)	kelch domain-containing protein, putative	protein coding	810815
+PF3D7_1126200	PF3D7_1126200.1	P. falciparum 3D7	Pf3D7_11_v3:1,023,790..1,024,496(-)	40S ribosomal protein S18, putative	protein coding	810819
+PF3D7_1126500	PF3D7_1126500.1	P. falciparum 3D7	Pf3D7_11_v3:1,033,062..1,037,168(+)	WD repeat-containing protein, putative	protein coding	810822
+PF3D7_1126700	PF3D7_1126700.1	P. falciparum 3D7	Pf3D7_11_v3:1,040,790..1,046,087(-)	autophagy-related protein 23, putative	protein coding	810824
+PF3D7_1127900	PF3D7_1127900.1	P. falciparum 3D7	Pf3D7_11_v3:1,083,321..1,085,062(-)	conserved Plasmodium protein, unknown function	protein coding	810837
+PF3D7_1128000	PF3D7_1128000.1	P. falciparum 3D7	Pf3D7_11_v3:1,087,314..1,093,105(+)	conserved Plasmodium protein, unknown function	protein coding	810838
+PF3D7_1128000	PF3D7_1128000.2	P. falciparum 3D7	Pf3D7_11_v3:1,087,314..1,093,105(+)	conserved Plasmodium protein, unknown function	protein coding	810838
+PF3D7_1128100	PF3D7_1128100.1	P. falciparum 3D7	Pf3D7_11_v3:1,094,909..1,095,931(-)	prefoldin subunit 5, putative	protein coding	810839
+PF3D7_1128200	PF3D7_1128200.1	P. falciparum 3D7	Pf3D7_11_v3:1,097,117..1,097,527(+)	multiprotein-bridging factor 1, putative	protein coding	810840
+PF3D7_1129100	PF3D7_1129100.1	P. falciparum 3D7	Pf3D7_11_v3:1,125,952..1,127,310(+)	parasitophorous vacuolar protein 1	protein coding	810849
+PF3D7_1129200	PF3D7_1129200.1	P. falciparum 3D7	Pf3D7_11_v3:1,128,774..1,130,813(+)	26S proteasome regulatory subunit RPN7, putative	protein coding	810850
+PF3D7_1129600	PF3D7_1129600.1	P. falciparum 3D7	Pf3D7_11_v3:1,144,754..1,148,770(+)	phosphatidylinositol-4-phosphate 5-kinase, putative	protein coding	810854
+PF3D7_1129900	PF3D7_1129900.1	P. falciparum 3D7	Pf3D7_11_v3:1,156,437..1,158,266(+)	major facilitator superfamily-related transporter, putative	protein coding	810857
+PF3D7_1130200	PF3D7_1130200.1	P. falciparum 3D7	Pf3D7_11_v3:1,165,221..1,166,171(+)	60S ribosomal protein P0	protein coding	810860
+PF3D7_1130400	PF3D7_1130400.1	P. falciparum 3D7	Pf3D7_11_v3:1,168,879..1,170,198(+)	26S protease regulatory subunit 6A, putative	protein coding	810861
+PF3D7_1130500	PF3D7_1130500.1	P. falciparum 3D7	Pf3D7_11_v3:1,171,680..1,175,724(+)	conserved oligomeric Golgi complex subunit 2, putative	protein coding	810862
+PF3D7_1131200	PF3D7_1131200.1	P. falciparum 3D7	Pf3D7_11_v3:1,199,253..1,201,805(+)	conserved Plasmodium protein, unknown function	protein coding	810869
+PF3D7_1131800	PF3D7_1131800.1	P. falciparum 3D7	Pf3D7_11_v3:1,227,220..1,231,950(-)	oxysterol-binding protein, putative	protein coding	810874
+PF3D7_1132000	PF3D7_1132000.1	P. falciparum 3D7	Pf3D7_11_v3:1,239,900..1,242,548(+)	ubiquitin-like protein, putative	protein coding	810876
+PF3D7_1132200	PF3D7_1132200.1	P. falciparum 3D7	Pf3D7_11_v3:1,248,310..1,250,232(-)	T-complex protein 1 subunit alpha	protein coding	810878
+PF3D7_1132600	PF3D7_1132600.1	P. falciparum 3D7	Pf3D7_11_v3:1,266,250..1,267,584(-)	pre-mRNA-splicing factor 38A, putative	protein coding	810883
+PF3D7_1133100	PF3D7_1133100.1	P. falciparum 3D7	Pf3D7_11_v3:1,277,346..1,280,637(+)	conserved Plasmodium protein, unknown function	protein coding	810888
+PF3D7_1133200	PF3D7_1133200.1	P. falciparum 3D7	Pf3D7_11_v3:1,281,284..1,287,633(-)	conserved Plasmodium protein, unknown function	protein coding	810889
+PF3D7_1133600	PF3D7_1133600.1	P. falciparum 3D7	Pf3D7_11_v3:1,298,474..1,300,600(-)	conserved Plasmodium protein, unknown function	protein coding	810893
+PF3D7_1133700	PF3D7_1133700.1	P. falciparum 3D7	Pf3D7_11_v3:1,302,173..1,305,987(+)	FHA domain-containing protein, putative	protein coding	810894
+PF3D7_1133900	PF3D7_1133900.1	P. falciparum 3D7	Pf3D7_11_v3:1,313,257..1,317,173(+)	conserved Plasmodium protein, unknown function	protein coding	810896
+PF3D7_1134000	PF3D7_1134000.1	P. falciparum 3D7	Pf3D7_11_v3:1,320,114..1,322,105(+)	heat shock protein 70	protein coding	810898
+PF3D7_1134100	PF3D7_1134100.1	P. falciparum 3D7	Pf3D7_11_v3:1,323,043..1,324,314(-)	protein disulfide isomerase	protein coding	810899
+PF3D7_1136000	PF3D7_1136000.1	P. falciparum 3D7	Pf3D7_11_v3:1,403,906..1,414,512(+)	conserved Plasmodium protein, unknown function	protein coding	810918
+PF3D7_1136300	PF3D7_1136300.1	P. falciparum 3D7	Pf3D7_11_v3:1,422,744..1,426,201(+)	tudor staphylococcal nuclease	protein coding	810921
+PF3D7_1136900	PF3D7_1136900.1	P. falciparum 3D7	Pf3D7_11_v3:1,456,151..1,460,319(+)	subtilisin-like protease 2	protein coding	810927
+PF3D7_1138000	PF3D7_1138000.1	P. falciparum 3D7	Pf3D7_11_v3:1,487,594..1,496,143(+)	conserved Plasmodium protein, unknown function	protein coding	810938
+PF3D7_1138500	PF3D7_1138500.1	P. falciparum 3D7	Pf3D7_11_v3:1,518,464..1,521,238(+)	protein phosphatase PPM2	protein coding	810942
+PF3D7_1138700	PF3D7_1138700.1	P. falciparum 3D7	Pf3D7_11_v3:1,525,654..1,531,744(-)	conserved Plasmodium protein, unknown function	protein coding	810944
+PF3D7_1138800	PF3D7_1138800.1	P. falciparum 3D7	Pf3D7_11_v3:1,533,252..1,539,856(-)	WD repeat-containing protein, putative	protein coding	810946
+PF3D7_1139100	PF3D7_1139100.1	P. falciparum 3D7	Pf3D7_11_v3:1,548,186..1,553,561(+)	RNA-binding protein, putative	protein coding	810948
+PF3D7_1139300	PF3D7_1139300.1	P. falciparum 3D7	Pf3D7_11_v3:1,556,744..1,565,045(-)	AP2 domain transcription factor, putative	protein coding	810950
+PF3D7_1140200	PF3D7_1140200.1	P. falciparum 3D7	Pf3D7_11_v3:1,601,257..1,603,078(-)	conserved Plasmodium protein, unknown function	protein coding	810959
+PF3D7_1140700	PF3D7_1140700.1	P. falciparum 3D7	Pf3D7_11_v3:1,623,447..1,630,274(-)	conserved Plasmodium protein, unknown function	protein coding	810964
+PF3D7_1141800	PF3D7_1141800.1	P. falciparum 3D7	Pf3D7_11_v3:1,672,519..1,674,557(-)	EELM2 domain-containing protein, putative	protein coding	810975
+PF3D7_1142100	PF3D7_1142100.1	P. falciparum 3D7	Pf3D7_11_v3:1,681,868..1,690,084(-)	conserved Plasmodium protein, unknown function	protein coding	810978
+PF3D7_1142600	PF3D7_1142600.1	P. falciparum 3D7	Pf3D7_11_v3:1,708,066..1,708,679(-)	60S ribosomal protein L35ae, putative	protein coding	810983
+PF3D7_1142700	PF3D7_1142700.1	P. falciparum 3D7	Pf3D7_11_v3:1,710,325..1,712,172(-)	methyltransferase, putative	protein coding	810984
+PF3D7_1143100	PF3D7_1143100.1	P. falciparum 3D7	Pf3D7_11_v3:1,720,047..1,724,861(-)	AP2 domain transcription factor AP2-O, putative	protein coding	810987
+PF3D7_1143200	PF3D7_1143200.1	P. falciparum 3D7	Pf3D7_11_v3:1,729,793..1,730,899(+)	DnaJ protein, putative	protein coding	810988
+PF3D7_1144600	PF3D7_1144600.1	P. falciparum 3D7	Pf3D7_11_v3:1,770,949..1,771,902(+)	transcription initiation factor IIF subunit beta, putative	protein coding	811001
+PF3D7_1145200	PF3D7_1145200.1	P. falciparum 3D7	Pf3D7_11_v3:1,789,323..1,795,370(-)	serine/threonine protein kinase, putative	protein coding	811007
+PF3D7_1145400	PF3D7_1145400.1	P. falciparum 3D7	Pf3D7_11_v3:1,800,544..1,803,550(-)	dynamin-like protein	protein coding	811008
+PF3D7_1146600	PF3D7_1146600.1	P. falciparum 3D7	Pf3D7_11_v3:1,834,401..1,838,773(+)	oocyst rupture protein 1, putative	protein coding	811020
+PF3D7_1148700	PF3D7_1148700.1	P. falciparum 3D7	Pf3D7_11_v3:1,934,333..1,935,582(-)	Plasmodium exported protein (PHISTc), unknown function	protein coding	811035
+PF3D7_1148800	PF3D7_1148800.1	P. falciparum 3D7	Pf3D7_11_v3:1,941,348..1,942,588(+)	Plasmodium exported protein (hyp11), unknown function	protein coding	811036
+PF3D7_1149000	PF3D7_1149000.1	P. falciparum 3D7	Pf3D7_11_v3:1,950,210..1,968,726(+)	antigen 332, DBL-like protein	protein coding	811038
+PF3D7_1149100	PF3D7_1149100.1	P. falciparum 3D7	Pf3D7_11_v3:1,972,400..1,973,874(+)	Plasmodium exported protein, unknown function	protein coding	811040
+PF3D7_1149100	PF3D7_1149100.2	P. falciparum 3D7	Pf3D7_11_v3:1,972,400..1,973,874(+)	Plasmodium exported protein, unknown function	protein coding	811040
+PF3D7_1149200	PF3D7_1149200.1	P. falciparum 3D7	Pf3D7_11_v3:1,976,407..1,979,804(+)	ring-infected erythrocyte surface antigen	protein coding	811041
+PF3D7_1200100	PF3D7_1200100.1	P. falciparum 3D7	Pf3D7_12_v3:16,973..24,497(+)	erythrocyte membrane protein 1, PfEMP1	protein coding	811065
+PF3D7_1200700	PF3D7_1200700.1	P. falciparum 3D7	Pf3D7_12_v3:61,556..64,336(-)	acyl-CoA synthetase	protein coding	811059
+PF3D7_1201500	PF3D7_1201500.1	P. falciparum 3D7	Pf3D7_12_v3:98,978..100,471(+)	GPN-loop GTPase, putative	protein coding	811068
+PF3D7_1202600	PF3D7_1202600.1	P. falciparum 3D7	Pf3D7_12_v3:148,238..155,478(-)	conserved protein, unknown function	protein coding	811079
+PF3D7_1202700	PF3D7_1202700.1	P. falciparum 3D7	Pf3D7_12_v3:158,233..160,011(+)	conserved Plasmodium protein, unknown function	protein coding	811080
+PF3D7_1203100	PF3D7_1203100.1	P. falciparum 3D7	Pf3D7_12_v3:171,507..172,136(-)	conserved Plasmodium protein, unknown function	protein coding	811084
+PF3D7_1203700	PF3D7_1203700.1	P. falciparum 3D7	Pf3D7_12_v3:187,146..188,842(-)	nucleosome assembly protein	protein coding	811090
+PF3D7_1203900	PF3D7_1203900.1	P. falciparum 3D7	Pf3D7_12_v3:194,144..195,462(+)	ubiquitin-conjugating enzyme E2	protein coding	811091
+PF3D7_1204300	PF3D7_1204300.1	P. falciparum 3D7	Pf3D7_12_v3:205,491..205,976(-)	eukaryotic translation initiation factor 5A	protein coding	811095
+PF3D7_1205500	PF3D7_1205500.1	P. falciparum 3D7	Pf3D7_12_v3:242,811..248,168(+)	zinc finger protein, putative	protein coding	811108
+PF3D7_1205600	PF3D7_1205600.1	P. falciparum 3D7	Pf3D7_12_v3:249,336..251,399(-)	tetratricopeptide repeat protein, putative	protein coding	811109
+PF3D7_1205800	PF3D7_1205800.1	P. falciparum 3D7	Pf3D7_12_v3:256,367..263,731(+)	high mobility group protein B3, putative	protein coding	811111
+PF3D7_1205900	PF3D7_1205900.1	P. falciparum 3D7	Pf3D7_12_v3:264,615..267,863(-)	conserved protein, unknown function	protein coding	811112
+PF3D7_1206100	PF3D7_1206100.1	P. falciparum 3D7	Pf3D7_12_v3:272,320..274,742(-)	IMP-specific 5'-nucleotidase, putative	protein coding	811114
+PF3D7_1206300	PF3D7_1206300.1	P. falciparum 3D7	Pf3D7_12_v3:281,020..289,302(-)	conserved Plasmodium protein, unknown function	protein coding	811116
+PF3D7_1206700	PF3D7_1206700.1	P. falciparum 3D7	Pf3D7_12_v3:301,129..302,826(-)	eukaryotic translation initiation factor 5, putative	protein coding	811120
+PF3D7_1207000	PF3D7_1207000.1	P. falciparum 3D7	Pf3D7_12_v3:313,869..321,908(-)	conserved Plasmodium protein, unknown function	protein coding	811123
+PF3D7_1207100	PF3D7_1207100.1	P. falciparum 3D7	Pf3D7_12_v3:324,336..326,858(-)	small subunit rRNA processing factor, putative	protein coding	811124
+PF3D7_1207800	PF3D7_1207800.1	P. falciparum 3D7	Pf3D7_12_v3:354,540..357,446(-)	conserved Plasmodium protein, unknown function	protein coding	811131
+PF3D7_1208900	PF3D7_1208900.1	P. falciparum 3D7	Pf3D7_12_v3:415,404..419,732(+)	protein phosphatase PPM11, putative	protein coding	811142
+PF3D7_1209300	PF3D7_1209300.1	P. falciparum 3D7	Pf3D7_12_v3:428,495..432,880(-)	telomere repeat-binding zinc finger protein	protein coding	811146
+PF3D7_1210600	PF3D7_1210600.1	P. falciparum 3D7	Pf3D7_12_v3:472,260..475,457(-)	conserved Plasmodium protein, unknown function	protein coding	811159
+PF3D7_1211400	PF3D7_1211400.1	P. falciparum 3D7	Pf3D7_12_v3:505,344..506,662(+)	heat shock protein DNAJ homologue Pfj4	protein coding	811166
+PF3D7_1211600	PF3D7_1211600.1	P. falciparum 3D7	Pf3D7_12_v3:510,323..519,437(+)	lysine-specific histone demethylase 1, putative	protein coding	811168
+PF3D7_1211800	PF3D7_1211800.1	P. falciparum 3D7	Pf3D7_12_v3:526,109..527,780(+)	polyubiquitin	protein coding	811170
+PF3D7_1211900	PF3D7_1211900.1	P. falciparum 3D7	Pf3D7_12_v3:529,005..532,799(-)	non-SERCA-type Ca2+ -transporting P-ATPase	protein coding	811171
+PF3D7_1212500	PF3D7_1212500.1	P. falciparum 3D7	Pf3D7_12_v3:552,102..553,853(-)	glycerol-3-phosphate 1-O-acyltransferase	protein coding	811177
+PF3D7_1212700	PF3D7_1212700.1	P. falciparum 3D7	Pf3D7_12_v3:558,047..562,180(-)	eukaryotic translation initiation factor 3 subunit A, putative	protein coding	811178
+PF3D7_1212800	PF3D7_1212800.1	P. falciparum 3D7	Pf3D7_12_v3:565,966..566,931(+)	succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial	protein coding	811179
+PF3D7_1212900	PF3D7_1212900.1	P. falciparum 3D7	Pf3D7_12_v3:568,569..571,835(-)	bromodomain protein 2, putative	protein coding	811180
+PF3D7_1214500	PF3D7_1214500.1	P. falciparum 3D7	Pf3D7_12_v3:611,892..613,128(+)	conserved Plasmodium protein, unknown function	protein coding	811193
+PF3D7_1216400	PF3D7_1216400.1	P. falciparum 3D7	Pf3D7_12_v3:653,670..656,435(+)	conserved Plasmodium membrane protein, unknown function	protein coding	811211
+PF3D7_1216900	PF3D7_1216900.1	P. falciparum 3D7	Pf3D7_12_v3:670,447..673,266(+)	DNA-binding chaperone, putative	protein coding	811215
+PF3D7_1217200	PF3D7_1217200.1	P. falciparum 3D7	Pf3D7_12_v3:678,602..681,961(+)	multiple RNA-binding domain-containing protein 1, putative	protein coding	811218
+PF3D7_1217300	PF3D7_1217300.1	P. falciparum 3D7	Pf3D7_12_v3:682,837..685,722(+)	GTP-binding protein EngA	protein coding	811219
+PF3D7_1217400	PF3D7_1217400.1	P. falciparum 3D7	Pf3D7_12_v3:686,307..688,871(-)	conserved protein, unknown function	protein coding	811220
+PF3D7_1217900	PF3D7_1217900.1	P. falciparum 3D7	Pf3D7_12_v3:700,531..702,211(+)	PPPDE peptidase domain-containing protein, putative	protein coding	811225
+PF3D7_1219000	PF3D7_1219000.1	P. falciparum 3D7	Pf3D7_12_v3:746,002..754,926(+)	formin 2	protein coding	811237
+PF3D7_1219300	PF3D7_1219300.1	P. falciparum 3D7	Pf3D7_12_v3:766,654..774,197(-)	erythrocyte membrane protein 1, PfEMP1	protein coding	811239
+PF3D7_1220100	PF3D7_1220100.1	P. falciparum 3D7	Pf3D7_12_v3:802,544..804,400(+)	pre-mRNA-processing factor 17, putative	protein coding	811246
+PF3D7_1221000	PF3D7_1221000.1	P. falciparum 3D7	Pf3D7_12_v3:836,912..843,901(-)	histone-lysine N-methyltransferase, H3 lysine-4 specific	protein coding	811254
+PF3D7_1221300	PF3D7_1221300.1	P. falciparum 3D7	Pf3D7_12_v3:851,012..854,739(-)	conserved Plasmodium protein, unknown function	protein coding	811257
+PF3D7_1221800	PF3D7_1221800.1	P. falciparum 3D7	Pf3D7_12_v3:869,260..871,368(+)	conserved protein, unknown function	protein coding	811262
+PF3D7_1222300	PF3D7_1222300.1	P. falciparum 3D7	Pf3D7_12_v3:883,567..886,032(-)	endoplasmin, putative	protein coding	811266
+PF3D7_1222600	PF3D7_1222600.1	P. falciparum 3D7	Pf3D7_12_v3:907,203..914,501(+)	AP2 domain transcription factor AP2-G	protein coding	811269
+PF3D7_1222700	PF3D7_1222700.1	P. falciparum 3D7	Pf3D7_12_v3:918,722..919,336(+)	glideosome-associated protein 45	protein coding	811270
+PF3D7_1223100	PF3D7_1223100.1	P. falciparum 3D7	Pf3D7_12_v3:927,825..929,991(-)	cAMP-dependent protein kinase regulatory subunit	protein coding	811274
+PF3D7_1223400	PF3D7_1223400.1	P. falciparum 3D7	Pf3D7_12_v3:941,125..946,745(+)	phospholipid-transporting ATPase, putative	protein coding	811277
+PF3D7_1224300	PF3D7_1224300.1	P. falciparum 3D7	Pf3D7_12_v3:988,628..991,255(+)	polyadenylate-binding protein 1, putative	protein coding	811286
+PF3D7_1225000	PF3D7_1225000.1	P. falciparum 3D7	Pf3D7_12_v3:1,012,310..1,017,848(-)	conserved Plasmodium protein, unknown function	protein coding	811293
+PF3D7_1225200	PF3D7_1225200.1	P. falciparum 3D7	Pf3D7_12_v3:1,024,455..1,028,018(-)	conserved Plasmodium protein, unknown function	protein coding	811295
+PF3D7_1225500	PF3D7_1225500.1	P. falciparum 3D7	Pf3D7_12_v3:1,033,551..1,035,112(+)	small subunit rRNA processing factor, putative	protein coding	811298
+PF3D7_1225600	PF3D7_1225600.1	P. falciparum 3D7	Pf3D7_12_v3:1,035,261..1,038,155(-)	conserved Plasmodium protein, unknown function	protein coding	811299
+PF3D7_1225700	PF3D7_1225700.1	P. falciparum 3D7	Pf3D7_12_v3:1,039,410..1,043,915(-)	VAC14 domain-containing protein, putative	protein coding	811300
+PF3D7_1225800	PF3D7_1225800.1	P. falciparum 3D7	Pf3D7_12_v3:1,045,995..1,049,831(+)	ubiquitin-activating enzyme E1	protein coding	811301
+PF3D7_1226700	PF3D7_1226700.1	P. falciparum 3D7	Pf3D7_12_v3:1,081,198..1,083,108(+)	U3 small nucleolar RNA-interacting protein 2, putative	protein coding	811310
+PF3D7_1227200	PF3D7_1227200.1	P. falciparum 3D7	Pf3D7_12_v3:1,098,129..1,104,223(+)	potassium channel K1	protein coding	811315
+PF3D7_1227400	PF3D7_1227400.1	P. falciparum 3D7	Pf3D7_12_v3:1,109,151..1,112,669(-)	conserved Plasmodium protein, unknown function	protein coding	811317
+PF3D7_1227500	PF3D7_1227500.1	P. falciparum 3D7	Pf3D7_12_v3:1,114,025..1,121,093(-)	protein SOC2, putative	protein coding	811318
+PF3D7_1227600	PF3D7_1227600.1	P. falciparum 3D7	Pf3D7_12_v3:1,124,788..1,128,340(+)	conserved Plasmodium protein, unknown function	protein coding	811319
+PF3D7_1227700	PF3D7_1227700.1	P. falciparum 3D7	Pf3D7_12_v3:1,128,939..1,131,686(-)	conserved Plasmodium protein, unknown function	protein coding	811320
+PF3D7_1227800	PF3D7_1227800.1	P. falciparum 3D7	Pf3D7_12_v3:1,134,370..1,137,648(-)	elongator complex protein 3, putative	protein coding	811321
+PF3D7_1228300	PF3D7_1228300.1	P. falciparum 3D7	Pf3D7_12_v3:1,148,111..1,151,461(+)	NIMA related kinase 1	protein coding	811326
+PF3D7_1228600	PF3D7_1228600.1	P. falciparum 3D7	Pf3D7_12_v3:1,160,729..1,162,960(-)	merozoite surface protein 9	protein coding	811329
+PF3D7_1228800	PF3D7_1228800.1	P. falciparum 3D7	Pf3D7_12_v3:1,169,557..1,179,186(-)	WD repeat-containing protein, putative	protein coding	811331
+PF3D7_1228900	PF3D7_1228900.1	P. falciparum 3D7	Pf3D7_12_v3:1,180,670..1,185,483(-)	conserved Plasmodium protein, unknown function	protein coding	811332
+PF3D7_1229300	PF3D7_1229300.1	P. falciparum 3D7	Pf3D7_12_v3:1,204,991..1,207,963(+)	conserved Plasmodium protein, unknown function	protein coding	811335
+PF3D7_1230700	PF3D7_1230700.1	P. falciparum 3D7	Pf3D7_12_v3:1,259,620..1,262,088(+)	protein transport protein SEC13	protein coding	811348
+PF3D7_1230800	PF3D7_1230800.1	P. falciparum 3D7	Pf3D7_12_v3:1,263,661..1,265,593(+)	pre-mRNA-splicing regulator, putative	protein coding	811349
+PF3D7_1231400	PF3D7_1231400.1	P. falciparum 3D7	Pf3D7_12_v3:1,290,685..1,297,069(-)	amino acid transporter, putative	protein coding	811355
+PF3D7_1231600	PF3D7_1231600.1	P. falciparum 3D7	Pf3D7_12_v3:1,301,098..1,304,604(-)	pre-mRNA-splicing factor ATP-dependent RNA helicase PRP2, putative	protein coding	811357
+PF3D7_1231800	PF3D7_1231800.1	P. falciparum 3D7	Pf3D7_12_v3:1,314,696..1,320,170(+)	asparagine-rich protein, putative	protein coding	811358
+PF3D7_1232100	PF3D7_1232100.1	P. falciparum 3D7	Pf3D7_12_v3:1,328,311..1,331,371(-)	60 kDa chaperonin	protein coding	811361
+PF3D7_1232500	PF3D7_1232500.1	P. falciparum 3D7	Pf3D7_12_v3:1,339,845..1,343,314(-)	CG2-related protein, putative	protein coding	811365
+PF3D7_1233000	PF3D7_1233000.1	P. falciparum 3D7	Pf3D7_12_v3:1,355,317..1,357,728(-)	elongation factor G	protein coding	811370
+PF3D7_1233200	PF3D7_1233200.1	P. falciparum 3D7	Pf3D7_12_v3:1,360,631..1,370,637(-)	conserved Plasmodium protein, unknown function	protein coding	811372
+PF3D7_1233200	PF3D7_1233200.2	P. falciparum 3D7	Pf3D7_12_v3:1,360,631..1,370,637(-)	conserved Plasmodium protein, unknown function	protein coding	811372
+PF3D7_1233600	PF3D7_1233600.1	P. falciparum 3D7	Pf3D7_12_v3:1,385,707..1,402,218(+)	asparagine and aspartate rich protein 1	protein coding	811376
+PF3D7_1233700	PF3D7_1233700.1	P. falciparum 3D7	Pf3D7_12_v3:1,403,139..1,404,884(+)	homocysteine S-methyltransferase, putative	protein coding	811377
+PF3D7_1233900	PF3D7_1233900.1	P. falciparum 3D7	Pf3D7_12_v3:1,407,674..1,411,030(+)	sentrin-specific protease 1	protein coding	811379
+PF3D7_1234100	PF3D7_1234100.1	P. falciparum 3D7	Pf3D7_12_v3:1,414,414..1,426,104(+)	bromodomain protein, putative	protein coding	811381
+PF3D7_1235300	PF3D7_1235300.1	P. falciparum 3D7	Pf3D7_12_v3:1,470,713..1,475,701(+)	CCR4-NOT transcription complex subunit 4, putative	protein coding	811393
+PF3D7_1235700	PF3D7_1235700.1	P. falciparum 3D7	Pf3D7_12_v3:1,487,084..1,488,691(+)	ATP synthase subunit beta, mitochondrial	protein coding	811397
+PF3D7_1236100	PF3D7_1236100.1	P. falciparum 3D7	Pf3D7_12_v3:1,506,932..1,508,269(-)	clustered-asparagine-rich protein	protein coding	811401
+PF3D7_1236200	PF3D7_1236200.1	P. falciparum 3D7	Pf3D7_12_v3:1,512,200..1,516,516(-)	conserved Plasmodium protein, unknown function	protein coding	811402
+PF3D7_1236400	PF3D7_1236400.1	P. falciparum 3D7	Pf3D7_12_v3:1,522,463..1,524,632(+)	conserved Plasmodium protein, unknown function	protein coding	811404
+PF3D7_1237100	PF3D7_1237100.1	P. falciparum 3D7	Pf3D7_12_v3:1,540,766..1,549,144(-)	conserved Plasmodium protein, unknown function	protein coding	811411
+PF3D7_1237900	PF3D7_1237900.1	P. falciparum 3D7	Pf3D7_12_v3:1,577,181..1,580,747(+)	conserved Plasmodium protein, unknown function	protein coding	811419
+PF3D7_1238100	PF3D7_1238100.1	P. falciparum 3D7	Pf3D7_12_v3:1,583,909..1,584,595(-)	calcyclin binding protein, putative	protein coding	811421
+PF3D7_1238300	PF3D7_1238300.1	P. falciparum 3D7	Pf3D7_12_v3:1,589,169..1,592,072(+)	pre-mRNA-splicing factor CWC22, putative	protein coding	811423
+PF3D7_1238500	PF3D7_1238500.1	P. falciparum 3D7	Pf3D7_12_v3:1,594,826..1,600,526(+)	conserved Plasmodium protein, unknown function	protein coding	811425
+PF3D7_1239200	PF3D7_1239200.1	P. falciparum 3D7	Pf3D7_12_v3:1,634,695..1,642,428(+)	AP2 domain transcription factor, putative	protein coding	811432
+PF3D7_1239500	PF3D7_1239500.1	P. falciparum 3D7	Pf3D7_12_v3:1,648,667..1,651,687(+)	DNA gyrase subunit B	protein coding	811435
+PF3D7_1239700	PF3D7_1239700.1	P. falciparum 3D7	Pf3D7_12_v3:1,655,487..1,658,129(+)	ATP-dependent zinc metalloprotease FTSH 1	protein coding	811437
+PF3D7_1239800	PF3D7_1239800.1	P. falciparum 3D7	Pf3D7_12_v3:1,660,451..1,677,754(+)	conserved Plasmodium protein, unknown function	protein coding	811438
+PF3D7_1240300	PF3D7_1240300.1	P. falciparum 3D7	Pf3D7_12_v3:1,694,150..1,703,087(+)	erythrocyte membrane protein 1, PfEMP1	protein coding	811442
+PF3D7_1241800	PF3D7_1241800.1	P. falciparum 3D7	Pf3D7_12_v3:1,780,012..1,782,648(-)	ATP-dependent RNA helicase DBP9, putative	protein coding	811454
+PF3D7_1242800	PF3D7_1242800.1	P. falciparum 3D7	Pf3D7_12_v3:1,805,380..1,807,356(-)	rab specific GDP dissociation inhibitor	protein coding	811464
+PF3D7_1243600	PF3D7_1243600.1	P. falciparum 3D7	Pf3D7_12_v3:1,825,959..1,826,884(+)	translation initiation factor SUI1, putative	protein coding	811471
+PF3D7_1243700	PF3D7_1243700.1	P. falciparum 3D7	Pf3D7_12_v3:1,829,660..1,831,057(+)	ubiquitin-conjugating enzyme E2, putative	protein coding	811472
+PF3D7_1244100	PF3D7_1244100.1	P. falciparum 3D7	Pf3D7_12_v3:1,847,677..1,852,156(+)	N-alpha-acetyltransferase 15, NatA auxiliary subunit, putative	protein coding	811476
+PF3D7_1245100	PF3D7_1245100.1	P. falciparum 3D7	Pf3D7_12_v3:1,883,469..1,887,681(+)	kinesin-13, putative	protein coding	811485
+PF3D7_1245800	PF3D7_1245800.1	P. falciparum 3D7	Pf3D7_12_v3:1,908,149..1,909,764(+)	epsin-like protein, putative	protein coding	811491
+PF3D7_1246200	PF3D7_1246200.1	P. falciparum 3D7	Pf3D7_12_v3:1,920,784..1,921,914(+)	actin I	protein coding	811495
+PF3D7_1246600	PF3D7_1246600.1	P. falciparum 3D7	Pf3D7_12_v3:1,936,522..1,937,694(+)	pre-mRNA-splicing factor CWC26, putative	protein coding	811499
+PF3D7_1248700	PF3D7_1248700.1	P. falciparum 3D7	Pf3D7_12_v3:1,994,775..2,000,744(+)	conserved Plasmodium protein, unknown function	protein coding	811519
+PF3D7_1248900	PF3D7_1248900.1	P. falciparum 3D7	Pf3D7_12_v3:2,002,723..2,004,030(-)	26S protease regulatory subunit 8, putative	protein coding	811521
+PF3D7_1249300	PF3D7_1249300.1	P. falciparum 3D7	Pf3D7_12_v3:2,012,643..2,015,726(+)	protein phosphatase PPM4, putative	protein coding	811525
+PF3D7_1249800	PF3D7_1249800.1	P. falciparum 3D7	Pf3D7_12_v3:2,030,004..2,039,852(-)	THO complex subunit 2, putative	protein coding	811530
+PF3D7_1250000	PF3D7_1250000.1	P. falciparum 3D7	Pf3D7_12_v3:2,044,120..2,044,626(+)	rRNA-processing protein FCF2, putative	protein coding	811532
+PF3D7_1250200	PF3D7_1250200.1	P. falciparum 3D7	Pf3D7_12_v3:2,059,108..2,063,227(+)	CSC1-like protein, putative	protein coding	811534
+PF3D7_1250400	PF3D7_1250400.1	P. falciparum 3D7	Pf3D7_12_v3:2,067,400..2,069,370(+)	conserved Plasmodium protein, unknown function	protein coding	811536
+PF3D7_1250600	PF3D7_1250600.1	P. falciparum 3D7	Pf3D7_12_v3:2,071,602..2,073,641(-)	translation initiation factor eIF-2B subunit beta, putative	protein coding	811538
+PF3D7_1250800	PF3D7_1250800.1	P. falciparum 3D7	Pf3D7_12_v3:2,077,718..2,082,887(+)	DNA repair protein rhp16, putative	protein coding	811540
+PF3D7_1252100	PF3D7_1252100.1	P. falciparum 3D7	Pf3D7_12_v3:2,114,628..2,122,487(-)	rhoptry neck protein 3	protein coding	811551
+PF3D7_1252400	PF3D7_1252400.1	P. falciparum 3D7	Pf3D7_12_v3:2,136,053..2,144,874(+)	reticulocyte binding protein homologue 3, pseudogene	protein coding	811554
+PF3D7_1252600	PF3D7_1252600.1	P. falciparum 3D7	Pf3D7_12_v3:2,150,554..2,151,915(+)	esterase, putative	protein coding	811556
+PF3D7_1253000	PF3D7_1253000.1	P. falciparum 3D7	Pf3D7_12_v3:2,168,181..2,169,759(+)	gametocyte erythrocyte cytosolic protein	protein coding	811560
+PF3D7_1253400	PF3D7_1253400.1	P. falciparum 3D7	Pf3D7_12_v3:2,180,419..2,182,869(+)	acyl-CoA synthetase	protein coding	811564
+PF3D7_1301200	PF3D7_1301200.1	P. falciparum 3D7	Pf3D7_13_v3:73,099..74,413(-)	GBPH2 protein	protein coding	813989
+PF3D7_1301400	PF3D7_1301400.1	P. falciparum 3D7	Pf3D7_13_v3:82,718..84,018(+)	Plasmodium exported protein (hyp12), unknown function	protein coding	814051
+PF3D7_1301500	PF3D7_1301500.1	P. falciparum 3D7	Pf3D7_13_v3:85,563..86,624(-)	Plasmodium exported protein (PHISTa), unknown function	protein coding	813948
+PF3D7_1301600	PF3D7_1301600.1	P. falciparum 3D7	Pf3D7_13_v3:89,319..93,352(-)	erythrocyte binding antigen-140	protein coding	813949
+PF3D7_1301800	PF3D7_1301800.1	P. falciparum 3D7	Pf3D7_13_v3:102,842..109,471(+)	surface-associated interspersed protein 13.1 (SURFIN 13.1), pseudogene	protein coding	814052
+PF3D7_1302000	PF3D7_1302000.1	P. falciparum 3D7	Pf3D7_13_v3:112,792..113,815(-)	EMP1-trafficking protein	protein coding	814054
+PF3D7_1302500	PF3D7_1302500.1	P. falciparum 3D7	Pf3D7_13_v3:131,849..140,594(-)	conserved Plasmodium protein, unknown function	protein coding	813680
+PF3D7_1302700	PF3D7_1302700.1	P. falciparum 3D7	Pf3D7_13_v3:145,174..150,198(+)	ATP-dependent RNA helicase DHR1, putative	protein coding	813690
+PF3D7_1303000	PF3D7_1303000.1	P. falciparum 3D7	Pf3D7_13_v3:158,144..158,778(+)	ATP synthase-associated protein, putative	protein coding	813701
+PF3D7_1303500	PF3D7_1303500.1	P. falciparum 3D7	Pf3D7_13_v3:169,874..175,789(-)	sodium/hydrogen exchanger	protein coding	813998
+PF3D7_1303800	PF3D7_1303800.1	P. falciparum 3D7	Pf3D7_13_v3:184,845..212,660(-)	conserved Plasmodium protein, unknown function	protein coding	813744
+PF3D7_1304000	PF3D7_1304000.1	P. falciparum 3D7	Pf3D7_13_v3:216,652..220,029(-)	condensin complex subunit 2, putative	protein coding	813766
+PF3D7_1304200	PF3D7_1304200.1	P. falciparum 3D7	Pf3D7_13_v3:226,669..228,873(-)	CorA-like Mg2+ transporter protein, putative	protein coding	813788
+PF3D7_1304200	PF3D7_1304200.2	P. falciparum 3D7	Pf3D7_13_v3:226,669..228,873(-)	CorA-like Mg2+ transporter protein, putative	protein coding	813788
+PF3D7_1304500	PF3D7_1304500.1	P. falciparum 3D7	Pf3D7_13_v3:235,800..236,435(-)	small heat shock protein, putative	protein coding	814000
+PF3D7_1304600	PF3D7_1304600.1	P. falciparum 3D7	Pf3D7_13_v3:237,361..241,233(+)	conserved Plasmodium protein, unknown function	protein coding	813810
+PF3D7_1305000	PF3D7_1305000.1	P. falciparum 3D7	Pf3D7_13_v3:247,312..251,751(+)	MCL1 domain-containing protein, putative	protein coding	814003
+PF3D7_1305100	PF3D7_1305100.1	P. falciparum 3D7	Pf3D7_13_v3:252,526..253,788(-)	protein AMR3	protein coding	814004
+PF3D7_1305900	PF3D7_1305900.1	P. falciparum 3D7	Pf3D7_13_v3:279,990..281,701(-)	conserved Plasmodium protein, unknown function	protein coding	814010
+PF3D7_1306900	PF3D7_1306900.1	P. falciparum 3D7	Pf3D7_13_v3:323,472..325,032(+)	U1 small nuclear ribonucleoprotein A, putative	protein coding	813918
+PF3D7_1307100	PF3D7_1307100.1	P. falciparum 3D7	Pf3D7_13_v3:327,893..330,928(+)	U3 small nucleolar RNA-associated protein 6, putative	protein coding	814014
+PF3D7_1307200	PF3D7_1307200.1	P. falciparum 3D7	Pf3D7_13_v3:331,558..332,526(-)	DnaJ protein, putative	protein coding	814015
+PF3D7_1307700	PF3D7_1307700.1	P. falciparum 3D7	Pf3D7_13_v3:344,525..348,232(+)	TOM1-like protein, putative	protein coding	814020
+PF3D7_1307800	PF3D7_1307800.1	P. falciparum 3D7	Pf3D7_13_v3:348,743..350,788(-)	FHA domain-containing protein, putative	protein coding	814021
+PF3D7_1308200	PF3D7_1308200.1	P. falciparum 3D7	Pf3D7_13_v3:361,166..368,495(-)	carbamoyl phosphate synthetase	protein coding	814023
+PF3D7_1308300	PF3D7_1308300.1	P. falciparum 3D7	Pf3D7_13_v3:372,260..372,646(+)	40S ribosomal protein S27	protein coding	814024
+PF3D7_1308400	PF3D7_1308400.1	P. falciparum 3D7	Pf3D7_13_v3:373,487..392,072(-)	conserved Plasmodium protein, unknown function	protein coding	813928
+PF3D7_1308700	PF3D7_1308700.1	P. falciparum 3D7	Pf3D7_13_v3:401,577..403,400(+)	conserved Plasmodium protein, unknown function	protein coding	814026
+PF3D7_1308800	PF3D7_1308800.1	P. falciparum 3D7	Pf3D7_13_v3:403,788..406,703(-)	tyrosine recombinase	protein coding	813931
+PF3D7_1309000	PF3D7_1309000.1	P. falciparum 3D7	Pf3D7_13_v3:415,916..416,998(-)	conserved protein, unknown function	protein coding	813932
+PF3D7_1309100	PF3D7_1309100.1	P. falciparum 3D7	Pf3D7_13_v3:418,820..420,121(+)	60S ribosomal protein L24, putative	protein coding	814028
+PF3D7_1309400	PF3D7_1309400.1	P. falciparum 3D7	Pf3D7_13_v3:431,892..435,875(+)	HORMA domain protein, putative	protein coding	814029
+PF3D7_1309700	PF3D7_1309700.1	P. falciparum 3D7	Pf3D7_13_v3:440,265..445,283(+)	vacuolar protein sorting-associated protein 18, putative	protein coding	814032
+PF3D7_1310700	PF3D7_1310700.1	P. falciparum 3D7	Pf3D7_13_v3:468,232..468,663(-)	RNA-binding protein, putative	protein coding	814036
+PF3D7_1311800	PF3D7_1311800.1	P. falciparum 3D7	Pf3D7_13_v3:501,790..505,047(+)	M1-family alanyl aminopeptidase	protein coding	813945
+PF3D7_1312100	PF3D7_1312100.1	P. falciparum 3D7	Pf3D7_13_v3:513,068..517,326(-)	GYF domain-containing protein, putative	protein coding	814045
+PF3D7_1312800	PF3D7_1312800.1	P. falciparum 3D7	Pf3D7_13_v3:536,702..544,523(-)	conserved Plasmodium protein, unknown function	protein coding	814050
+PF3D7_1312900	PF3D7_1312900.1	P. falciparum 3D7	Pf3D7_13_v3:548,586..552,841(+)	eukaryotic translation initation factor 4 gamma	protein coding	813952
+PF3D7_1313500	PF3D7_1313500.1	P. falciparum 3D7	Pf3D7_13_v3:573,169..578,479(-)	conserved Plasmodium membrane protein, unknown function	protein coding	814056
+PF3D7_1315300	PF3D7_1315300.1	P. falciparum 3D7	Pf3D7_13_v3:644,714..646,392(+)	conserved protein, unknown function	protein coding	814064
+PF3D7_1315700	PF3D7_1315700.1	P. falciparum 3D7	Pf3D7_13_v3:658,595..659,545(+)	tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRM61, putative	protein coding	814065
+PF3D7_1316500	PF3D7_1316500.1	P. falciparum 3D7	Pf3D7_13_v3:685,951..688,671(+)	pre-mRNA-processing factor 40, putative	protein coding	814069
+PF3D7_1318400	PF3D7_1318400.1	P. falciparum 3D7	Pf3D7_13_v3:760,326..764,139(-)	structural maintenance of chromosomes protein 2, putative	protein coding	813987
+PF3D7_1318700	PF3D7_1318700.1	P. falciparum 3D7	Pf3D7_13_v3:770,646..772,895(-)	conserved protein, unknown function	protein coding	813651
+PF3D7_1318800	PF3D7_1318800.1	P. falciparum 3D7	Pf3D7_13_v3:774,790..776,745(-)	translocation protein SEC63, putative	protein coding	814078
+PF3D7_1318900	PF3D7_1318900.1	P. falciparum 3D7	Pf3D7_13_v3:779,934..781,679(+)	conserved Plasmodium protein, unknown function	protein coding	814079
+PF3D7_1319000	PF3D7_1319000.1	P. falciparum 3D7	Pf3D7_13_v3:784,110..786,992(+)	conserved Plasmodium protein, unknown function	protein coding	814080
+PF3D7_1319100	PF3D7_1319100.1	P. falciparum 3D7	Pf3D7_13_v3:789,437..791,848(+)	ubiquitin carboxyl-terminal hydrolase MINDY, putative	protein coding	814081
+PF3D7_1319300	PF3D7_1319300.1	P. falciparum 3D7	Pf3D7_13_v3:795,939..798,353(-)	tRNA (guanine(26)-N(2))-dimethyltransferase, putative	protein coding	814083
+PF3D7_1319400	PF3D7_1319400.1	P. falciparum 3D7	Pf3D7_13_v3:801,712..806,029(+)	conserved Plasmodium protein, unknown function	protein coding	813652
+PF3D7_1320100	PF3D7_1320100.1	P. falciparum 3D7	Pf3D7_13_v3:834,180..835,308(-)	ATP-dependent Clp protease adapter protein ClpS	protein coding	813659
+PF3D7_1320500	PF3D7_1320500.1	P. falciparum 3D7	Pf3D7_13_v3:843,639..845,111(+)	SNARE protein, putative	protein coding	813661
+PF3D7_1320900	PF3D7_1320900.1	P. falciparum 3D7	Pf3D7_13_v3:857,147..857,944(-)	RNA-binding protein, putative	protein coding	814093
+PF3D7_1321100	PF3D7_1321100.1	P. falciparum 3D7	Pf3D7_13_v3:861,442..872,332(-)	conserved Plasmodium protein, unknown function	protein coding	813662
+PF3D7_1321700	PF3D7_1321700.1	P. falciparum 3D7	Pf3D7_13_v3:902,383..905,166(+)	splicing factor 1	protein coding	813670
+PF3D7_1322000	PF3D7_1322000.1	P. falciparum 3D7	Pf3D7_13_v3:916,360..918,594(+)	nucleoside-diphosphatase, putative	protein coding	813671
+PF3D7_1322100	PF3D7_1322100.1	P. falciparum 3D7	Pf3D7_13_v3:920,971..929,449(+)	histone-lysine N-methyltransferase SET2	protein coding	813672
+PF3D7_1322200	PF3D7_1322200.1	P. falciparum 3D7	Pf3D7_13_v3:931,314..943,825(+)	conserved Plasmodium protein, unknown function	protein coding	813674
+PF3D7_1323100	PF3D7_1323100.1	P. falciparum 3D7	Pf3D7_13_v3:965,486..966,280(-)	60S ribosomal protein L6, putative	protein coding	814100
+PF3D7_1323200	PF3D7_1323200.1	P. falciparum 3D7	Pf3D7_13_v3:968,110..968,798(-)	V-type proton ATPase subunit G, putative	protein coding	814101
+PF3D7_1323400	PF3D7_1323400.1	P. falciparum 3D7	Pf3D7_13_v3:971,847..973,036(-)	60S ribosomal protein L23	protein coding	814103
+PF3D7_1324200	PF3D7_1324200.1	P. falciparum 3D7	Pf3D7_13_v3:1,000,100..1,001,882(-)	micro-fibrillar-associated protein, putative	protein coding	813683
+PF3D7_1324300	PF3D7_1324300.1	P. falciparum 3D7	Pf3D7_13_v3:1,002,748..1,019,303(-)	conserved Plasmodium membrane protein, unknown function	protein coding	813684
+PF3D7_1324600	PF3D7_1324600.1	P. falciparum 3D7	Pf3D7_13_v3:1,028,492..1,033,629(+)	conserved Plasmodium protein, unknown function	protein coding	814110
+PF3D7_1324800	PF3D7_1324800.1	P. falciparum 3D7	Pf3D7_13_v3:1,036,543..1,038,531(-)	dihydrofolate synthase/folylpolyglutamate synthase	protein coding	814111
+PF3D7_1325800	PF3D7_1325800.1	P. falciparum 3D7	Pf3D7_13_v3:1,071,146..1,075,747(+)	conserved Plasmodium protein, unknown function	protein coding	814116
+PF3D7_1325900	PF3D7_1325900.1	P. falciparum 3D7	Pf3D7_13_v3:1,076,161..1,084,587(-)	conserved Plasmodium protein, unknown function	protein coding	813691
+PF3D7_1326300	PF3D7_1326300.1	P. falciparum 3D7	Pf3D7_13_v3:1,092,394..1,094,187(-)	RNA-binding protein, putative	protein coding	814117
+PF3D7_1327300	PF3D7_1327300.1	P. falciparum 3D7	Pf3D7_13_v3:1,145,719..1,151,106(+)	conserved Plasmodium protein, unknown function	protein coding	814131
+PF3D7_1327800	PF3D7_1327800.1	P. falciparum 3D7	Pf3D7_13_v3:1,162,620..1,164,302(+)	ribose-phosphate pyrophosphokinase, putative	protein coding	814127
+PF3D7_1328100	PF3D7_1328100.1	P. falciparum 3D7	Pf3D7_13_v3:1,184,208..1,185,020(+)	proteasome subunit beta type-7, putative	protein coding	814126
+PF3D7_1328200	PF3D7_1328200.1	P. falciparum 3D7	Pf3D7_13_v3:1,186,619..1,195,201(+)	conserved Plasmodium protein, unknown function	protein coding	814125
+PF3D7_1328300	PF3D7_1328300.1	P. falciparum 3D7	Pf3D7_13_v3:1,196,229..1,197,509(-)	conserved protein, unknown function	protein coding	814124
+PF3D7_1328500	PF3D7_1328500.1	P. falciparum 3D7	Pf3D7_13_v3:1,204,186..1,207,200(-)	alpha/beta-hydrolase, putative	protein coding	814123
+PF3D7_1329100	PF3D7_1329100.1	P. falciparum 3D7	Pf3D7_13_v3:1,227,372..1,234,418(-)	myosin F, putative	protein coding	813699
+PF3D7_1329500	PF3D7_1329500.1	P. falciparum 3D7	Pf3D7_13_v3:1,252,059..1,257,973(+)	conserved protein, unknown function	protein coding	814132
+PF3D7_1330500	PF3D7_1330500.1	P. falciparum 3D7	Pf3D7_13_v3:1,284,988..1,287,165(+)	CTLH domain-containing protein, putative	protein coding	814134
+PF3D7_1330800	PF3D7_1330800.1	P. falciparum 3D7	Pf3D7_13_v3:1,294,615..1,296,966(+)	RNA-binding protein, putative	protein coding	814135
+PF3D7_1331700	PF3D7_1331700.1	P. falciparum 3D7	Pf3D7_13_v3:1,319,089..1,321,845(-)	glutamine--tRNA ligase, putative	protein coding	814140
+PF3D7_1332000	PF3D7_1332000.1	P. falciparum 3D7	Pf3D7_13_v3:1,325,913..1,327,532(-)	syntaxin, Qa-SNARE family	protein coding	813722
+PF3D7_1332200	PF3D7_1332200.1	P. falciparum 3D7	Pf3D7_13_v3:1,332,299..1,335,592(+)	conserved protein, unknown function	protein coding	814143
+PF3D7_1333600	PF3D7_1333600.1	P. falciparum 3D7	Pf3D7_13_v3:1,373,390..1,377,397(-)	U3 small nucleolar RNA-associated protein 4, putative	protein coding	814154
+PF3D7_1334100	PF3D7_1334100.1	P. falciparum 3D7	Pf3D7_13_v3:1,392,614..1,395,565(-)	conserved protein, unknown function	protein coding	814159
+PF3D7_1334200	PF3D7_1334200.1	P. falciparum 3D7	Pf3D7_13_v3:1,398,271..1,399,845(+)	chaperone binding protein, putative	protein coding	814160
+PF3D7_1335000	PF3D7_1335000.1	P. falciparum 3D7	Pf3D7_13_v3:1,416,316..1,417,458(-)	MSP7-like protein	protein coding	814165
+PF3D7_1335100	PF3D7_1335100.1	P. falciparum 3D7	Pf3D7_13_v3:1,419,086..1,420,141(-)	merozoite surface protein 7	protein coding	814166
+PF3D7_1335300	PF3D7_1335300.1	P. falciparum 3D7	Pf3D7_13_v3:1,428,874..1,438,852(-)	reticulocyte binding protein 2 homologue b	protein coding	813730
+PF3D7_1335400	PF3D7_1335400.1	P. falciparum 3D7	Pf3D7_13_v3:1,440,779..1,450,385(+)	reticulocyte binding protein 2 homologue a	protein coding	814167
+PF3D7_1335800	PF3D7_1335800.1	P. falciparum 3D7	Pf3D7_13_v3:1,462,180..1,463,991(+)	conserved Plasmodium protein, unknown function	protein coding	814169
+PF3D7_1336700	PF3D7_1336700.1	P. falciparum 3D7	Pf3D7_13_v3:1,482,361..1,482,837(-)	parasitophorous vacuolar protein 3, putative	protein coding	814172
+PF3D7_1337000	PF3D7_1337000.1	P. falciparum 3D7	Pf3D7_13_v3:1,491,265..1,494,308(-)	mitochondrial intermediate peptidase, putative	protein coding	813739
+PF3D7_1337300	PF3D7_1337300.1	P. falciparum 3D7	Pf3D7_13_v3:1,503,015..1,506,022(+)	exoribonuclease, putative	protein coding	814175
+PF3D7_1337700	PF3D7_1337700.1	P. falciparum 3D7	Pf3D7_13_v3:1,525,562..1,527,814(+)	conserved Plasmodium protein, unknown function	protein coding	813742
+PF3D7_1338200	PF3D7_1338200.1	P. falciparum 3D7	Pf3D7_13_v3:1,545,070..1,545,735(-)	60S ribosomal protein L6, putative	protein coding	814180
+PF3D7_1338400	PF3D7_1338400.1	P. falciparum 3D7	Pf3D7_13_v3:1,550,949..1,553,103(-)	SprT-like domain-containing protein, putative	protein coding	813746
+PF3D7_1338600	PF3D7_1338600.1	P. falciparum 3D7	Pf3D7_13_v3:1,556,659..1,559,734(-)	conserved protein, unknown function	protein coding	813748
+PF3D7_1339300	PF3D7_1339300.1	P. falciparum 3D7	Pf3D7_13_v3:1,583,226..1,584,053(+)	conserved Plasmodium protein, unknown function	protein coding	814182
+PF3D7_1339700	PF3D7_1339700.1	P. falciparum 3D7	Pf3D7_13_v3:1,590,510..1,596,320(-)	conserved Plasmodium protein, unknown function	protein coding	813760
+PF3D7_1340000	PF3D7_1340000.1	P. falciparum 3D7	Pf3D7_13_v3:1,601,698..1,603,554(-)	secreted ookinete protein, putative	protein coding	813761
+PF3D7_1340300	PF3D7_1340300.1	P. falciparum 3D7	Pf3D7_13_v3:1,607,323..1,610,190(+)	nucleolar complex protein 2, putative	protein coding	814186
+PF3D7_1340900	PF3D7_1340900.1	P. falciparum 3D7	Pf3D7_13_v3:1,627,311..1,629,480(+)	sodium-dependent phosphate transporter	protein coding	813764
+PF3D7_1341300	PF3D7_1341300.1	P. falciparum 3D7	Pf3D7_13_v3:1,636,556..1,637,833(+)	60S ribosomal protein L18-2, putative	protein coding	813765
+PF3D7_1342000	PF3D7_1342000.1	P. falciparum 3D7	Pf3D7_13_v3:1,653,211..1,654,131(-)	40S ribosomal protein S6	protein coding	814195
+PF3D7_1342400	PF3D7_1342400.1	P. falciparum 3D7	Pf3D7_13_v3:1,666,832..1,668,153(-)	casein kinase II beta chain	protein coding	814199
+PF3D7_1342600	PF3D7_1342600.1	P. falciparum 3D7	Pf3D7_13_v3:1,673,699..1,676,539(+)	myosin A	protein coding	814200
+PF3D7_1343000	PF3D7_1343000.1	P. falciparum 3D7	Pf3D7_13_v3:1,696,894..1,698,113(+)	phosphoethanolamine N-methyltransferase	protein coding	813771
+PF3D7_1343300	PF3D7_1343300.1	P. falciparum 3D7	Pf3D7_13_v3:1,707,731..1,710,679(-)	CDT1-like protein, putative	protein coding	814204
+PF3D7_1344900	PF3D7_1344900.1	P. falciparum 3D7	Pf3D7_13_v3:1,801,271..1,805,737(+)	conserved Plasmodium protein, unknown function	protein coding	813780
+PF3D7_1345800	PF3D7_1345800.1	P. falciparum 3D7	Pf3D7_13_v3:1,831,842..1,834,991(+)	conserved Plasmodium protein, unknown function	protein coding	814209
+PF3D7_1346000	PF3D7_1346000.1	P. falciparum 3D7	Pf3D7_13_v3:1,837,752..1,840,105(-)	dynactin subunit 2, putative	protein coding	813789
+PF3D7_1346100	PF3D7_1346100.1	P. falciparum 3D7	Pf3D7_13_v3:1,843,376..1,844,897(+)	protein transport protein SEC61 subunit alpha	protein coding	813790
+PF3D7_1346300	PF3D7_1346300.1	P. falciparum 3D7	Pf3D7_13_v3:1,849,528..1,850,517(+)	DNA/RNA-binding protein Alba 2	protein coding	813792
+PF3D7_1346400	PF3D7_1346400.1	P. falciparum 3D7	Pf3D7_13_v3:1,852,898..1,870,864(+)	VPS13 domain-containing protein, putative	protein coding	813793
+PF3D7_1347500	PF3D7_1347500.1	P. falciparum 3D7	Pf3D7_13_v3:1,897,983..1,899,362(-)	DNA/RNA-binding protein Alba 4	protein coding	813796
+PF3D7_1348400	PF3D7_1348400.1	P. falciparum 3D7	Pf3D7_13_v3:1,935,596..1,947,380(-)	conserved Plasmodium membrane protein, unknown function	protein coding	814219
+PF3D7_1349300	PF3D7_1349300.1	P. falciparum 3D7	Pf3D7_13_v3:1,977,269..1,982,692(+)	tyrosine kinase-like protein	protein coding	814223
+PF3D7_1349500	PF3D7_1349500.1	P. falciparum 3D7	Pf3D7_13_v3:1,985,337..1,995,614(-)	conserved Plasmodium protein, unknown function	protein coding	813809
+PF3D7_1350500	PF3D7_1350500.1	P. falciparum 3D7	Pf3D7_13_v3:2,015,367..2,018,801(-)	conserved Plasmodium protein, unknown function	protein coding	814230
+PF3D7_1350800	PF3D7_1350800.1	P. falciparum 3D7	Pf3D7_13_v3:2,025,366..2,026,106(-)	conserved Plasmodium protein, unknown function	protein coding	814231
+PF3D7_1351000	PF3D7_1351000.1	P. falciparum 3D7	Pf3D7_13_v3:2,033,838..2,039,882(+)	phosphatidylinositol transfer protein, putative	protein coding	813817
+PF3D7_1351400	PF3D7_1351400.1	P. falciparum 3D7	Pf3D7_13_v3:2,052,108..2,053,384(+)	60S ribosomal protein L17, putative	protein coding	814233
+PF3D7_1351800	PF3D7_1351800.1	P. falciparum 3D7	Pf3D7_13_v3:2,065,373..2,066,409(+)	conserved Plasmodium protein, unknown function	protein coding	814235
+PF3D7_1351800	PF3D7_1351800.2	P. falciparum 3D7	Pf3D7_13_v3:2,065,373..2,066,409(+)	conserved Plasmodium protein, unknown function	protein coding	814235
+PF3D7_1352000	PF3D7_1352000.1	P. falciparum 3D7	Pf3D7_13_v3:2,069,317..2,075,337(+)	GTP-binding protein, putative	protein coding	813824
+PF3D7_1352700	PF3D7_1352700.1	P. falciparum 3D7	Pf3D7_13_v3:2,101,485..2,109,086(+)	intron-binding protein aquarius, putative	protein coding	814238
+PF3D7_1352800	PF3D7_1352800.1	P. falciparum 3D7	Pf3D7_13_v3:2,110,352..2,113,356(+)	vacuolar fusion protein MON1, putative	protein coding	814239
+PF3D7_1352900	PF3D7_1352900.1	P. falciparum 3D7	Pf3D7_13_v3:2,114,157..2,116,211(-)	Plasmodium exported protein, unknown function	protein coding	813829
+PF3D7_1353000	PF3D7_1353000.1	P. falciparum 3D7	Pf3D7_13_v3:2,118,361..2,120,913(-)	tryptophan-rich protein, pseudogene	protein coding	813830
+PF3D7_1353100	PF3D7_1353100.1	P. falciparum 3D7	Pf3D7_13_v3:2,124,272..2,125,270(-)	Plasmodium exported protein, unknown function	protein coding	814240
+PF3D7_1353200	PF3D7_1353200.1	P. falciparum 3D7	Pf3D7_13_v3:2,130,531..2,131,065(+)	membrane associated histidine-rich protein 2	protein coding	814241
+PF3D7_1353300	PF3D7_1353300.1	P. falciparum 3D7	Pf3D7_13_v3:2,132,068..2,138,583(-)	conserved Plasmodium protein, unknown function	protein coding	814242
+PF3D7_1353700	PF3D7_1353700.1	P. falciparum 3D7	Pf3D7_13_v3:2,150,068..2,150,574(+)	reactive oxygen species modulator 1, putative	protein coding	814245
+PF3D7_1354300	PF3D7_1354300.1	P. falciparum 3D7	Pf3D7_13_v3:2,164,239..2,167,416(-)	large subunit rRNA methyltransferase, putative	protein coding	814250
+PF3D7_1354900	PF3D7_1354900.1	P. falciparum 3D7	Pf3D7_13_v3:2,184,037..2,185,950(+)	conserved Plasmodium protein, unknown function	protein coding	814254
+PF3D7_1355700	PF3D7_1355700.1	P. falciparum 3D7	Pf3D7_13_v3:2,206,592..2,210,458(-)	NLI interacting factor-like phosphatase, putative	protein coding	813837
+PF3D7_1357000	PF3D7_1357000.1	P. falciparum 3D7	Pf3D7_13_v3:2,265,817..2,267,148(-)	elongation factor 1-alpha	protein coding	814267
+PF3D7_1357100	PF3D7_1357100.1	P. falciparum 3D7	Pf3D7_13_v3:2,268,901..2,270,232(+)	elongation factor 1-alpha	protein coding	814268
+PF3D7_1357200	PF3D7_1357200.1	P. falciparum 3D7	Pf3D7_13_v3:2,271,537..2,274,083(+)	glutamate--tRNA ligase	protein coding	813843
+PF3D7_1357400	PF3D7_1357400.1	P. falciparum 3D7	Pf3D7_13_v3:2,276,521..2,280,060(+)	conserved Plasmodium protein, unknown function	protein coding	814270
+PF3D7_1358100	PF3D7_1358100.1	P. falciparum 3D7	Pf3D7_13_v3:2,305,436..2,307,640(-)	Sas10 domain-containing protein, putative	protein coding	814273
+PF3D7_1358600	PF3D7_1358600.1	P. falciparum 3D7	Pf3D7_13_v3:2,322,060..2,325,077(+)	zinc finger protein, putative	protein coding	814276
+PF3D7_1359400	PF3D7_1359400.1	P. falciparum 3D7	Pf3D7_13_v3:2,359,251..2,361,198(-)	CUGBP Elav-like family member 1	protein coding	814277
+PF3D7_1359600	PF3D7_1359600.1	P. falciparum 3D7	Pf3D7_13_v3:2,371,882..2,377,959(+)	conserved Plasmodium protein, unknown function	protein coding	813858
+PF3D7_1360700	PF3D7_1360700.1	P. falciparum 3D7	Pf3D7_13_v3:2,426,133..2,431,183(-)	E3 SUMO-protein ligase PIAS, putative	protein coding	813866, 814282
+PF3D7_1360800	PF3D7_1360800.1	P. falciparum 3D7	Pf3D7_13_v3:2,435,343..2,438,924(+)	falcilysin	protein coding	814283
+PF3D7_1361200	PF3D7_1361200.1	P. falciparum 3D7	Pf3D7_13_v3:2,455,261..2,461,424(+)	conserved Plasmodium protein, unknown function	protein coding	813868
+PF3D7_1361800	PF3D7_1361800.1	P. falciparum 3D7	Pf3D7_13_v3:2,473,530..2,481,626(+)	glideosome-associated connector	protein coding	813872
+PF3D7_1362400	PF3D7_1362400.1	P. falciparum 3D7	Pf3D7_13_v3:2,495,924..2,502,070(+)	calpain	protein coding	813875
+PF3D7_1362600	PF3D7_1362600.1	P. falciparum 3D7	Pf3D7_13_v3:2,506,148..2,507,214(+)	conserved protein, unknown function	protein coding	813877
+PF3D7_1364200	PF3D7_1364200.1	P. falciparum 3D7	Pf3D7_13_v3:2,571,845..2,577,286(-)	nucleoporin NUP205, putative	protein coding	814298
+PF3D7_1364400	PF3D7_1364400.1	P. falciparum 3D7	Pf3D7_13_v3:2,585,032..2,594,829(+)	conserved Plasmodium protein, unknown function	protein coding	813889
+PF3D7_1365000	PF3D7_1365000.1	P. falciparum 3D7	Pf3D7_13_v3:2,608,698..2,609,744(+)	conserved Plasmodium protein, unknown function	protein coding	814301
+PF3D7_1365600	PF3D7_1365600.1	P. falciparum 3D7	Pf3D7_13_v3:2,621,261..2,624,000(+)	DNA topoisomerase 6 subunit B, putative	protein coding	813894
+PF3D7_1365700	PF3D7_1365700.1	P. falciparum 3D7	Pf3D7_13_v3:2,624,553..2,626,098(-)	SNARE associated Golgi protein, putative	protein coding	813895
+PF3D7_1365900	PF3D7_1365900.1	P. falciparum 3D7	Pf3D7_13_v3:2,632,534..2,633,260(-)	ubiquitin-60S ribosomal protein L40	protein coding	814305
+PF3D7_1366300	PF3D7_1366300.1	P. falciparum 3D7	Pf3D7_13_v3:2,638,955..2,652,697(-)	conserved Plasmodium protein, unknown function	protein coding	813900
+PF3D7_1366400	PF3D7_1366400.1	P. falciparum 3D7	Pf3D7_13_v3:2,655,277..2,659,065(-)	rhoptry protein RHOP148	protein coding	814307
+PF3D7_1366900	PF3D7_1366900.1	P. falciparum 3D7	Pf3D7_13_v3:2,675,590..2,677,966(+)	conserved protein, unknown function	protein coding	813903
+PF3D7_1367000	PF3D7_1367000.1	P. falciparum 3D7	Pf3D7_13_v3:2,679,415..2,680,425(-)	suppressor of kinetochore protein 1, putative	protein coding	813904
+PF3D7_1367400	PF3D7_1367400.1	P. falciparum 3D7	Pf3D7_13_v3:2,687,561..2,690,701(+)	conserved Plasmodium protein, unknown function	protein coding	814311
+PF3D7_1367700	PF3D7_1367700.1	P. falciparum 3D7	Pf3D7_13_v3:2,695,655..2,699,881(+)	alanine--tRNA ligase	protein coding	814313
+PF3D7_1368100	PF3D7_1368100.1	P. falciparum 3D7	Pf3D7_13_v3:2,710,406..2,711,718(-)	26S proteasome regulatory subunit RPN11, putative	protein coding	813911
+PF3D7_1368200	PF3D7_1368200.1	P. falciparum 3D7	Pf3D7_13_v3:2,713,463..2,715,436(-)	ABC transporter E family member 1, putative	protein coding	813912
+PF3D7_1368400	PF3D7_1368400.1	P. falciparum 3D7	Pf3D7_13_v3:2,719,490..2,721,420(-)	ribosomal protein L1, putative	protein coding	814315
+PF3D7_1369200	PF3D7_1369200.1	P. falciparum 3D7	Pf3D7_13_v3:2,749,595..2,756,107(+)	conserved Plasmodium protein, unknown function	protein coding	813917
+PF3D7_1400100	PF3D7_1400100.1	P. falciparum 3D7	Pf3D7_14_v3:1,393..5,343(+)	erythrocyte membrane protein 1 (PfEMP1), pseudogene	protein coding	811589
+PF3D7_1401100	PF3D7_1401100.1	P. falciparum 3D7	Pf3D7_14_v3:41,289..43,093(-)	DnaJ protein, putative	protein coding	811599
+PF3D7_1401200	PF3D7_1401200.1	P. falciparum 3D7	Pf3D7_14_v3:46,833..47,744(+)	Plasmodium exported protein, unknown function	protein coding	811598
+PF3D7_1402300	PF3D7_1402300.1	P. falciparum 3D7	Pf3D7_14_v3:85,883..87,883(-)	26S proteasome regulatory subunit RPN6	protein coding	811608
+PF3D7_1402500	PF3D7_1402500.1	P. falciparum 3D7	Pf3D7_14_v3:92,264..93,537(-)	ribosomal protein S27a, putative	protein coding	811609
+PF3D7_1402700	PF3D7_1402700.1	P. falciparum 3D7	Pf3D7_14_v3:94,980..98,404(-)	U2 snRNP-associated SURP motif-containing protein, putative	protein coding	811610
+PF3D7_1402800	PF3D7_1402800.1	P. falciparum 3D7	Pf3D7_14_v3:100,847..105,624(+)	conserved Plasmodium protein, unknown function	protein coding	811611
+PF3D7_1403300	PF3D7_1403300.1	P. falciparum 3D7	Pf3D7_14_v3:121,855..125,340(-)	tetratricopeptide repeat protein, putative	protein coding	811613
+PF3D7_1403400	PF3D7_1403400.1	P. falciparum 3D7	Pf3D7_14_v3:125,986..129,877(+)	conserved Plasmodium protein, unknown function	protein coding	811614
+PF3D7_1404900	PF3D7_1404900.1	P. falciparum 3D7	Pf3D7_14_v3:170,000..170,893(+)	conserved Plasmodium protein, unknown function	protein coding	811628
+PF3D7_1405700	PF3D7_1405700.1	P. falciparum 3D7	Pf3D7_14_v3:196,327..198,486(-)	RING zinc finger protein, putative	protein coding	811636
+PF3D7_1405800	PF3D7_1405800.1	P. falciparum 3D7	Pf3D7_14_v3:200,493..204,143(-)	ribosome biogenesis protein BOP1, putative	protein coding	811637
+PF3D7_1406200	PF3D7_1406200.1	P. falciparum 3D7	Pf3D7_14_v3:217,845..226,307(+)	transcription elongation factor SPT6, putative	protein coding	811641
+PF3D7_1407300	PF3D7_1407300.1	P. falciparum 3D7	Pf3D7_14_v3:264,403..267,074(+)	pre-mRNA-splicing factor 38B, putative	protein coding	811652
+PF3D7_1408200	PF3D7_1408200.1	P. falciparum 3D7	Pf3D7_14_v3:300,725..305,833(-)	AP2 domain transcription factor AP2-G2, putative	protein coding	811661
+PF3D7_1409100	PF3D7_1409100.1	P. falciparum 3D7	Pf3D7_14_v3:356,550..360,188(+)	aldo-keto reductase, putative	protein coding	811669
+PF3D7_1409800	PF3D7_1409800.1	P. falciparum 3D7	Pf3D7_14_v3:383,188..384,732(+)	CUGBP Elav-like family member 2, putative	protein coding	811677
+PF3D7_1410400	PF3D7_1410400.1	P. falciparum 3D7	Pf3D7_14_v3:420,442..422,790(+)	rhoptry-associated protein 1	protein coding	811683
+PF3D7_1410800	PF3D7_1410800.1	P. falciparum 3D7	Pf3D7_14_v3:433,951..435,318(+)	ankyrin-repeat protein, putative	protein coding	811687
+PF3D7_1410900	PF3D7_1410900.1	P. falciparum 3D7	Pf3D7_14_v3:437,224..439,466(+)	ribosome maturation protein SBDS, putative	protein coding	811688
+PF3D7_1412100	PF3D7_1412100.1	P. falciparum 3D7	Pf3D7_14_v3:484,438..487,308(+)	mini-chromosome maintenance complex-binding protein, putative	protein coding	811701
+PF3D7_1412400	PF3D7_1412400.1	P. falciparum 3D7	Pf3D7_14_v3:493,971..504,345(-)	conserved Plasmodium protein, unknown function	protein coding	811704
+PF3D7_1412500	PF3D7_1412500.1	P. falciparum 3D7	Pf3D7_14_v3:507,360..508,868(+)	actin II	protein coding	811705
+PF3D7_1412700	PF3D7_1412700.1	P. falciparum 3D7	Pf3D7_14_v3:512,363..516,022(+)	AAA family ATPase, putative	protein coding	811707
+PF3D7_1412900	PF3D7_1412900.1	P. falciparum 3D7	Pf3D7_14_v3:521,209..522,898(+)	ubiquitin-conjugating enzyme E2, putative	protein coding	811709
+PF3D7_1412900	PF3D7_1412900.2	P. falciparum 3D7	Pf3D7_14_v3:521,209..522,898(+)	ubiquitin-conjugating enzyme E2, putative	protein coding	811709
+PF3D7_1413200	PF3D7_1413200.1	P. falciparum 3D7	Pf3D7_14_v3:530,135..531,739(-)	conserved Plasmodium protein, unknown function	protein coding	811712
+PF3D7_1414000	PF3D7_1414000.1	P. falciparum 3D7	Pf3D7_14_v3:553,639..555,772(-)	26S proteasome regulatory subunit RPN13, putative	protein coding	811719
+PF3D7_1414200	PF3D7_1414200.1	P. falciparum 3D7	Pf3D7_14_v3:564,024..565,247(-)	conserved Plasmodium protein, unknown function	protein coding	811721
+PF3D7_1414400	PF3D7_1414400.1	P. falciparum 3D7	Pf3D7_14_v3:575,496..577,055(+)	serine/threonine protein phosphatase PP1	protein coding	811723
+PF3D7_1414500	PF3D7_1414500.1	P. falciparum 3D7	Pf3D7_14_v3:578,369..587,529(-)	atypical protein kinase, ABC-1 family, putative	protein coding	811724
+PF3D7_1415400	PF3D7_1415400.1	P. falciparum 3D7	Pf3D7_14_v3:618,897..623,321(+)	conserved Plasmodium protein, unknown function	protein coding	811733
+PF3D7_1416900	PF3D7_1416900.1	P. falciparum 3D7	Pf3D7_14_v3:685,437..686,368(-)	prefoldin subunit 2, putative	protein coding	811748
+PF3D7_1417200	PF3D7_1417200.1	P. falciparum 3D7	Pf3D7_14_v3:694,585..708,177(+)	NOT family protein, putative	protein coding	811751
+PF3D7_1417500	PF3D7_1417500.1	P. falciparum 3D7	Pf3D7_14_v3:726,979..728,379(-)	H/ACA ribonucleoprotein complex subunit 4, putative	protein coding	811755
+PF3D7_1417700	PF3D7_1417700.1	P. falciparum 3D7	Pf3D7_14_v3:750,330..751,684(+)	conserved protein, unknown function	protein coding	811757
+PF3D7_1417800	PF3D7_1417800.1	P. falciparum 3D7	Pf3D7_14_v3:753,389..756,440(+)	DNA replication licensing factor MCM2	protein coding	811758
+PF3D7_1418000	PF3D7_1418000.1	P. falciparum 3D7	Pf3D7_14_v3:759,360..761,422(-)	ubiquitin fusion degradation protein 1, putative	protein coding	811759
+PF3D7_1419000	PF3D7_1419000.1	P. falciparum 3D7	Pf3D7_14_v3:786,958..790,458(-)	conserved Plasmodium protein, unknown function	protein coding	811765
+PF3D7_1419600	PF3D7_1419600.1	P. falciparum 3D7	Pf3D7_14_v3:815,324..818,245(-)	conserved Plasmodium protein, unknown function	protein coding	811771
+PF3D7_1419700	PF3D7_1419700.1	P. falciparum 3D7	Pf3D7_14_v3:820,068..821,597(+)	conserved Plasmodium protein, unknown function	protein coding	811772
+PF3D7_1420000	PF3D7_1420000.1	P. falciparum 3D7	Pf3D7_14_v3:828,904..830,773(-)	splicing factor 3B subunit 4, putative	protein coding	811775
+PF3D7_1420300	PF3D7_1420300.1	P. falciparum 3D7	Pf3D7_14_v3:843,711..844,619(+)	DNL-type zinc finger protein	protein coding	811778
+PF3D7_1420400	PF3D7_1420400.1	P. falciparum 3D7	Pf3D7_14_v3:846,508..849,177(+)	glycine--tRNA ligase	protein coding	811779
+PF3D7_1420700	PF3D7_1420700.1	P. falciparum 3D7	Pf3D7_14_v3:860,011..863,080(+)	surface protein P113	protein coding	811782
+PF3D7_1423200	PF3D7_1423200.1	P. falciparum 3D7	Pf3D7_14_v3:933,059..935,357(+)	peptidyl-prolyl cis-trans isomerase	protein coding	811805
+PF3D7_1423700	PF3D7_1423700.1	P. falciparum 3D7	Pf3D7_14_v3:959,074..963,750(-)	conserved Plasmodium protein, unknown function	protein coding	811810
+PF3D7_1423800	PF3D7_1423800.1	P. falciparum 3D7	Pf3D7_14_v3:967,563..972,311(+)	vacuolar protein sorting-associated protein 3, putative	protein coding	811811
+PF3D7_1424100	PF3D7_1424100.1	P. falciparum 3D7	Pf3D7_14_v3:973,853..975,543(-)	60S ribosomal protein L5, putative	protein coding	811812
+PF3D7_1424400	PF3D7_1424400.1	P. falciparum 3D7	Pf3D7_14_v3:977,908..979,166(+)	60S ribosomal protein L7-3, putative	protein coding	811813
+PF3D7_1425300	PF3D7_1425300.1	P. falciparum 3D7	Pf3D7_14_v3:985,365..987,755(-)	conserved Plasmodium protein, unknown function	protein coding	811815
+PF3D7_1425900	PF3D7_1425900.1	P. falciparum 3D7	Pf3D7_14_v3:1,012,696..1,014,265(-)	conserved Plasmodium protein, unknown function	protein coding	811821
+PF3D7_1426000	PF3D7_1426000.1	P. falciparum 3D7	Pf3D7_14_v3:1,016,133..1,016,618(-)	60S ribosomal protein L21	protein coding	811822
+PF3D7_1426100	PF3D7_1426100.1	P. falciparum 3D7	Pf3D7_14_v3:1,018,745..1,019,260(-)	transcription factor BTF3, putative	protein coding	811823
+PF3D7_1426700	PF3D7_1426700.1	P. falciparum 3D7	Pf3D7_14_v3:1,036,137..1,039,583(-)	phosphoenolpyruvate carboxylase	protein coding	811828
+PF3D7_1427300	PF3D7_1427300.1	P. falciparum 3D7	Pf3D7_14_v3:1,064,142..1,069,386(+)	conserved Plasmodium protein, unknown function	protein coding	811834
+PF3D7_1427900	PF3D7_1427900.1	P. falciparum 3D7	Pf3D7_14_v3:1,092,936..1,093,781(+)	leucine-rich repeat protein	protein coding	811839
+PF3D7_1428100	PF3D7_1428100.1	P. falciparum 3D7	Pf3D7_14_v3:1,098,038..1,099,951(-)	WW domain-binding protein 11, putative	protein coding	811841
+PF3D7_1428300	PF3D7_1428300.1	P. falciparum 3D7	Pf3D7_14_v3:1,105,200..1,106,514(-)	proliferation-associated protein 2g4, putative	protein coding	811843
+PF3D7_1429100	PF3D7_1429100.1	P. falciparum 3D7	Pf3D7_14_v3:1,142,154..1,143,791(+)	apicoplast ribosomal protein L15 precursor, putative	protein coding	811852
+PF3D7_1429800	PF3D7_1429800.1	P. falciparum 3D7	Pf3D7_14_v3:1,170,829..1,175,293(+)	coatomer subunit beta, putative	protein coding	811859
+PF3D7_1430100	PF3D7_1430100.1	P. falciparum 3D7	Pf3D7_14_v3:1,184,910..1,187,042(+)	serine/threonine protein phosphatase 2A activator	protein coding	811862
+PF3D7_1430300	PF3D7_1430300.1	P. falciparum 3D7	Pf3D7_14_v3:1,191,946..1,199,919(-)	acid phosphatase, putative	protein coding	811864
+PF3D7_1431000	PF3D7_1431000.1	P. falciparum 3D7	Pf3D7_14_v3:1,218,105..1,218,999(-)	mitochondrial ribosomal protein L17-2 precursor, putative	protein coding	811871
+PF3D7_1431300	PF3D7_1431300.1	P. falciparum 3D7	Pf3D7_14_v3:1,231,036..1,233,841(+)	large subunit GTPase 1, putative	protein coding	811874
+PF3D7_1431500	PF3D7_1431500.1	P. falciparum 3D7	Pf3D7_14_v3:1,238,851..1,241,595(-)	mitogen-activated protein kinase 1	protein coding	811876
+PF3D7_1432600	PF3D7_1432600.1	P. falciparum 3D7	Pf3D7_14_v3:1,285,667..1,289,254(-)	conserved Plasmodium protein, unknown function	protein coding	811890
+PF3D7_1433400	PF3D7_1433400.1	P. falciparum 3D7	Pf3D7_14_v3:1,312,304..1,329,577(-)	zinc finger protein, putative	protein coding	811897
+PF3D7_1433500	PF3D7_1433500.1	P. falciparum 3D7	Pf3D7_14_v3:1,332,363..1,337,301(-)	DNA topoisomerase 2	protein coding	811898
+PF3D7_1433800	PF3D7_1433800.1	P. falciparum 3D7	Pf3D7_14_v3:1,350,313..1,358,379(-)	conserved Plasmodium protein, unknown function	protein coding	811901
+PF3D7_1434200	PF3D7_1434200.1	P. falciparum 3D7	Pf3D7_14_v3:1,368,815..1,369,796(-)	calmodulin	protein coding	811905
+PF3D7_1434300	PF3D7_1434300.1	P. falciparum 3D7	Pf3D7_14_v3:1,372,903..1,374,597(+)	Hsp70/Hsp90 organizing protein	protein coding	811906
+PF3D7_1434400	PF3D7_1434400.1	P. falciparum 3D7	Pf3D7_14_v3:1,375,624..1,376,830(-)	conserved protein, unknown function	protein coding	811907
+PF3D7_1434500	PF3D7_1434500.1	P. falciparum 3D7	Pf3D7_14_v3:1,378,348..1,402,665(-)	dynein-related AAA-type ATPase, putative	protein coding	811908
+PF3D7_1434800	PF3D7_1434800.1	P. falciparum 3D7	Pf3D7_14_v3:1,410,139..1,410,897(+)	mitochondrial acidic protein MAM33, putative	protein coding	811911
+PF3D7_1435300	PF3D7_1435300.1	P. falciparum 3D7	Pf3D7_14_v3:1,421,901..1,431,221(-)	glutamate synthase [NADH], putative	protein coding	811916
+PF3D7_1435600	PF3D7_1435600.1	P. falciparum 3D7	Pf3D7_14_v3:1,437,511..1,442,877(-)	conserved Plasmodium protein, unknown function	protein coding	811919
+PF3D7_1435700	PF3D7_1435700.1	P. falciparum 3D7	Pf3D7_14_v3:1,445,085..1,449,491(-)	ataxin-2 like protein, putative	protein coding	811920
+PF3D7_1435700	PF3D7_1435700.2	P. falciparum 3D7	Pf3D7_14_v3:1,445,085..1,449,491(-)	ataxin-2 like protein, putative	protein coding	811920
+PF3D7_1436000	PF3D7_1436000.1	P. falciparum 3D7	Pf3D7_14_v3:1,458,131..1,459,870(+)	glucose-6-phosphate isomerase	protein coding	811923
+PF3D7_1436100	PF3D7_1436100.1	P. falciparum 3D7	Pf3D7_14_v3:1,461,388..1,467,590(+)	conserved Plasmodium membrane protein, unknown function	protein coding	811924
+PF3D7_1436200	PF3D7_1436200.1	P. falciparum 3D7	Pf3D7_14_v3:1,467,629..1,474,438(-)	conserved Plasmodium protein, unknown function	protein coding	811925
+PF3D7_1436300	PF3D7_1436300.1	P. falciparum 3D7	Pf3D7_14_v3:1,479,777..1,482,758(+)	translocon component PTEX150	protein coding	811926
+PF3D7_1437200	PF3D7_1437200.1	P. falciparum 3D7	Pf3D7_14_v3:1,507,359..1,510,089(-)	ribonucleoside-diphosphate reductase large subunit, putative	protein coding	811934
+PF3D7_1437900	PF3D7_1437900.1	P. falciparum 3D7	Pf3D7_14_v3:1,533,329..1,534,947(+)	HSP40, subfamily A	protein coding	811941
+PF3D7_1438000	PF3D7_1438000.1	P. falciparum 3D7	Pf3D7_14_v3:1,536,484..1,538,469(-)	eukaryotic translation initiation factor eIF2A, putative	protein coding	811942
+PF3D7_1438400	PF3D7_1438400.1	P. falciparum 3D7	Pf3D7_14_v3:1,548,918..1,556,721(+)	metacaspase-2	protein coding	811945
+PF3D7_1438900	PF3D7_1438900.1	P. falciparum 3D7	Pf3D7_14_v3:1,575,984..1,576,571(+)	thioredoxin peroxidase 1	protein coding	811950
+PF3D7_1439300	PF3D7_1439300.1	P. falciparum 3D7	Pf3D7_14_v3:1,594,505..1,600,061(+)	Sad1/UNC domain-containing protein, putative	protein coding	811954
+PF3D7_1439500	PF3D7_1439500.1	P. falciparum 3D7	Pf3D7_14_v3:1,608,519..1,611,743(+)	oocyst rupture protein 2, putative	protein coding	811956
+PF3D7_1440100	PF3D7_1440100.1	P. falciparum 3D7	Pf3D7_14_v3:1,633,211..1,636,255(-)	conserved Plasmodium protein, unknown function	protein coding	811962
+PF3D7_1441100	PF3D7_1441100.1	P. falciparum 3D7	Pf3D7_14_v3:1,673,386..1,674,069(-)	conserved Plasmodium protein, unknown function	protein coding	811972
+PF3D7_1441200	PF3D7_1441200.1	P. falciparum 3D7	Pf3D7_14_v3:1,678,662..1,679,486(+)	60S ribosomal protein L1, putative	protein coding	811973
+PF3D7_1441300	PF3D7_1441300.1	P. falciparum 3D7	Pf3D7_14_v3:1,681,791..1,689,157(+)	serine/threonine protein kinase, putative	protein coding	811974
+PF3D7_1441400	PF3D7_1441400.1	P. falciparum 3D7	Pf3D7_14_v3:1,690,993..1,692,513(+)	FACT complex subunit SSRP1, putative	protein coding	811975
+PF3D7_1442400	PF3D7_1442400.1	P. falciparum 3D7	Pf3D7_14_v3:1,717,171..1,723,512(+)	conserved Plasmodium protein, unknown function	protein coding	811984
+PF3D7_1442900	PF3D7_1442900.1	P. falciparum 3D7	Pf3D7_14_v3:1,753,510..1,763,664(+)	protein transport protein SEC7, putative	protein coding	811989
+PF3D7_1443100	PF3D7_1443100.1	P. falciparum 3D7	Pf3D7_14_v3:1,769,626..1,771,350(-)	conserved Plasmodium protein, unknown function	protein coding	811991
+PF3D7_1443600	PF3D7_1443600.1	P. falciparum 3D7	Pf3D7_14_v3:1,784,933..1,790,629(-)	gamma-tubulin complex component, putative	protein coding	811996
+PF3D7_1444800	PF3D7_1444800.1	P. falciparum 3D7	Pf3D7_14_v3:1,844,041..1,845,617(-)	fructose-bisphosphate aldolase	protein coding	812007
+PF3D7_1445400	PF3D7_1445400.1	P. falciparum 3D7	Pf3D7_14_v3:1,862,775..1,865,420(-)	protein serine/threonine kinase-1	protein coding	812013
+PF3D7_1445700	PF3D7_1445700.1	P. falciparum 3D7	Pf3D7_14_v3:1,875,421..1,876,874(-)	conserved Plasmodium protein, unknown function	protein coding	812016
+PF3D7_1445900	PF3D7_1445900.1	P. falciparum 3D7	Pf3D7_14_v3:1,885,443..1,888,323(+)	ATP-dependent RNA helicase DDX5, putative	protein coding	812019
+PF3D7_1446500	PF3D7_1446500.1	P. falciparum 3D7	Pf3D7_14_v3:1,907,197..1,916,202(+)	nucleoporin NUP313, putative	protein coding	812024
+PF3D7_1446600	PF3D7_1446600.1	P. falciparum 3D7	Pf3D7_14_v3:1,917,232..1,918,010(-)	centrin-2	protein coding	812025
+PF3D7_1447000	PF3D7_1447000.1	P. falciparum 3D7	Pf3D7_14_v3:1,929,931..1,931,379(+)	40S ribosomal protein S5	protein coding	812030
+PF3D7_1447200	PF3D7_1447200.1	P. falciparum 3D7	Pf3D7_14_v3:1,933,985..1,935,775(+)	conserved protein, unknown function	protein coding	812032
+PF3D7_1447800	PF3D7_1447800.1	P. falciparum 3D7	Pf3D7_14_v3:1,947,246..1,953,206(+)	calponin homology domain-containing protein, putative	protein coding	812036
+PF3D7_1448300	PF3D7_1448300.1	P. falciparum 3D7	Pf3D7_14_v3:1,972,498..1,977,423(-)	conserved protein, unknown function	protein coding	812043
+PF3D7_1448500	PF3D7_1448500.1	P. falciparum 3D7	Pf3D7_14_v3:1,984,189..1,995,574(-)	conserved Plasmodium protein, unknown function	protein coding	812045
+PF3D7_1448600	PF3D7_1448600.1	P. falciparum 3D7	Pf3D7_14_v3:1,997,542..1,998,303(-)	SNARE protein, putative	protein coding	812046
+PF3D7_1449400	PF3D7_1449400.1	P. falciparum 3D7	Pf3D7_14_v3:2,020,209..2,024,137(-)	crossover junction endonuclease MUS81, putative	protein coding	812052
+PF3D7_1449800	PF3D7_1449800.1	P. falciparum 3D7	Pf3D7_14_v3:2,043,009..2,043,542(+)	conserved protein, unknown function	protein coding	812056
+PF3D7_1450300	PF3D7_1450300.1	P. falciparum 3D7	Pf3D7_14_v3:2,056,641..2,059,238(+)	NADPH--cytochrome P450 reductase, putative	protein coding	812060
+PF3D7_1450700	PF3D7_1450700.1	P. falciparum 3D7	Pf3D7_14_v3:2,078,488..2,080,350(+)	conserved Plasmodium protein, unknown function	protein coding	812064
+PF3D7_1451100	PF3D7_1451100.1	P. falciparum 3D7	Pf3D7_14_v3:2,090,902..2,093,400(+)	elongation factor 2	protein coding	812068
+PF3D7_1451200	PF3D7_1451200.1	P. falciparum 3D7	Pf3D7_14_v3:2,094,340..2,099,736(-)	conserved Plasmodium protein, unknown function	protein coding	812069
+PF3D7_1451700	PF3D7_1451700.1	P. falciparum 3D7	Pf3D7_14_v3:2,118,947..2,120,280(-)	calcineurin subunit B	protein coding	812074
+PF3D7_1451800	PF3D7_1451800.1	P. falciparum 3D7	Pf3D7_14_v3:2,123,461..2,126,599(+)	sortilin	protein coding	812075
+PF3D7_1451900	PF3D7_1451900.1	P. falciparum 3D7	Pf3D7_14_v3:2,128,168..2,131,257(-)	ribosome biogenesis protein TSR1, putative	protein coding	812076
+PF3D7_1452000	PF3D7_1452000.1	P. falciparum 3D7	Pf3D7_14_v3:2,134,298..2,140,867(+)	rhoptry neck protein 2	protein coding	812077
+PF3D7_1452400	PF3D7_1452400.1	P. falciparum 3D7	Pf3D7_14_v3:2,148,421..2,151,123(+)	conserved Plasmodium protein, unknown function	protein coding	812081
+PF3D7_1452500	PF3D7_1452500.1	P. falciparum 3D7	Pf3D7_14_v3:2,151,823..2,153,614(-)	syntaxin-6, putative	protein coding	812082
+PF3D7_1453700	PF3D7_1453700.1	P. falciparum 3D7	Pf3D7_14_v3:2,207,027..2,208,320(+)	HSP90 co-chaperone p23	protein coding	812092
+PF3D7_1454400	PF3D7_1454400.1	P. falciparum 3D7	Pf3D7_14_v3:2,234,143..2,236,476(+)	aminopeptidase P	protein coding	812099
+PF3D7_1455300	PF3D7_1455300.1	P. falciparum 3D7	Pf3D7_14_v3:2,259,465..2,261,297(+)	conserved protein, unknown function	protein coding	812109
+PF3D7_1455500	PF3D7_1455500.1	P. falciparum 3D7	Pf3D7_14_v3:2,267,201..2,270,851(+)	AP-1 complex subunit gamma, putative	protein coding	812111
+PF3D7_1455700	PF3D7_1455700.1	P. falciparum 3D7	Pf3D7_14_v3:2,278,701..2,282,162(-)	conserved Plasmodium protein, unknown function	protein coding	812113
+PF3D7_1456700	PF3D7_1456700.1	P. falciparum 3D7	Pf3D7_14_v3:2,323,772..2,325,826(-)	conserved Plasmodium protein, unknown function	protein coding	812122
+PF3D7_1456800	PF3D7_1456800.1	P. falciparum 3D7	Pf3D7_14_v3:2,329,933..2,332,086(-)	V-type H(+)-translocating pyrophosphatase, putative	protein coding	812123
+PF3D7_1457200	PF3D7_1457200.1	P. falciparum 3D7	Pf3D7_14_v3:2,343,640..2,344,218(-)	thioredoxin 1	protein coding	812127
+PF3D7_1457400	PF3D7_1457400.1	P. falciparum 3D7	Pf3D7_14_v3:2,350,985..2,360,152(+)	conserved Plasmodium protein, unknown function	protein coding	812129
+PF3D7_1458300	PF3D7_1458300.1	P. falciparum 3D7	Pf3D7_14_v3:2,391,783..2,396,831(-)	conserved Plasmodium protein, unknown function	protein coding	812138
+PF3D7_1458500	PF3D7_1458500.1	P. falciparum 3D7	Pf3D7_14_v3:2,400,515..2,405,411(+)	spindle assembly abnormal protein 4, putative	protein coding	812140
+PF3D7_1459600	PF3D7_1459600.1	P. falciparum 3D7	Pf3D7_14_v3:2,441,345..2,443,896(+)	conserved Plasmodium protein, unknown function	protein coding	812151
+PF3D7_1460500	PF3D7_1460500.1	P. falciparum 3D7	Pf3D7_14_v3:2,466,091..2,470,989(+)	conserved Plasmodium protein, unknown function	protein coding	812159
+PF3D7_1460800	PF3D7_1460800.1	P. falciparum 3D7	Pf3D7_14_v3:2,477,828..2,479,735(-)	snRNA-activating protein complex subunit 3, putative	protein coding	812162
+PF3D7_1461400	PF3D7_1461400.1	P. falciparum 3D7	Pf3D7_14_v3:2,493,400..2,494,762(-)	MORN repeat protein, putative	protein coding	812168
+PF3D7_1461600	PF3D7_1461600.1	P. falciparum 3D7	Pf3D7_14_v3:2,498,047..2,500,384(-)	splicing factor 3B subunit 2, putative	protein coding	812169
+PF3D7_1461800	PF3D7_1461800.1	P. falciparum 3D7	Pf3D7_14_v3:2,504,149..2,512,505(+)	conserved Plasmodium protein, unknown function	protein coding	812170
+PF3D7_1462400	PF3D7_1462400.1	P. falciparum 3D7	Pf3D7_14_v3:2,531,432..2,541,400(-)	conserved Plasmodium protein, unknown function	protein coding	812176
+PF3D7_1462800	PF3D7_1462800.1	P. falciparum 3D7	Pf3D7_14_v3:2,559,098..2,560,347(+)	glyceraldehyde-3-phosphate dehydrogenase	protein coding	812180
+PF3D7_1463400	PF3D7_1463400.1	P. falciparum 3D7	Pf3D7_14_v3:2,575,326..2,576,336(+)	DNA-directed RNA polymerase III subunit RPC4, putative	protein coding	812185
+PF3D7_1463900	PF3D7_1463900.1	P. falciparum 3D7	Pf3D7_14_v3:2,584,575..2,589,782(-)	EF-hand calcium-binding domain-containing protein, putative	protein coding	812189
+PF3D7_1464000	PF3D7_1464000.1	P. falciparum 3D7	Pf3D7_14_v3:2,592,002..2,594,119(-)	YL1 nuclear protein, putative	protein coding	812190
+PF3D7_1464500	PF3D7_1464500.1	P. falciparum 3D7	Pf3D7_14_v3:2,607,292..2,617,621(+)	conserved Plasmodium membrane protein, unknown function	protein coding	812195
+PF3D7_1464600	PF3D7_1464600.1	P. falciparum 3D7	Pf3D7_14_v3:2,619,679..2,624,187(+)	serine/threonine protein phosphatase UIS2, putative	protein coding	812196
+PF3D7_1465100	PF3D7_1465100.1	P. falciparum 3D7	Pf3D7_14_v3:2,637,566..2,640,169(+)	conserved oligomeric Golgi complex subunit 6, putative	protein coding	812200
+PF3D7_1466200	PF3D7_1466200.1	P. falciparum 3D7	Pf3D7_14_v3:2,694,813..2,704,049(-)	early gametocyte enriched phosphoprotein EGXP	protein coding	812213
+PF3D7_1466300	PF3D7_1466300.1	P. falciparum 3D7	Pf3D7_14_v3:2,709,418..2,713,192(+)	26S proteasome regulatory subunit RPN2, putative	protein coding	812214
+PF3D7_1466400	PF3D7_1466400.1	P. falciparum 3D7	Pf3D7_14_v3:2,714,844..2,717,285(-)	AP2 domain transcription factor AP2-EXP	protein coding	812215
+PF3D7_1466800	PF3D7_1466800.1	P. falciparum 3D7	Pf3D7_14_v3:2,731,986..2,734,694(+)	conserved Plasmodium protein, unknown function	protein coding	812218
+PF3D7_1466900	PF3D7_1466900.1	P. falciparum 3D7	Pf3D7_14_v3:2,736,908..2,741,325(+)	conserved Plasmodium protein, unknown function	protein coding	812219
+PF3D7_1467600	PF3D7_1467600.1	P. falciparum 3D7	Pf3D7_14_v3:2,757,665..2,764,150(-)	conserved Plasmodium protein, unknown function	protein coding	812226
+PF3D7_1467900	PF3D7_1467900.1	P. falciparum 3D7	Pf3D7_14_v3:2,771,101..2,776,308(+)	rab GTPase activator, putative	protein coding	812229
+PF3D7_1468100	PF3D7_1468100.1	P. falciparum 3D7	Pf3D7_14_v3:2,786,308..2,794,323(-)	kelch domain-containing protein, putative	protein coding	812231
+PF3D7_1468200	PF3D7_1468200.1	P. falciparum 3D7	Pf3D7_14_v3:2,802,508..2,803,188(+)	telomere length and silencing protein 1, putative	protein coding	812232
+PF3D7_1468400	PF3D7_1468400.1	P. falciparum 3D7	Pf3D7_14_v3:2,809,478..2,812,066(+)	zinc finger protein, putative	protein coding	812234
+PF3D7_1468700	PF3D7_1468700.1	P. falciparum 3D7	Pf3D7_14_v3:2,825,370..2,826,918(+)	eukaryotic initiation factor 4A	protein coding	812237
+PF3D7_1468800	PF3D7_1468800.1	P. falciparum 3D7	Pf3D7_14_v3:2,827,942..2,830,443(-)	splicing factor U2AF large subunit, putative	protein coding	812238
+PF3D7_1469900	PF3D7_1469900.1	P. falciparum 3D7	Pf3D7_14_v3:2,866,358..2,868,183(+)	protein MGET	protein coding	812249
+PF3D7_1470600	PF3D7_1470600.1	P. falciparum 3D7	Pf3D7_14_v3:2,886,888..2,888,659(-)	RAP protein, putative	protein coding	812255
+PF3D7_1471100	PF3D7_1471100.1	P. falciparum 3D7	Pf3D7_14_v3:2,905,163..2,906,565(-)	exported protein 2	protein coding	812260
+PF3D7_1471200	PF3D7_1471200.1	P. falciparum 3D7	Pf3D7_14_v3:2,912,386..2,915,354(+)	inorganic anion exchanger, inorganic anion antiporter	protein coding	812261
+PF3D7_1472200	PF3D7_1472200.1	P. falciparum 3D7	Pf3D7_14_v3:2,945,662..2,952,551(+)	histone deacetylase, putative	protein coding	812272
+PF3D7_1473200	PF3D7_1473200.1	P. falciparum 3D7	Pf3D7_14_v3:2,981,600..2,982,964(+)	DnaJ protein, putative	protein coding	812282
+PF3D7_1473700	PF3D7_1473700.1	P. falciparum 3D7	Pf3D7_14_v3:2,998,594..3,002,355(-)	nucleoporin NUP116/NSP116, putative	protein coding	812288
+PF3D7_1473900	PF3D7_1473900.1	P. falciparum 3D7	Pf3D7_14_v3:3,007,601..3,010,159(+)	conserved Plasmodium protein, unknown function	protein coding	812289
+PF3D7_1474000	PF3D7_1474000.1	P. falciparum 3D7	Pf3D7_14_v3:3,011,585..3,017,899(-)	conserved Plasmodium protein, unknown function	protein coding	812290
+PF3D7_1475600	PF3D7_1475600.1	P. falciparum 3D7	Pf3D7_14_v3:3,112,509..3,114,698(-)	bromodomain protein, putative	protein coding	812306
+PF3D7_1475800	PF3D7_1475800.1	P. falciparum 3D7	Pf3D7_14_v3:3,120,854..3,121,849(+)	conserved Plasmodium protein, unknown function	protein coding	812308
+PF3D7_1475900	PF3D7_1475900.1	P. falciparum 3D7	Pf3D7_14_v3:3,124,337..3,126,709(+)	KELT protein	protein coding	812309
+PF3D7_1476200	PF3D7_1476200.1	P. falciparum 3D7	Pf3D7_14_v3:3,133,951..3,135,651(+)	Plasmodium exported protein (PHISTb), unknown function	protein coding	812312
+PF3D7_1476500	PF3D7_1476500.1	P. falciparum 3D7	Pf3D7_14_v3:3,147,490..3,148,584(+)	probable protein, unknown function	protein coding	812317
+PF3D7_1477500	PF3D7_1477500.1	P. falciparum 3D7	Pf3D7_14_v3:3,188,888..3,190,548(+)	Plasmodium exported protein (PHISTb), unknown function	protein coding	812328
+PF3D7_1478600	PF3D7_1478600.1	P. falciparum 3D7	Pf3D7_14_v3:3,232,639..3,236,535(+)	EMP1-trafficking protein	protein coding	812339	
