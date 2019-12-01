@@ -44,7 +44,7 @@ data()
 
 8. Consider the following formula to calculate the number of mortgage payment terms:
 
-$$n = \frac{ln(\frac{i}{\frac{M}{P} - 1}) + 1}{ln(1 + i)}$$
+![](images/formula.png)
 
 In this equation, $M$ represents the monthly payment amount, $P$ the starting deposit, and $i$ the (monthly) interest rate. Please calculate the number of payment terms n for a mortgage with a principle balance of 200,000, monthly interest rate of 0.5%, and monthly payment amount of 2000.
 
